@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Headers_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c5baa1dd501832f46b5693b8146e42c3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13302206464
+    m_Localized: Derechos de las personas empleadas de hogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 752338571264
+    m_Localized: "P\xEDldoras informativas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769765904384
+    m_Localized: Recursos laborales para personas empleadas del hogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774522245120
+    m_Localized: "Solicitud de asesor\xEDa privada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1697751470080
+    m_Localized: "\xBFQu\xE9 es el empleo del hogar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723068289024
+    m_Localized: Normativa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1734652956672
+    m_Localized: "Alta en Seguridad Social y contrataci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1746812243968
+    m_Localized: "Tabla salarial y bases de cotizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1759420321792
+    m_Localized: Jornada laboral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775568392192
+    m_Localized: Vacaciones, festivos y permisos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788348436480
+    m_Localized: Bajas laborales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1800025378816
+    m_Localized: "Finalizaci\xF3n de la relaci\xF3n laboral"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816861315072
+    m_Localized: Desempleo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2339870052352
+    m_Localized: "Estimulaci\xF3n cognitiva y prevenci\xF3n del deterioro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2368831721472
+    m_Localized: "T\xE9cnicas de limpieza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2379267149824
+    m_Localized: "Manipulaci\xF3n de alimentos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2390302363648
+    m_Localized: "Prevenci\xF3n de enfermedades contagiosas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2399005544448
+    m_Localized: "T\xE9cnicas en primeros auxilios"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2410913173504
+    m_Localized: "Desinfecci\xF3n de heridas leves"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2422820802560
+    m_Localized: "Manipulaci\xF3n de personas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2432794857472
+    m_Localized: "Uso y manejo de gr\xFAas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447021936640
+    m_Localized: "Enfermedades cr\xF3nicas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2460573732864
+    m_Localized: Entendiendo los cuidados paliativos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2477120262144
+    m_Localized: "Gesti\xF3n del estr\xE9s en personas cuidadoras"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488222584832
+    m_Localized: "Prevenci\xF3n de riesgos laborales en el sector"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2502781014016
+    m_Localized: "La igualdad de g\xE9nero en el cuidado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3485288337408
+    m_Localized: "C\xF3rdoba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3519891345408
+    m_Localized: Sevilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3595413983232
+    m_Localized: Ayuda a domicilio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658404040704
+    m_Localized: Limpieza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769643763437568
+    m_Localized: "Recursos laborales para personas empleadas del hogar (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769698117423104
+    m_Localized: Recursos laborales para personas empleadas del hogar (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802205810528256
+    m_Localized: "Limpieza (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802306306052096
+    m_Localized: Limpieza (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802155491463168
+    m_Localized: "Ayuda a domicilio (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802229999079424
+    m_Localized: Ayuda a domicilio (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956625500213248
+    m_Localized: Empresas colaboradoras
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

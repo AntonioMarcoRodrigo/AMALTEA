@@ -1,0 +1,669 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen1_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 5e1757ac237a7fa41b47d62877e72e33, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38811963392
+    m_Localized: "<color=#610078><size=60>\xBFQu\xE9 es el empleo en el Servicio
+      del Hogar Familiar?</color></size>\r\n\r\n\tEs la relaci\xF3n laboral especial
+      entre dos personas, una de ellas como titular del hogar familiar que contrata,
+      y la otra es la persona empleada que presta servicios retribuidos en el \xE1mbito
+      del hogar familiar. \r\n\r\n<color=#610078><size=60>\xBFQui\xE9n puede emplear?</color></size>\r\n\r\nPueden
+      emplear:\r\n\r\n\u25CF\tLa persona titular del hogar familiar o del domicilio
+      donde se presten los servicios\r\n\r\n\u25CF\tLa persona titular de la vivienda
+      cuando en ella convivan dos o m\xE1s personas sin constituir una familia ni
+      una persona jur\xEDdica\r\n\r\n<color=#610078><size=60>Objeto de la relaci\xF3n
+      laboral</color></size>\r\n\r\n\tLas personas que trabajan en el servicio del
+      empleo del hogar pueden realizar las siguientes funciones:\r\n\r\n\u25CF\tTareas
+      dom\xE9sticas\r\n\r\n\u25CF\tDirecci\xF3n y cuidado del hogar en su conjunto
+      o alguna de sus partes\r\n\r\n\u25CF\tCuidado o atenci\xF3n a los miembros
+      de la familia (menores, mayores, dependientes\u2026)\r\n\r\n\u25CF\tOtros:
+      jardiner\xEDa, vigilancia de la casa\u2026\r\n\r\n<color=#610078><size=60>Realidad
+      laboral de las personas empleadas del hogar: desaf\xEDos y vulnerabilidades</color></size>\r\n\r\n\tA
+      nivel mundial, la mayor\xEDa de personas empleadas del hogar son mujeres, representando
+      el 76.2% del total, aunque tambi\xE9n hay hombres en esta ocupaci\xF3n. El
+      81% trabaja en la econom\xEDa sumergida, con condiciones laborales dif\xEDciles
+      y salarios bajos. Adem\xE1s, son m\xE1s propensos a sufrir violencia, acoso
+      y restricciones a su libertad de movimiento.\r\n\r\nFUENTES: \r\n\r\n<color=blue><u><link=https://tinyurl.com/mumkkt98>https://tinyurl.com/mumkkt98</link>\r\n\r\n<link=https://www.nadiesinfuturo.org/IMG/pdf/FOLLETO_SERVICIO_HOGAR_FAMILIAR.pdf>https://www.nadiesinfuturo.org/IMG/pdf/FOLLETO_SERVICIO_HOGAR_FAMILIAR.pdf</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/ambito-aplicacion/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/ambito-aplicacion/index.htm</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/index.htm</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78779486208
+    m_Localized: "<color=#610078><size=60>Normativa</color></size>\r\n\r\n\u25CF\tLey
+      27/2011, de 1 de agosto, sobre actualizaci\xF3n, adecuaci\xF3n y modernizaci\xF3n
+      del sistema de Seguridad Social.\r\n\r\n<color=blue><u><link=https://tinyurl.com/8fhcbkk6>https://tinyurl.com/8fhcbkk6</link></u></color>\r\n\r\n\u25CF\tReal
+      Decreto 1620/2011, de 14 de noviembre, por el que se regula la relaci\xF3n
+      laboral de car\xE1cter especial del servicio del hogar familiar.\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2011/BOE-A-2011-17975-consolidado.pdf>https://www.boe.es/buscar/pdf/2011/BOE-A-2011-17975-consolidado.pdf</link></u></color>\r\n\r\n\u25CF\tReal
+      Decreto Legislativo 2/2015, de 23 de octubre, Estatuto de los Trabajadores\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf>link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf</link></u></color>\r\n\r\n\u25CF\tReal
+      Decreto - ley 29/2012, de 28 de diciembre, de mejora de gesti\xF3n y protecci\xF3n
+      social en el Sistema Especial para Empleados de Hogar y otras medidas de car\xE1cter
+      econ\xF3mico y social.\r\n\r\n<color=blue><u><link=https://www.boe.es/boe/dias/2012/12/31/pdfs/BOE-A-2012-15764.pdf>link=https://www.boe.es/boe/dias/2012/12/31/pdfs/BOE-A-2012-15764.pdf</link></u></color>\r\n\r\n\u25CF\tReal
+      Decreto - ley 16/2022, de 6 de septiembre, para la mejora de las condiciones
+      de trabajo y de Seguridad Social de Social de las personas trabajadoras al
+      servicio del hogar\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2022/BOE-A-2022-14680-consolidado.pdf>link=https://www.boe.es/buscar/pdf/2022/BOE-A-2022-14680-consolidado.pdf</link></u></color>\r\n\r\n\u25CF\tIV
+      Convenio Colectivo Provincial de Ayuda a Domicilio de Sevilla \r\n\r\n<color=blue><u><link=https://tinyurl.com/547d4pr2>https://tinyurl.com/547d4pr2</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90485788672
+    m_Localized: "<color=#610078><size=60>Solicitud del alta</color></size>\r\n\r\n\tLas
+      personas que emplean tienen la responsabilidad legal de solicitar y firmar
+      el alta de las personas empleadas en el Sistema Especial de Empleo del Hogar.
+      Esta obligaci\xF3n se extiende a la presentaci\xF3n y firma de las bajas y
+      las variaciones de datos relacionadas con la situaci\xF3n laboral del personal.\r\n\r\n\tLas
+      personas empleadoras est\xE1n obligadas a solicitar y firmar el alta, baja
+      y las variaciones de datos de su personal laboral. Si se incumple esta obligaci\xF3n,
+      la persona empleada podr\xE1 pedir directamente su afiliaci\xF3n a la Tesorer\xEDa
+      General de la Seguridad Social (TGSS).\r\n\r\n\tSe solicita en las Administraciones
+      de la Tesorer\xEDa General de la Seguridad Social, con antelaci\xF3n al comienzo
+      de la actividad laboral.\r\n\r\n\tLa solicitud de baja y variaciones de datos
+      se presentar\xE1n dentro del plazo de los 3 d\xEDas naturales siguientes al
+      del cese del trabajo o de aquel en que la variaci\xF3n se produzca dentro de
+      la plataforma Import@ss.\r\n\r\n<color=#610078><size=60>Import@ss</color></size>\r\n\r\n\tDar
+      de alta a una persona en el Sistema Especial de Empleo de Hogar es m\xE1s f\xE1cil
+      que nunca gracias a Import@ss, el nuevo portal de la Tesorer\xEDa General de
+      la Seguridad Social (TGSS) que permite completar el tr\xE1mite en tan s\xF3lo
+      9 pasos y sin aportar documentaci\xF3n, aunque tendremos que tener preparados
+      una serie de datos. Podr\xE1s hacerlo en cualquier momento, desde cualquier
+      ordenador o dispositivo m\xF3vil con conexi\xF3n a internet.\r\n\r\n\tPuedes
+      acceder a Import@ss directamente desde este enlace o desde los accesos habilitados
+      en la web, la sede electr\xF3nica y la aplicaci\xF3n para dispositivos m\xF3viles
+      de la Seguridad Social. Para solicitar el alta deber\xE1s identificarte a trav\xE9s
+      de los siguientes m\xE9todos:\r\n\r\n\u25CF\tCertificado electr\xF3nico\r\n\r\n\u25CF\tCl@ve\r\n\r\n\u25CF\tV\xEDa
+      SMS\r\n\r\n<color=blue><u><link=https://portal.seg-social.gob.es/wps/portal/importass/importass>https://portal.seg-social.gob.es/wps/portal/importass/importass</link></u></color>\r\n\r\n\tHasta
+      ahora, las relaciones de empleo de hogar representaban un alto porcentaje de
+      tramitaci\xF3n presencial y dificultades en su tramitaci\xF3n digital ya que
+      pod\xEDan requerir de hasta tres tr\xE1mites adicionales a la propia alta,
+      si el trabajador y/o el empleador no disponen de N\xFAmero de la Seguridad
+      Social (NUSS) y el empleador no tiene C\xF3digo de Cuenta de Cotizaci\xF3n
+      (CCC).\r\n\r\n\tEn Import@ss el tr\xE1mite se adapta a las circunstancias del/a
+      usuari@, creando el N\xFAmero de la Seguridad Social y el C\xF3digo de Cuenta
+      de Cotizaci\xF3n si fueran necesarios. El proceso est\xE1 dise\xF1ado para
+      que el usuario, desde el \xE1rea p\xFAblica o personal, pueda completar un
+      alta en un \xFAnico flujo con un m\xE1ximo de 9 pasos, divididos por el tipo
+      de informaci\xF3n solicitada al usuario.\r\n\r\n<color=#610078><size=60>Pasos
+      para dar el alta</color></size>\r\n\r\n\tUna vez que hayas accedido al servicio
+      de alta en empleo de hogar en Import@ss y te hayas identificado o hayas accedido
+      desde tu \xE1rea personal deber\xE1s indicar, en primer lugar, si tramitas
+      el alta como empleador o como trabajador. El sistema te dar\xE1 la opci\xF3n
+      de tramitar un alta nueva o continuar con una que hayas iniciado anteriormente.\r\n\r\n\tA
+      continuaci\xF3n, simplemente deber\xE1s rellenar los 9 pasos en los que destaca
+      la claridad de la informaci\xF3n, la facilidad de uso, el control sobre cada
+      uno de los pasos y la seguridad del proceso:\r\n\r\n1.\tDatos de la persona
+      empleada: Tipo y n\xFAmero de documento identificativo (DNI o NIE) y fecha
+      de nacimiento.\r\n\r\n2.\tDatos de la persona empleadora: Indica si la persona
+      empleada estar\xE1 al cuidado de una familia numerosa. Si cumples las condiciones
+      puedes tener derecho a una bonificaci\xF3n.\r\n\r\n3.\tDuraci\xF3n del contrato:
+      Indica la fecha de inicio de la actividad y el tipo de contrato (indefinido
+      o de duraci\xF3n determinada).\r\n\r\n4.\tJornada y salario: Deber\xE1s marcar
+      si el contrato es a jornada completa o por horas, el n\xFAmero de horas de
+      trabajo a la semana/mes, c\xF3mo se ha pactado el pago del salario (mensual
+      o semanal), el salario que percibir\xE1, si recibir\xE1 salario durante las
+      vacaciones, si las pagas extras est\xE1n incluidas, si har\xE1 horas de guardia
+      o si se ha pactado salario en especie (el sistema te informar\xE1 de la cuota
+      a pagar en base a esos datos). Recuerda que el salario debe ser, al menos,
+      igual al SMI (si es jornada completa).\r\n\r\n5.\tDomicilio de la actividad:
+      Rellena los datos o selecciona el domicilio de la actividad si coincide con
+      alguno de los registrados en la base de datos de la TGSS.\r\n\r\n6.\tEntidad
+      aseguradora: Selecciona la entidad aseguradora, eligiendo entre el INSS o una
+      Mutua colaboradora.\r\n\r\n7.\tDatos de contacto: Introduce los datos de contacto
+      como empleador de hogar.\r\n\r\n8.\tDomiciliaci\xF3n bancaria: debes introducir
+      la cuenta donde se cargar\xE1 la cuota mensual correspondiente.\r\n\r\n9.\tRevisa
+      tus datos: Import@ss te ofrecer\xE1 un resumen de todos los campos, que podr\xE1s
+      modificar en caso de que detectes alg\xFAn error.\r\n\r\n\tEn el proceso pueden
+      omitirse pasos si la TGSS dispone ya de la informaci\xF3n correspondiente.\r\n\r\n\tSi
+      los datos son correctos, deber\xE1s dar tu conformidad tras leer y aceptar
+      la declaraci\xF3n responsable marcando la casilla correspondiente. Una vez
+      hecho, podr\xE1s proceder a firmar la solicitud y solicitar el alta, el sistema
+      te mostrar\xE1 un comprobante y te ofrecer\xE1 la posibilidad de descargarte
+      la documentaci\xF3n justificativa en formato pdf.\r\n\r\nEnlace a v\xEDdeo
+      explicativo del paso a paso: <color=blue><u><link=https://www.youtube.com/watch?v=WX2fshb4dPk>https://www.youtube.com/watch?v=WX2fshb4dPk</link></u></color>\r\n\r\nSin
+      m\xE9todo de identificaci\xF3n\r\n\r\n\tEn caso de que no dispongas de ninguno
+      de los m\xE9todos de identificaci\xF3n anteriores, podr\xE1s utilizar el servicio
+      de env\xEDo de solicitudes del portal, donde podr\xE1s solicitar el alta utilizando
+      este formulario sin necesidad de identificaci\xF3n previa. Tambi\xE9n podr\xE1s
+      tramitar bajas y modificaci\xF3n de datos.\r\n\r\nPara tramitar el alta deber\xE1s
+      cumplimentar y adjuntar:\r\n\r\n1.\tDatos del empleador: datos personales,
+      direcci\xF3n, C\xF3digo de Cuenta de Cotizaci\xF3n (CCC), datos bancarios para
+      el cobro de las cuotas, copia del documento de identidad.\r\n\r\n2.\tDatos
+      del empleado/a de hogar: datos personales, copia del documento de identidad
+      y N\xFAmero de la Seguridad Social (NUSS)\r\n\r\n3.\tDatos de la relaci\xF3n
+      laboral (n\xFAmero de horas trabajadas, salario, fecha de inicio de la relaci\xF3n
+      laboral, si existen retribuciones en especie, pernocta, etc,)\r\n\r\n4.\tEl
+      contrato de trabajo\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html>https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html</link></u></color>\r\n\r\n5.\tLos
+      impresos de alta en la Seguridad Social\r\n\r\n<color=blue><u><link=https://tinyurl.com/4b7xdkar>https://tinyurl.com/4b7xdkar</link></u></color>\r\n\r\n6.\tSi
+      es la primera vez que contratas a un empleado/a de hogar deber\xE1s presentar
+      tambi\xE9n el Modelo TA.6-0138 HOGAR de Solicitud de C\xF3digo de Cuenta de
+      Cotizaci\xF3n.\r\n\r\n<color=blue><u><link=https://tinyurl.com/57pxkr6s>https://tinyurl.com/57pxkr6s</link></u></color>\r\n\r\n7.\tAdem\xE1s,
+      en el caso de que la persona empleada no disponga de n\xFAmero de afiliaci\xF3n
+      a la Seguridad Social, habr\xEDa que gestionarlo mediante el modelo TA 1.\r\n\r\n<color=blue><u><link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572</link></u></color>\r\n\r\n\tPara
+      guiarte durante el proceso, puedes utilizar el asistente virtual habilitado
+      en la p\xE1gina web y en la Sede Electr\xF3nica de la Seguridad Social. Te
+      mostrar\xE1 los pasos a seguir, los requisitos necesarios y los enlaces a la
+      sede electr\xF3nica para la presentaci\xF3n de solicitudes.\r\n\r\n<color=#610078><size=60>Plazos</color></size>\r\n\r\n\tEn
+      cualquiera de los casos anteriores, el alta se debe tramitar antes del inicio
+      de la actividad laboral, con una antelaci\xF3n m\xE1xima de 60 d\xEDas y es
+      responsabilidad de la persona empleadora, al igual que el ingreso de la cotizaci\xF3n.\r\n\r\n\tRecuerda
+      que, desde el 1 de enero de 2023, ya no es posible pactar con las personas
+      al servicio del hogar que realicen menos de 60 horas de trabajo mensual por
+      persona empleadora, la asunci\xF3n por estas \xFAltimas de las obligaciones
+      en materia de cotizaci\xF3n y afiliaci\xF3n y alta en la Seguridad Social,
+      como se pod\xEDa realizar hasta ahora, tras la entrada en vigor de algunas
+      de las novedades del Real Decreto-ley 16/2022, de 6 de septiembre, que mejora
+      las condiciones de trabajo de este colectivo incluyendo la protecci\xF3n por
+      desempleo. \r\n\r\n<color=#610078><size=60>Formas y elementos esenciales del
+      contrato</color></size>\r\n\r\n\u25CF\tDe palabra: contratos inferiores a cuatro
+      semanas (en cualquier momento se puede exigir que se formalice por escrito).\r\n\r\n\u25CF\tPor
+      escrito: contratos cuya duraci\xF3n sea igual o superior a cuatro semanas.\r\n\r\n\tEl
+      contrato debe hacerse por escrito, quedando una copia para la persona empleadora
+      y otra para la persona empleada. Es importante hacerlo de esta manera, porque
+      si el contrato no se formaliza de forma escrita, se presume que la relaci\xF3n
+      laboral es indefinida y a jornada completa.\r\n\r\n<color=blue><u><link=https://www.mites.gob.es/es/portada/serviciohogar/nueva-regulacion/contratacion/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/nueva-regulacion/contratacion/index.htm</link></u></color>\r\n\r\n\tCuando
+      la duraci\xF3n del contrato sea superior a cuatro semanas, la persona trabajadora
+      debe recibir informaci\xF3n sobre los elementos esenciales del contrato si
+      los mismos no figuran en el contrato formalizado por escrito que, adem\xE1s
+      de los aspectos generales (identificaci\xF3n de las partes, salario, jornada,
+      etc.), incluir\xE1:\r\n\r\n\u25CF\tPrestaciones salariales en especie, cuando
+      se haya convenido su existencia.\r\n\r\n\u25CF\tDuraci\xF3n y distribuci\xF3n
+      de los tiempos de presencia pactados, as\xED como el sistema de retribuci\xF3n
+      o compensaci\xF3n de los mismos.\r\n\r\n\u25CF\tEl r\xE9gimen de pernoctas
+      del/a empleado@ de hogar en el domicilio familiar.\r\n\r\n<color=#610078><size=60>Duraci\xF3n
+      y modelos del contrato</color></size>\r\n\r\n\tEl contrato podr\xE1 celebrarse
+      por tiempo indefinido o por una duraci\xF3n determinada en los casos legalmente
+      previstos.\r\n\r\n\tPodr\xE1 concertarse por escrito un periodo de prueba que
+      no podr\xE1 exceder de 2 meses y durante el cual la persona empleadora y la
+      persona empleada de hogar estar\xE1n obligadas a cumplir con sus respectivas
+      prestaciones, con posibilidad de resoluci\xF3n de la relaci\xF3n laboral por
+      cualquiera de las partes con un periodo m\xE1ximo de preaviso de 7 d\xEDas.\r\n\r\n\tEl
+      desistimiento o cese del contrato de trabajo por no superaci\xF3n del periodo
+      de prueba no necesita ning\xFAn tipo de preaviso por las partes ni justificaci\xF3n,
+      pero s\xED notificarlo por escrito. Si el contrato se extingue durante el periodo
+      de prueba no da lugar a pago de indemnizaci\xF3n.\r\n\r\nModelos\r\n\r\n\u25CF\tModelo
+      de contrato indefinido (Se marca en la p\xE1gina 3 como cl\xE1usula espec\xEDfica
+      para personas trabajadoras al servicio del hogar familiar y en la p\xE1gina
+      17 se cumplimentan dichas cl\xE1usulas)\r\n\r\n\u25CF\tModelo de contrato de
+      duraci\xF3n determinada\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html>https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html</link></u></color>\r\n\r\n<color=#610078><size=60>Procedimiento
+      para la comunicaci\xF3n de contrataci\xF3n</color></size>\r\n\r\n\tUna vez
+      dado de alta a la persona trabajadora a trav\xE9s del portal Import@ss y celebrado
+      el contrato, es necesario comunicarlo al SEPE utilizando la plataforma Contrat@,
+      disponible en el siguiente enlace:\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html</link></u></color>\r\n\r\n\tContrat@
+      facilita la comunicaci\xF3n online de la contrataci\xF3n laboral a los Servicios
+      P\xFAblicos de Empleo mediante una aplicaci\xF3n que permite a la persona empleadora
+      y empresas comunicar: \r\n\r\n\u25CF\tEl contenido del contrato\r\n\r\n\u25CF\tCopias
+      b\xE1sicas \r\n\r\n\u25CF\tPr\xF3rrogas\r\n\r\n\u25CF\tLlamamientos de fijos
+      discontinuos\r\n\r\n\u25CF\tPactos de horas complementarias \r\n\r\nMediante
+      tres opciones:\r\n\r\n\u25CF\tComunicaci\xF3n de datos\r\n\r\n\u25CF\tEnv\xEDo
+      de ficheros XML\r\n\r\n\u25CF\tA trav\xE9s de Servicios Web\r\n\r\n\tLa utilizaci\xF3n
+      de este servicio requiere disponer de una Autorizaci\xF3n de los Servicios
+      P\xFAblicos de Empleo. Para obtenerla, es necesario completar una Solicitud
+      de Autorizaci\xF3n y presentarla junto con la documentaci\xF3n requerida en
+      dichos Servicios P\xFAblicos.\r\n\r\n\tUna vez concedida la Autorizaci\xF3n,
+      se puede acceder a Contrat@ utilizando Certificado Digital o DNI electr\xF3nico,
+      o bien mediante el Identificador de la Empresa y la clave personal asignada
+      durante la solicitud.\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607702192128
+    m_Localized: "<color=#610078><size=60>Tabla salarial y bases de cotizaci\xF3n.</color></size>\r\n\r\n<color=#610078><size=60>A.
+      Tabla salarial del r\xE9gimen de empleo de hogar.</color></size>\r\n\r\n\tEl
+      salario ser\xE1 el acordado por el empleador/a y la empleada/o, garantizando
+      siempre el Salario M\xEDnimo Interprofesional (SMI) en c\xF3mputo anual en
+      proporci\xF3n a la jornada de trabajo realizada. El SMI siempre ha de pagarse
+      en dinero, sin que puedan practicarse descuentos por percepciones en especie
+      que supongan que el importe del salario en dinero sea inferior a dicho SMI.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756675481600
+    m_Localized: "\tEn el r\xE9gimen interno el trabajador/a de hogar tendr\xE1 derecho
+      a la percepci\xF3n del SMI (en dinero) y a un salario denominado en especie
+      que equivaldr\xE1 al mantenimiento y estancia en el hogar (habitaci\xF3n individual,
+      comidas b\xE1sicas, aseo personal, uso de la lavadora, \u2026).\r\n\r\n\tEl
+      trabajador/a que trabaje a jornada completa, r\xE9gimen interno o a tiempo
+      parcial tiene derecho a percibir dos pagas extraordinarias en la cuant\xEDa
+      que se acuerde entre las partes, siempre garantizando la percepci\xF3n del
+      SMI (en dinero) en c\xF3mputo anual en proporci\xF3n a la jornada de trabajo.\r\n\r\n<color=#610078><size=60>B.
+      Escala de Bases de cotizaci\xF3n (a partir de enero 2024).</color></size>\r\n\r\n\tLas
+      bases de cotizaci\xF3n se determinan en funci\xF3n de la retribuci\xF3n mensual
+      del empleado de hogar, siguiendo tramos establecidos para garantizar una contribuci\xF3n
+      justa al sistema de Seguridad Social. \r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848815951872
+    m_Localized: "<color=#610078><size=60>C. Bonificaciones aplicables en el sistema
+      especial del Empleo del Hogar.</color></size>\r\n\r\n\tA continuaci\xF3n, se
+      indican algunas de las bonificaciones b\xE1sicas aplicables en el Sistema Especial
+      del Empleo de Hogar:\r\n\r\n\u25CF\tReducci\xF3n por alta en el r\xE9gimen
+      del 20% en la cuota empresarial a la Seguridad Social por contingencias comunes.\r\n\r\n\u25CF\tBeneficio
+      del 45% en la cuota empresarial a la Seguridad Social por contingencias comunes,
+      por la contrataci\xF3n de cuidadores/as en familias numerosas (no acumulable
+      con la reducci\xF3n por alta en el r\xE9gimen del 20%). En cualquier caso,
+      esta bonificaci\xF3n s\xF3lo ser\xE1 aplicable por la contrataci\xF3n de un
+      \xFAnico cuidador/a por cada unidad familiar que tenga reconocida oficialmente
+      la condici\xF3n de familia numerosa.\r\n\r\n\t\xDAnicamente podr\xE1n obtener
+      reducciones, bonificaciones o cualquier otro beneficio en las bases, tipos
+      y cuotas de la Seguridad Social y por conceptos de recaudaci\xF3n conjunta,
+      las personas empleadoras que se encuentren al corriente en el cumplimiento
+      de sus obligaciones de pago con la Seguridad Social, en la fecha de su concesi\xF3n.
+      \r\n\r\n<color=#610078><size=60>D. Beneficios para las/os trabajadoras/es que
+      cotizan en la seguridad social.</color></size>\r\n\r\n\tDebemos destacar lo
+      beneficios que obtienen los trabajadores/as que cotizan en la seguridad social:\r\n\r\n\u25CF\tCotizaciones
+      a la Seguridad Social: Estas cotizaciones contribuyen a la protecci\xF3n social
+      del trabajador/a, incluyendo aspectos como la jubilaci\xF3n, incapacidad, enfermedad
+      y maternidad.\r\n\r\n\u25CF\tAcceso a la prestaci\xF3n por desempleo: Las empleadas/os
+      de hogar tienen derecho a acceder a la prestaci\xF3n por desempleo en caso
+      de que pierdan su trabajo.\r\n\r\n\u25CF\tProtecci\xF3n por accidentes laborales
+      y enfermedades profesionales: En caso de que la empleada/o de hogar sufra un
+      accidente relacionado con su trabajo o desarrolle una enfermedad profesional,
+      tendr\xE1 derecho a recibir asistencia m\xE9dica y una baja, seg\xFAn determine
+      el m\xE9dico profesional.\r\n\r\n\u25CF\tProtecci\xF3n en casos de maternidad
+      y paternidad: Se contempla la protecci\xF3n en casos de maternidad, concediendo
+      prestaciones econ\xF3micas a las empleadas de hogar que se encuentren en situaci\xF3n
+      de baja por maternidad.\r\n\r\n\u25CF\tInclusi\xF3n en el sistema de pensiones:
+      Permite a las empleadas/os de hogar acumular derechos para recibir una pensi\xF3n
+      en el momento de su jubilaci\xF3n.\r\n\r\nFUENTES:\r\n\r\n<color=blue><u><link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/retribuciones/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/retribuciones/index.htm</link>\r\n\r\n<link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537#36556>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537#36556</link>\r\n\r\n<link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/2288>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/2288</link>\r\n\r\n<link=https://qido.es/blog/nuevo-salario-minimo-interprofesional-smi-en-el-regimen-de-empleadas-de-hogar-2024/>https://qido.es/blog/nuevo-salario-minimo-interprofesional-smi-en-el-regimen-de-empleadas-de-hogar-2024/</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 959272947712
+    m_Localized: "<color=#610078><size=60>Jornada laboral</color></size>\r\n\r\n\tLa
+      jornada m\xE1xima que se puede realizar es de 40 horas a la semana, se pueden
+      distribuir como las partes quieran, siempre que se respeten los descansos diarios
+      y semanales.\r\n\r\n\tAdem\xE1s de esa jornada ordinaria de trabajo, para las
+      personas empleadas en r\xE9gimen interno se pueden establecer tiempos de presencia,
+      a disposici\xF3n de la persona empleadora por un periodo m\xE1ximo de 20 horas
+      semanales o durante m\xE1s tiempo si se compensa con descanso\r\n\r\n<color=#610078><size=60>Trabajo
+      por horas</color></size>\r\n\r\n\tSe considera trabajo por horas, cuando el
+      n\xFAmero total de d\xEDas de prestaci\xF3n de servicios al a\xF1o para la
+      misma persona empleadora no exceda de 120. Tambi\xE9n es obligatorio hacer
+      un contrato por escrito y la entrega de un recibo de salario.\r\n\r\n<color=#610078><size=60>Tiempos
+      de presencia</color></size>\r\n\r\n\tEl tiempo de presencia es aquella jornada
+      de trabajo que la persona empleada se encuentra disponible para realizar alguna
+      tarea, pero que no se encuentra trabajando. Debe de ser remunerado seg\xFAn
+      lo acuerden las partes. \r\n\r\n\tDebe de abonarse como m\xEDnimo con la misma
+      cuant\xEDa que se abona por una hora ordinaria de trabajo o bien puede compensarse
+      por tiempo de descanso retribuido, es decir, concediendo tantas horas libres
+      de trabajo como horas de presencia se hayan efectuado.\r\n\r\n<color=#610078><size=60>Hora
+      extraordinaria de trabajo: pago, l\xEDmite y obligatoriedad</color></size>\r\n\r\n\tLas
+      horas extraordinarias son aquellas que exceden la jornada laboral ordinaria
+      establecida en el contrato. Es importante recordar que la jornada ordinaria
+      no puede superar las 40 horas semanales, y cualquier hora trabajada m\xE1s
+      all\xE1 de este l\xEDmite se considera extraordinaria. \r\n\r\n\tLas horas
+      extras son distintas a las horas de presencia, deben pagarse aparte y no pueden
+      superar las 80 al a\xF1o.\r\n\r\n\tDe acuerdo con el art\xEDculo 15 del Estatuto
+      de los Trabajadores, las horas extraordinarias deben pagarse al menos al mismo
+      valor que una hora ordinaria del Salario M\xEDnimo Interprofesional. \r\n\r\n\tAdem\xE1s
+      del pago en efectivo, la persona empleadora puede optar por compensar las horas
+      extraordinarias con d\xEDas de descanso equivalentes, ofreciendo tiempo libre
+      por las horas extraordinarias trabajadas. \r\n\r\n\tExiste un l\xEDmite de
+      80 horas extraordinarias al a\xF1o, sin embargo, si se elige compensar las
+      horas extraordinarias con tiempo libre, estas no se contabilizan dentro del
+      l\xEDmite mencionado.\r\nLas horas extraordinarias son voluntarias, a menos
+      que se hayan acordado obligatoriamente en el contrato de trabajo\r\n\r\n<color=#610078><size=60>Periodos
+      de descanso</color></size>\r\n\r\n\tEl trabajador deber\xE1 contar con los
+      siguientes periodos de descanso:\r\n\r\n\u25CF\tEntre dos jornadas de trabajo
+      en dos d\xEDas diferentes: 12 horas m\xEDnimo, pudiendo reducirse a 10 para
+      personas empleadas en r\xE9gimen interno.\r\n\r\n\u25CF\tDescanso diario de
+      las trabajadores internas: Contar\xE1 con 2 horas todos los d\xEDas para las
+      comidas principales. Dichos descansos no computan como tiempo de trabajo.\r\n\r\n\u25CF\tDescanso
+      semanal: 36 horas consecutivas.\r\n\r\n\r\nFUENTES: \r\n\r\n<color=blue><u><link=https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf>https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/las-horas-extraordinarias-las-empleadas-del-hogar/>https://www.cuestioneslaborales.es/las-horas-extraordinarias-las-empleadas-del-hogar/</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/horario-de-las-empleadas-del-hogar-internas/>https://www.cuestioneslaborales.es/horario-de-las-empleadas-del-hogar-internas/</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/el-regimen-laboral-de-las-empleadas-del-hogar/#descanso>https://www.cuestioneslaborales.es/el-regimen-laboral-de-las-empleadas-del-hogar/#descanso</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083097190400
+    m_Localized: "<color=#610078><size=60>Vacaciones y festivos</color></size>\r\n\r\n\tTodas
+      las personas trabajadoras tienen derecho a disfrutar de al menos 30 d\xEDas
+      naturales de vacaciones al a\xF1o. Este derecho se mantiene independientemente
+      del n\xFAmero de horas laborales semanales o del tipo de contrato (jornada
+      completa, parcial o media jornada).\r\n\r\n\tEstos 30 d\xEDas se generan a
+      lo largo del a\xF1o laboral, cada mes de trabajo genera 2.5 d\xEDas de vacaciones.\r\n\r\n\tDurante
+      los d\xEDas de vacaciones, la persona empleada tiene derecho a percibir el
+      mismo salario que recibir\xEDa si estuviera trabajando.\r\n\r\n\tSe tiene derecho
+      a disfrutar de 14 d\xEDas festivos al a\xF1o, como el resto de trabajadores/as.
+      El calendario laboral var\xEDa seg\xFAn comunidad aut\xF3noma y localidad.\r\n\r\n<color=#610078><size=60>\xBFC\xF3mo
+      puedo disfrutar de mis vacaciones?</color></size>\r\n\r\n\tLas vacaciones pueden
+      dividirse en fracciones seg\xFAn convenga. La legislaci\xF3n establece que
+      al menos 15 d\xEDas naturales deben disfrutarse de manera consecutiva. No obstante,
+      en la pr\xE1ctica, se pueden pactar entre ambas partes otras modalidades de
+      disfrute.\r\n\r\n\tEs importante destacar que todas las vacaciones deben tomarse
+      dentro del mismo a\xF1o calendario en que se generaron; no pueden acumularse
+      de un a\xF1o para otro.\r\n\r\n<color=#610078><size=60>Obligaciones durante
+      las vacaciones</color></size>\r\n\r\n\tDurante las vacaciones, la persona empleada
+      no tiene ninguna obligaci\xF3n laboral con el empleador. Es un per\xEDodo de
+      descanso en el que no se espera que realice ninguna tarea relacionada con el
+      trabajo. \r\n\r\n\tPara las personas en r\xE9gimen interno, esto significa
+      que no est\xE1n obligadas a residir en el domicilio familiar o en cualquier
+      otro lugar asociado al empleo durante este tiempo.\r\n\r\n\tSi la familia empleadora
+      se va de vacaciones a otro lugar y la persona empleada se desplaza con la familia,
+      \xBFeste tiempo se computa como vacaciones? No, el tiempo de vacaciones es
+      tiempo de descanso para la persona empleada y por tanto, si acompa\xF1a a la
+      familia durante las vacaciones y se dedica a la realizaci\xF3n de sus funciones
+      laborales en el lugar al que la familia se desplaza, este tiempo no computa
+      como vacaciones, sino como de trabajo.\r\n\r\n\t\xBFDebe acompa\xF1ar la persona
+      empleada en r\xE9gimen interno a la familia empleadora al domicilio durante
+      las vacaciones de la familia? El r\xE9gimen de las pernoctas de los empleados
+      internos forma parte de los elementos esenciales del contrato por lo que, si
+      en un periodo de tiempo al a\xF1o, estas pernoctas deben realizarse en lugar
+      distinto al domicilio habitual, esta cuesti\xF3n deber\xEDa especificarse en
+      el contrato.\r\n\r\n\tEn todo caso, este tiempo no computar\xE1 como vacaciones
+      de la persona empleada en la medida en que siga ocup\xE1ndose de sus tareas
+      laborales.\r\n\r\n<color=#610078><size=60>Permisos retribuidos para empleadas
+      del hogar</color></size>\r\n\r\n\tLas personas que trabajan en empleo del hogar
+      tienen derecho a ciertos permisos retribuidos que les permiten realizar su
+      trabajo sin poner en riesgo su estabilidad laboral y econ\xF3mica. Estos permisos
+      est\xE1n contemplados en el Estatuto de los Trabajadores y cubren una serie
+      de situaciones: \r\n\r\n\u25CF\tMatrimonio: 15 d\xEDas naturales\r\n\r\n\u25CF\tMotivos
+      familiares: 2 d\xEDas (si el trabajador necesita realizar un desplazamiento,
+      el permiso se ampl\xEDa 4 d\xEDas naturales)\r\n\r\n\u25CB\tFallecimiento \r\n\r\n\u25CB\tAccidente
+      o enfermedad grave\r\n\r\n\u25CB\tHospitalizaci\xF3n\r\n\r\n\u25CB\tIntervenci\xF3n
+      quir\xFArgica sin hospitalizaci\xF3n que requiera reposo domiciliario de parientes
+      hasta el segundo grado de consanguinidad o afinidad\r\n\r\n\u25CF\tTraslado
+      de domicilio: 1 d\xEDa de permiso\r\n\r\n\u25CF\tDerecho a ausentarse por deber
+      inexcusable: se reconoce el derecho a ausentarse del trabajo por el tiempo
+      indispensable para el cumplimiento de un deber inexcusable de car\xE1cter p\xFAblico
+      y personal, incluyendo el sufragio activo\r\n\r\n\u25CF\tPermisos relacionados
+      con el embarazo y cuidado del lactante: durante el embarazo, las personas trabajadoras
+      de empleo dom\xE9stico tienen derecho a los permisos necesarios para realizar
+      los ex\xE1menes prenatales y t\xE9cnicas de preparaci\xF3n al parto\r\n\r\n\u25CF\tNacimiento,
+      adopci\xF3n, guarda con fines de adopci\xF3n o acogimiento: se otorga 1 hora
+      de ausencia del trabajo, la cual puede dividirse en dos fracciones, para el
+      cuidado del lactante hasta que cumpla 9 meses. La duraci\xF3n del permiso se
+      incrementar\xE1 proporcionalmente en caso de m\xFAltiples nacimientos, adopciones,
+      guardas con fines de adopci\xF3n o acogimientos.\r\n\r\nFUENTES:\r\n\r\n<color=blue><u><link=https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf>https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/tiempo-trabajo/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/tiempo-trabajo/index.htm</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/las-vacaciones-las-empleadas-del-hogar/#horas>https://www.cuestioneslaborales.es/las-vacaciones-las-empleadas-del-hogar/#horas</link>\r\n\r\n<link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf>https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1231684603904
+    m_Localized: "<color=#610078><size=60>Bajas Laborales</color></size>\r\n\r\n<color=#610078><size=60>A.
+      Nueva normativa de bajas m\xE9dicas</color></size>\r\n\r\n\tEl nuevo Real Decreto
+      1060/2022 introduce grandes cambios que afectan directamente la gesti\xF3n
+      de las situaciones de incapacidad temporal (bajas m\xE9dicas) incluso en el
+      sector de empleadas/os de hogar. Los cambios significativos que introduce esta
+      nueva norma son:\r\n\r\n\u25CF\tSe elimina la obligaci\xF3n del trabajador/a
+      de presentar el parte de baja m\xE9dica a su empleador. Se suprime el parte
+      de baja para las empresas/empleadores/ras. En cambio, el facultativo/a ser\xE1
+      responsable de proporcionar el parte de baja m\xE9dica al trabajador/a y comunicar
+      los datos de la baja al INSS o mutuas, que a su vez los transmitir\xE1n a los
+      empleadores/as de forma telem\xE1tica. \r\n\r\n\u25CF\tLos facultativos/as
+      podr\xE1n establecer plazos de revisi\xF3n m\xE9dica m\xE1s cortos que los
+      establecidos oficialmente, siempre y cuando se ajusten a la evoluci\xF3n del
+      proceso.\r\n \r\n\u25CF\tSe modifican los datos que deben de trasladar las
+      empresas a la Seguridad Social. \r\n\r\n\tDe estos nuevos cambios, el que afecta
+      de una forma m\xE1s directa al sector de empleadas/os de hogar, es la vinculada
+      a los partes m\xE9dicos. Hasta la fecha, cuando un trabajador/a acud\xEDa al
+      m\xE9dico de cabecera o la mutua para recoger sus partes de baja, confirmaci\xF3n
+      o alta, el m\xE9dico siempre le facilitaba al trabajador/a dos copias: una
+      copia para el trabajador/ra y otra copia para la empresa. As\xED, el trabajador/a,
+      deb\xEDa, en el plazo de 3 d\xEDas, proporcionar este parte a la empresa, para
+      que la misma tuviera consciencia de dicha situaci\xF3n y pudiera hacer las
+      gestiones oportunas.\r\n\r\n\tCon la entrada en vigor de este nuevo Real Decreto,
+      el 1 de abril de 2023, el \xFAnico parte que expedir\xE1 el m\xE9dico de cabecera
+      ser\xE1 el relativo a la copia del trabajador/a. \r\nEste parte es de car\xE1cter
+      confidencial para el trabajador/a y el mismo no debe proporcionar esa copia
+      a la empresa.\r\n\r\n\tPor ello, desde el 1 de abril, el m\xE9dico de cabecera
+      comunica al INSS, v\xEDa telem\xE1tica, los datos relativos a la baja m\xE9dica,
+      en el plazo de 24 horas h\xE1biles desde la cita con el trabajador/a. Una vez
+      recibidos los datos, el INSS, traslada esta informaci\xF3n a los empleadores.\r\n\r\n<color=#610078><size=60>B.
+      Incapacidad temporal y baja m\xE9dica</color></size>\r\n\r\n\tCuando el trabajador/a
+      inicia una situaci\xF3n de incapacidad temporal, el empleador/a debe de iniciar
+      una serie de gestiones importantes que debe de realizar. En primer lugar, mantenerse
+      informado de la situaci\xF3n de baja de su trabajador/a (fechas de la baja
+      y confirmaciones), ya que estas ser\xE1n necesarias para el ajuste de la baja
+      m\xE9dica. \r\n\r\n\tDurante el periodo de baja m\xE9dica, el trabajador/a
+      no est\xE1 obligado a prestar servicios y tiene derecho a percibir una prestaci\xF3n
+      econ\xF3mica por incapacidad temporal, cuya cuant\xEDa depender\xE1 de la base
+      reguladora y de la duraci\xF3n de la baja.\r\n\r\n\tEl empleador/a debe estar
+      informado sobre la entidad encargada de cubrir las contingencias comunes y
+      las contingencias profesionales. Esta entidad puede ser el INSS o una Mutua
+      Colaboradora de la Seguridad Social. Al momento de registrarse como empleador/a
+      de hogar, se debe elegir entre una de estas opciones. \r\n\r\n<color=#610078><size=60>C.
+      Cobertura de contingencias comunes</color></size>\r\n\r\n\tEn el caso de las
+      contingencias comunes, que incluyen la cobertura de las incapacidades temporales
+      por enfermedad com\xFAn o accidente no laboral, el m\xE9dico de cabecera ser\xE1
+      quien expida el parte de baja al trabajador/a, realice las revisiones y determine
+      el momento en que podr\xE1 expedirle el alta m\xE9dica.\r\n\r\n\tEn cuanto
+      a la gesti\xF3n de la n\xF3mina de la cuidadora, se debe tener en cuenta que:\r\n\r\n\u25CF\tEl
+      trabajador/a no percibe salario los primeros 3 d\xEDas de baja. \r\n\r\n\u25CF\tDel
+      4\xBA al 8\xBA d\xEDa recibir\xE1 un 60% de la base de cotizaci\xF3n por parte
+      del empleador/a. \r\n\r\n\u25CF\tA partir del 9\xBA d\xEDa, el trabajador/a
+      recibir\xE1 una prestaci\xF3n directamente de la entidad que tenga la cobertura
+      para las contingencias comunes. En este caso, el trabajador/a deber\xE1 acudir
+      al INSS/Mutua m\xE1s cercano para gestionar el pago de su prestaci\xF3n, proporcionando
+      al empleador/a un certificado de empleador/a para realizar la gesti\xF3n. \r\n\r\n\tEs
+      importante destacar que, para poder cobrar la prestaci\xF3n, el trabajador/a
+      debe tener una carencia de cotizaci\xF3n de 180 d\xEDas en los \xFAltimos 6
+      a\xF1os. Si no cumple con este requisito, no percibir\xE1 prestaci\xF3n durante
+      el tiempo que dure su baja m\xE9dica.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396826935296
+    m_Localized: "<color=#610078><size=60>D. Cobertura de contingencias profesionales</color></size>\r\n\r\n\tLas
+      contingencias profesionales se refieren a la protecci\xF3n en casos de accidente
+      de trabajo, definido como \xABtoda lesi\xF3n corporal que el trabajador/a sufra
+      con ocasi\xF3n o por consecuencia del trabajo que ejecute por cuenta ajena\xBB
+      (art. 115 LGSS). Si un trabajador/a sufre un accidente de trabajo, deber\xE1
+      acudir directamente a la entidad que se encargue de la cobertura correspondiente.\r\n\r\n\tSi
+      la cobertura de contingencias profesionales est\xE1 a cargo del INSS, el trabajador/a
+      debe acudir al m\xE9dico de cabecera para obtener el parte de baja y el mismo
+      m\xE9dico ser\xE1 responsable de las revisiones y el parte de alta. Si la cobertura
+      es provista por una mutua, ser\xE1 el m\xE9dico de la misma quien emita el
+      parte de baja y realice las revisiones pertinentes.\r\n\r\n\tEn cuanto a la
+      prestaci\xF3n por accidente de trabajo, el empleador/a se har\xE1 cargo del
+      primer d\xEDa de baja al 100%, mientras que a partir del segundo d\xEDa ser\xE1
+      el INSS o la mutua quienes se encarguen del pago directo. El empleador/a deber\xE1
+      preparar el certificado del empleador/a y proporcion\xE1rselo al trabajador/a
+      para que pueda gestionar el pago de su prestaci\xF3n.\r\n\r\n\tEn caso de accidentes
+      de trabajo, el empleador estar\xE1 obligado a comunicar el accidente a trav\xE9s
+      del Sistema Delt@ en un plazo de 5 d\xEDas h\xE1biles desde la fecha del accidente
+      o desde que tenga conocimiento del mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1653480591360
+    m_Localized: 'FUENTE:
+
+
+      <color=blue><u><link=https://www.cuidum.com/blog/gestion-de-bajas-medicas-para-empleadas-de-hogar-como-funciona-actualmente/>https://www.cuidum.com/blog/gestion-de-bajas-medicas-para-empleadas-de-hogar-como-funciona-actualmente/
+
+      </link></u></color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1706064580608
+    m_Localized: "<color=#610078><size=60>Finalizaci\xF3n de la relaci\xF3n laboral.</color></size>\r\n\r\n<color=#610078><size=60>a.
+      Desistimiento en el empleo de hogar</color></size>\r\n\r\n\tUna de las principales
+      reivindicaciones del sector de empleadas/os del hogar, era, que se aboliera
+      la figura legal del desistimiento, el cual, daba la posibilidad a las/os empleadoras/es
+      de extinguir el contrato de trabajo sin necesidad de justificar la causa que
+      motivaba la extinci\xF3n.\r\n\r\n\tEsta figura era pr\xE1cticamente exclusiva
+      del sector del hogar familiar, ya que, como norma, en el derecho laboral, los
+      despidos de las/os trabajadoras/es deben ir justificados y motivados por una
+      de las causas que refiere el Estatuto de las/os Trabajadoras/es.\r\n\r\n<color=#610078><size=60>b.
+      Causas del desistimiento en el empleo de hogar</color></size>\r\n\r\n\tDesde
+      el 9 de septiembre de 2022, se aboli\xF3 la figura del desistimiento, quitando
+      la posibilidad a las/os empleadoras/es de extinguir el contrato sin ninguna
+      causa justificada. Esto incluy\xF3 las nuevas causas por las que se puede finalizar
+      el contrato de un empleado de hogar. Estas causas deben ir siempre motivadas
+      y justificadas. \r\n\r\nLas causas son las siguientes:\r\n\r\nExtinci\xF3n
+      objetiva del contrato por una disminuci\xF3n de ingresos o incremento de los
+      gastos en la unidad familiar \r\n\r\n\tSe puede extinguir el contrato de trabajo
+      con la empleada o el empleado cuando, por una causa sobrevenida, se vean reducidos
+      los ingresos en la unidad familiar, o, incrementado sus gastos, por ejemplo,
+      porque un familiar se queda en paro, o, en el domicilio entra un gasto inesperado
+      al que se debe hacer frente, mermando la econom\xEDa familiar.\r\n\r\nExtinci\xF3n
+      objetiva por modificaci\xF3n de las necesidades en la unidad familiar \r\n\r\n\tEn
+      este caso, se puede extinguir el contrato de trabajo con la empleada o el empleado,
+      cuando los familiares han tomado una decisi\xF3n que influye en la organizaci\xF3n
+      familiar. Por ejemplo, si una empleada de hogar cuida a una persona mayor y
+      se decide ingresar a la misma en un centro especializado.\r\n\r\nExtinci\xF3n
+      objetiva porque el comportamiento de la trabajadora provoca una p\xE9rdida
+      de confianza en el empleador. \r\n\r\n\tEn este caso, debe existir una causa
+      suficientemente grave e imputable la trabajadora o al trabajador que, motive
+      una p\xE9rdida de confianza real en los empleadores y empleadoras y por ello
+      decidan finalizar el contrato con la trabajadora.\r\n\r\n<color=#610078><size=60>c.
+      Baja Voluntaria:</color></size>\r\n\r\n\tLa baja voluntaria es un aviso que
+      da la empleada o el empleado de hogar al empleador, en la cual comunica, tanto
+      de forma escrita como oral, que anula la relaci\xF3n laboral que los une. En
+      este caso, la voluntad proviene del trabajador, y el empleador solo debe ser
+      comunicado de la decisi\xF3n que ha tomado. Para poder formalizarla, es necesario
+      cumplir con una serie de requisitos y tener en cuenta ciertas consideraciones
+      que caracterizan a esta figura.\r\n\r\n\tPara poder formalizarla, es necesario
+      cumplir con una serie de requisitos y tener en cuenta ciertas consideraciones
+      que caracterizan a esta figura.\r\n\r\n\u2022\tCaracter\xEDsticas que tiene
+      una baja voluntaria\r\n\r\n\tLa principal caracter\xEDstica de esta figura
+      laboral es que la intenci\xF3n de finalizar el contrato proviene de la voluntad
+      del empleado. Lo \xFAnico que puede hacer la empresa, si le interesa retenerlo,
+      es hacer una contraoferta o intentar resolver el problema por el cual ha decidido
+      tomar esta decisi\xF3n.\r\n\r\nOtros aspectos que caracterizan a esta figura
+      son:\r\n\r\n\u2022\tSe debe dar aviso formal con quince d\xEDas naturales de
+      antelaci\xF3n.\r\n\r\n\u2022\tAunque se trate de una baja voluntaria, la empresa
+      tendr\xE1 que abonar un finiquito.\r\n\r\n\u2022\tEs reversible, siempre dentro
+      de los 15 d\xEDas naturales.\r\n\r\n\u2022\tSi desea volver a trabajar con
+      el empleador, se deber\xE1 firmar un nuevo contrato.\r\n\r\n\tEs obligatorio
+      firmar la baja voluntaria. En la carta de comunicaci\xF3n de la baja voluntaria,
+      debe figurar tanto la firma de la/el cuidadora/or como del empleado. Hay que
+      tener en cuenta que la/el trabajadora/or debe firmar solo cuando realmente
+      quiera dejar de trabajar, esto es, sin presiones, sin compromisos ni causas
+      ajenas. Toda situaci\xF3n que se plantee de esa \xFAltima manera por parte
+      del empleador se considerar\xE1 ilegal.\r\n\r\n\tEl sistema que protecci\xF3n
+      por desempleo protege a las personas trabajadoras que quieren y pueden trabajar,
+      pero no tienen empleo. En el caso de la baja voluntaria, el empleado abandona
+      el puesto de trabajo de forma voluntaria y en este caso no podr\xEDa percibir
+      el paro.\r\n\r\n\tSin embargo, en el caso de que despu\xE9s encuentre un nuevo
+      trabajo, pero no logre superar el per\xEDodo de prueba establecido, la Ley
+      General de la Seguridad Social establece que el trabajador solamente va a poder
+      solicitar la prestaci\xF3n por desempleo si han transcurrido m\xE1s de tres
+      meses desde la baja voluntaria.\r\n\r\n\tUna vez que se da de baja al trabajador/a
+      trav\xE9s portal de la TGSS Import@ass, se emitir\xE1 un certificado de empresa
+      el cual debe comunicarse al SEPE en un plazo de 15 d\xEDas a trav\xE9s de la
+      web certifica@2 o bien de forma presencial (en este caso tambi\xE9n podr\xEDa
+      presentarlo f\xEDsicamente la persona trabajadora del servicio de empleo de
+      hogar). Este paso es fundamental para acceder a la prestaci\xF3n por desempleo,
+      siempre que no se trate de una baja voluntaria.\r\n\r\n\tEs un servicio que
+      permite a las empresarias y los empresarios que act\xFAen en nombre propio
+      y a las empresas y colegiados profesionales que act\xFAen en representaci\xF3n
+      de terceros, realizar comunicaciones de datos sobre sus personas trabajadoras,
+      sustituyendo la entrega presencial de documentos.\r\n\r\n\tLa comunicaci\xF3n
+      de datos utilizando la aplicaci\xF3n Certific@2 tendr\xE1 id\xE9nticos efectos
+      que la efectuada por los dem\xE1s medios admitidos en derecho.\r\n\r\nC\xF3mo
+      acceder a Certific@2\r\n\r\n\tPara utilizar la aplicaci\xF3n Certific@2, las
+      personas usuarias deben disponer de autorizaci\xF3n para la transmisi\xF3n
+      telem\xE1tica de datos a los Servicios P\xFAblicos de Empleo, obtenida previamente
+      conforme lo definido en la aplicaci\xF3n Contrat@, o de firma electr\xF3nica
+      expedida por alguna de las autoridades de certificaci\xF3n.\r\n\r\n\tSi necesitas
+      ampliar la informaci\xF3n anterior, puedes visitar el siguiente enlace\r\n\r\nhttps://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html\r\n\r\n<color=#610078><size=60>d.
+      Procedimiento del despido.</color></size>\r\n\r\n\tEs muy importante, que,
+      adem\xE1s de tener una causa que motive la extinci\xF3n del contrato con la/el
+      empleada/o de hogar, se cumpla el procedimiento para llevar a cabo la extinci\xF3n,
+      ya que, si no, podr\xEDa ser considerado como \u201Cdespido\u201D y por tanto
+      declarado improcedente. El procedimiento a seguir es el siguiente:\r\n\r\nOtorgar
+      un preaviso por escrito\r\n\r\n\tSe debe otorgar un preaviso a la trabajadora
+      o trabajador de 7 d\xEDas naturales, o 20 en el caso de que la trabajadora
+      o trabajador lleve prestando servicios m\xE1s de un a\xF1o en el domicilio.
+      El preaviso siempre se debe dar por escrito, y debe quedar firmado por ambas
+      partes. En el caso de que no se pueda dar el preaviso, el mismo deber\xE1 de
+      abonarse en el finiquito correspondiente.\r\n\r\nCarta de extinci\xF3n\r\n\r\n\tEn
+      el momento del preaviso, el empleador deber\xE1 proporcionar a la trabajadora
+      o trabajador la carta, donde conste clara e inequ\xEDvocamente el motivo y
+      las causas por las que deciden extinguir el contrato, con la fecha en la que
+      dicha extinci\xF3n se har\xE1 efectiva. Adem\xE1s de poner la causa, la misma
+      deber\xE1 ir justificada y argumentada, no sirve solo con indicar que se procede
+      a su extinci\xF3n, si no tambi\xE9n fundamentar las causas.\r\n\r\nIndemnizaci\xF3n
+      y Finiquito\r\n\r\n\tEl mismo d\xEDa del preaviso, se deber\xE1 abonar una
+      indemnizaci\xF3n por despido a la empleada de hogar de 12 d\xEDas de salario
+      por a\xF1o trabajado, con un l\xEDmite de 6 mensualidades.\r\n\r\n\tEl finiquito
+      deber\xE1 incluir: el salario de los d\xEDas trabajados, la parte proporcional
+      de las pagas extraordinarias, las vacaciones generadas no disfrutadas, y la
+      indemnizaci\xF3n por extinci\xF3n. En el caso de que no se diera preaviso,
+      se abonar\xE1n en el finiquito los d\xEDas correspondientes al mismo.\r\n\r\nFirmas
+      la documentaci\xF3n\r\n\r\n\tEs importante que la documentaci\xF3n siempre
+      quede firmada por ambas partes a modo de recib\xED. En el caso de que la trabajadora
+      o trabajador no quiera firmar la documentaci\xF3n, es importante que haya un
+      testigo que pueda verificar el d\xEDa en que se hizo la comunicaci\xF3n y enviar
+      la misma a trav\xE9s de burofax.\r\n\r\n\tEsta nueva norma, pretendi\xF3 abolir
+      el despido sin causa, el cual, desprotege a las/los empleadas/os de hogar ya
+      que pod\xEDan ser despedidas/os sin saber la raz\xF3n de la misma. \r\n\r\n\tEs
+      muy importante conocer siempre los procedimientos y las causas por las que
+      podemos extinguir el contrato con la empleada de hogar, ya que, en caso de
+      que no se cumpla el mismo podr\xEDa ser declarado improcedente, generando derecho
+      a la trabajadora de una indemnizaci\xF3n de 20 d\xEDas de salario por a\xF1o
+      de servicio, con un l\xEDmite de 12 mensualidades. \r\n\r\nFUENTES: \r\n\r\n<color=blue><u><link=https://www.cuidum.com/blog/nueva-normativa-en-la-extincion-contrato-empleada-del-hogar/>https://www.cuidum.com/blog/nueva-normativa-en-la-extincion-contrato-empleada-del-hogar/</link>\r\n\r\n<link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html</link>\r\n\r\n<link=https://aiudo.es/baja-voluntaria-en-las-empleadas-del-hogar/>https://aiudo.es/baja-voluntaria-en-las-empleadas-del-hogar/</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1770757525504
+    m_Localized: "<color=#610078><size=60>Desempleo</color></size>\r\n\r\n\tEl Real
+      Decreto\u2013ley 16/2022, de 6 de septiembre, para la mejora de las condiciones
+      de trabajo y de Seguridad Social de las personas trabajadoras al servicio del
+      hogar tiene como objetivo equiparar las condiciones de trabajo y de Seguridad
+      Social de las personas trabajadoras del hogar familiar a las del resto de personas
+      trabajadoras por cuenta ajena. Determina que la prestaci\xF3n por desempleo
+      formar\xE1 parte de la acci\xF3n protectora del sistema especial de personas
+      empleadas del hogar.\r\n\r\n\tLa cotizaci\xF3n por desempleo ser\xE1 obligatoria
+      para las personas trabajadoras empleadas de hogar a partir del 1 de octubre
+      de 2022.\r\n\r\n\tA partir de enero de 2023 la cotizaci\xF3n se realizar\xE1
+      de acuerdo con lo establecido en la correspondiente Ley de Presupuestos Generales
+      del Estado.\r\n\r\n\tSe encontrar\xE1 en situaci\xF3n legal de desempleo la
+      persona trabajadora empleada del hogar a la que se le extinga el contrato de
+      trabajo mediante comunicaci\xF3n escrita de la persona empleadora, debiendo
+      constar de modo claro e inequ\xEDvoco:\r\n\r\n\u25CF\tLa voluntad de la persona
+      empleadora de dar por finalizada la relaci\xF3n laboral.\r\n\r\n\u25CF\tLa
+      causa por la que se extingue la relaci\xF3n laboral.\r\n\r\n<color=#610078><size=60>\xBFCu\xE1ndo
+      puedo solicitar el subsidio por desempleo?</color></size>\r\n\r\n\tLa solicitud
+      deber\xE1s presentarla en el plazo de los 15 d\xEDas h\xE1biles siguientes
+      al \xFAltimo d\xEDa trabajado. \r\n\r\nLa solicitud se presentar\xE1 a trav\xE9s
+      de:\r\n\r\n\u25CF\tLa sede electr\xF3nica del SEPE\r\n\r\n\u25CF\tEn la oficina
+      de prestaciones (pidiendo cita previa en la Sede Electr\xF3nica del SEPE o
+      a trav\xE9s del tel\xE9fono).\r\n\r\n\u25CF\tEn cualquier oficina de registro
+      p\xFAblico.\r\n\r\n\u25CF\tPor correo administrativo.\r\n\r\n\tSi presentas
+      la solicitud de prestaci\xF3n contributiva fuera de plazo, tendr\xE1s derecho
+      a que se apruebe a partir de la fecha de la solicitud, perdiendo tantos d\xEDas
+      de prestaci\xF3n como hayan pasado entre la fecha en que se hubiera aprobado
+      dicha prestaci\xF3n, de haberla solicitado dentro del plazo, y la fecha en
+      que la has presentado.\r\n\r\n\tEn los supuestos de situaci\xF3n legal de desempleo
+      por extinci\xF3n de la relaci\xF3n laboral, la persona trabajadora puede reclamar
+      contra la decisi\xF3n extintiva de la empresa.\r\n\r\n\tEn este caso, si no
+      te hubieses inscrito y solicitado en el plazo antes mencionado, tendr\xEDas
+      un nuevo plazo de 15 d\xEDas para hacerlo, desde la fecha del acta de conciliaci\xF3n
+      o providencia de opci\xF3n por la indemnizaci\xF3n, o en su caso, desde la
+      resoluci\xF3n judicial.\r\n\r\n\tEl SEPE debe dictar resoluci\xF3n en el plazo
+      de los 15 d\xEDas siguientes a la fecha de la solicitud y notificar en el plazo
+      de los 10 d\xEDas a partir de la fecha en que se dict\xF3.\r\n\r\n<color=#610078><size=60>\xBFHe
+      trabajado m\xE1s/menos de un a\xF1o</color></size>\r\n\r\n\tPara obtener informaci\xF3n
+      adicional, puedes consultar en los siguientes enlaces dependiendo si has trabajado
+      m\xE1s o menos de un a\xF1o:\r\n\r\n\u25CF\tM\xE1s de un a\xF1o: \r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-mas-de-un-ano.html>https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-mas-de-un-ano.html</link></u></color>\r\n\r\n\u25CF\tMenos
+      de un a\xF1o: \r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-menos-un-ano.html>https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-menos-un-ano.html</link></u></color>\r\n\r\n<color=#610078><size=60>\xBFC\xF3mo
+      pido la prestaci\xF3n por desempleo?</color></size>\r\n\r\n\tPaso 1: Acceso
+      a las Solicitudes\r\n\r\n1.\tAccede al portal de servicios online del SEPE\r\n\r\n2.\tHaz
+      clic en el bot\xF3n \u201CAcceso Solicitudes\u201D para ver los tipos de solicitudes
+      disponibles\r\n\r\n3.\tUtiliza un medio de autenticaci\xF3n y firma digital
+      (Cl@ve, Certificado Digital o DNIe\r\n\r\n\tPaso 2: Tipo de Solicitudes\r\n\r\n1.\tSelecciona
+      el tipo de solicitud que corresponda a tu situaci\xF3n: alta inicial, reanudaci\xF3n,
+      opciones de compatibilidad laboral\u2026\r\n\r\n2.\tRevisa detenidamente cada
+      opci\xF3n y elige la que se ajuste a tu caso\r\n\r\n\tPaso 3: Anexos de las
+      Solicitudes\r\n\r\n1.\tUna vez seleccionada la solicitud, visualiza los apartados
+      y subapartados disponibles\r\n\r\n2.\tVerifica que toda la informaci\xF3n personal
+      sea correcta y completa los campos adicionales seg\xFAn sea necesario\r\n\r\n3.\tLee
+      los textos legales y las obligaciones y compromisos asociados a la solicitud\r\n\r\n\tPaso
+      4: Confirmaci\xF3n de la Solicitud\r\n\r\n1.\tProcede a la firma de la solicitud
+      utilizando uno de los m\xE9todos de acreditaci\xF3n disponibles (Cl@ve, Certificado
+      Digital o DNIe)\r\n\r\n2.\tSigue las instrucciones espec\xEDficas para cada
+      m\xE9todo de firma\r\n\r\n3.\tVerifica que el proceso de firma se haya completado
+      correctamente\r\n\r\n\tPaso 5: Firma de la Solicitud\r\n\r\n1.\tDespu\xE9s
+      de firmar la solicitud, descarga e imprime un resguardo del tr\xE1mite realizado
+      para tu registro\r\n\r\n2.\tRevisa toda la informaci\xF3n adicional proporcionada
+      sobre las obligaciones como beneficiario del derecho solicitado\r\n\r\n3.\tMantente
+      informado sobre el estado de tu solicitud y cualquier comunicaci\xF3n futura
+      del SEPE\r\n\r\n*Enlace del Ministerio de Trabajo y Econom\xEDa Social sobre
+      el desempleo \r\n\r\n<color=blue><u><link=https://tinyurl.com/48v7r8u4>https://tinyurl.com/48v7r8u4*</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

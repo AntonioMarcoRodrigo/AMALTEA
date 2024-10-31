@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen3_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: fea5dbd6fc9c3a64093eae29de9236dc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6834589696
+    m_Localized: "Asistencia socio-sanitaria domiciliaria a persona mayor, servicio
+      por horas, interna y cuidador/a nocturno y servicios de formaci\xF3n en competencias
+      socio-sanitarias."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182513012736
+    m_Localized: "Servicios de ayuda y asistencia a domicilio proporcionando apoyo
+      integral a la Tercera Edad, y cubriendo las necesidades de aquellas personas
+      que presenten problemas para el desarrollo de las actividades elementales de
+      su vida diaria.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186107531264
+    m_Localized: "Empresa de atenci\xF3n socio-sanitaria, atendemos en domicilio,
+      hospital y residencias."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188628307968
+    m_Localized: Ofrece servicio de cuidado de personas mayores, tanto externos como
+      internos, servicio de jornada nocturna y servicio fin de semana.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191413325824
+    m_Localized: "Prestaci\xF3n de servicios de cuidadoras internas, cuidadoras por
+      horas, cuidadoras nocturnas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195888648192
+    m_Localized: Servicio de ayuda en el domicilio a personas mayores y personas
+      dependientes, servicio de interna, por horas y teleasistencia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199265062912
+    m_Localized: "Gesti\xF3n de servicio de Ayuda a Domicilio, Teleasistencia y Servicio
+      de Emergencia Social."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201546764288
+    m_Localized: "Ofrece servicio de asistencia a la tercera edad, personas con discapacidad
+      y movilidad reducida y ni\xF1os en domicilios particulares, acompa\xF1amiento
+      en hospitales, ayuda y asistencia en hoteles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205367775232
+    m_Localized: "Prestaci\xF3n de servicios de atenci\xF3n sociosanitario, centros
+      de d\xEDa, atenci\xF3n a mayores, y personas dependientes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208224096256
+    m_Localized: "Ofrece servicio de asistencia a la tercera edad, en domicilios
+      particulares, personal interno, por horas y acompa\xF1amiento en hospitales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209805348864
+    m_Localized: "Supl\xE1 Multiservicios, Supl\xE1 Servicios Socioeducativos y Madinat
+      Sca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210707124224
+    m_Localized: Servicio de Limpieza Especializado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211814420480
+    m_Localized: "Limpieza profesional y servicios generales para empresas e instituciones
+      en C\xF3rdoba."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212523257856
+    m_Localized: Limpieza de comunidades y oficinas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213156597760
+    m_Localized: "Limpieza de Comunidades, locales, oficinas, en domicilios,\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213756383232
+    m_Localized: "Limpieza de obras, limpieza y mantenimientos de colegios, oficinas,
+      despachos, cl\xEDnicas, cocheras de edificios, limpieza de piscinas, empresas,
+      naves,\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214360363008
+    m_Localized: "Brillo Cordob\xE9s S.L. Servicios de limpieza y trabajos de pintura,
+      electricidad, alba\xF1iler\xEDa, fontaner\xEDa,\u2026 y mantenimientos integrales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215039840256
+    m_Localized: "Serlinco Servicios Generales de Limpieza y Desinfecci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215706734592
+    m_Localized: Servicios de Limpieza y multiservicios.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216415571968
+    m_Localized: LIMPIEZAS ONOVAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217116020736
+    m_Localized: Limpieza y mantenimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217837441024
+    m_Localized: Servicio de limpieza comercial a empresas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218491752448
+    m_Localized: Limpieza para empresas y particulares. Mantenimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219162841088
+    m_Localized: "Prestaci\xF3n de servicios asistenciales y sociosanitarios a domicilio
+      destinados a personas mayores y ni\xF1os."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219867484160
+    m_Localized: "Prestaci\xF3n de servicios de cuidado y ayuda a personas mayores
+      y dependientes, servicios dom\xE9sticos en el hogar e internas domicilio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220505018368
+    m_Localized: "Prestaci\xF3n de servicios de asistencia en el hogar a personas
+      mayores y dependientes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221176107008
+    m_Localized: "Prestaci\xF3n de servicios de cuidado y ayuda a dependientes, y
+      personas mayores, servicios de formaci\xF3n en competencias sociosanitarias."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221780086784
+    m_Localized: "Prestaci\xF3n de servicios de cuidadoras internas, cuidadoras por
+      horas, cuidadoras nocturnas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222451175424
+    m_Localized: "Prestaci\xF3n de servicios de promoci\xF3n de la salud en personas
+      mayores, cuidado de personas mayores y dependientes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223092903936
+    m_Localized: "Prestaci\xF3n de servicios de ayuda a domicilio y Centro de d\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223726243840
+    m_Localized: "Prestaci\xF3n de servicios de cuidado de personas mayores, y dependientes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224363778048
+    m_Localized: "Prestaci\xF3n de servicios de atenci\xF3n sociosanitario, centros
+      de d\xEDa, atenci\xF3n a mayores, y personas dependientes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225001312256
+    m_Localized: "Prestaci\xF3n de servicios de atenci\xF3n sociosanitario, centros
+      de d\xEDa, atenci\xF3n a mayores, y personas dependientes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225638846464
+    m_Localized: "Prestaci\xF3n de servicios de atenci\xF3n sociosanitaria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226242826240
+    m_Localized: "Prestaci\xF3n de servicios de atenci\xF3n sociosanitaria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226901331968
+    m_Localized: "Prestaci\xF3n de servicios de limpieza a hospitales, bancos, supermercados,
+      etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227350122496
+    m_Localized: "Prestaci\xF3n de servicios de limpieza por horas, empleadas de
+      hogar, cuidado de ni\xF1os, limpieza de casas, etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228021211136
+    m_Localized: "Prestaci\xF3n de servicios de limpieza industrial."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228591636480
+    m_Localized: "Prestaci\xF3n de servicios de limpieza a empresas y comunidades."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229195616256
+    m_Localized: "Prestaci\xF3n de servicios de limpieza a particulares y empresas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229807984640
+    m_Localized: "Prestaci\xF3n de servicios de limpieza, retirada de productos y
+      residuos peligrosos, y desinfecci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230374215680
+    m_Localized: "Prestaci\xF3n de servicios de limpieza en oficinas, edificios,
+      garajes, eventos, jardines y mucho m\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230974001152
+    m_Localized: "Prestaci\xF3n de servicios de limpieza, jardiner\xEDa,  mantenimiento,
+      y limpieza de veh\xEDculos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231544426496
+    m_Localized: "Prestaci\xF3n de servicios de mantenimientos de oficinas, comunidades,
+      garajes y cristales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232152600576
+    m_Localized: "Prestaci\xF3n de servicios de limpieza de tiendas y comercios,
+      apartamentos tur\xEDsticos, gimnasios, comunidades, etc."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232823689216
+    m_Localized: "Prestaci\xF3n de servicios de comunidades, oficinas, cl\xEDnicas,
+      viviendas, cristales, naves, hoteles, entre otras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233389920256
+    m_Localized: "Prestaci\xF3n de servicios de limpieza profunda a viviendas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234052620288
+    m_Localized: "Prestaci\xF3n de servicios de limpieza profunda a viviendas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6366301229056
+    m_Localized: "Prestaci\xF3n de servicios de limpieza a casas, hospitales, residencias,
+      adem\xE1s  cuidado de personas mayores."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

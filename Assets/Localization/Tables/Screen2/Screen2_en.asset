@@ -1,0 +1,1971 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1f45faf8b359f4f40b40d048dc280ecf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 71695306752
+    m_Localized: "<color=#610078></align=left><size=60>Cognitive Stimulation and
+      Prevention of Decline.</color></size></align>\r\n\r\nIn today\u2019s society,
+      characterized by an increasingly aging population, the need to maintain cognitive
+      health and prevent mental decline has become crucial. In this context, cognitive
+      stimulation emerges as a key tool for promoting brain health throughout life.
+      In this educational session, we will delve into the key concepts related to
+      cognitive stimulation and its role in preventing decline, as well as practical
+      strategies for its effective implementation.\r\n\r\n<color=#610078></align=left><size=60>Definition
+      of Cognitive Stimulation:</color></size></align>\r\n\r\nCognitive stimulation
+      refers to a set of activities, exercises, and techniques designed to enhance
+      cognitive functions. These activities aim to challenge and exercise the brain
+      with the goal of maintaining or improving abilities such as:\r\n\r\n- Memory 
+      \r\n- Attention  \r\n- Reasoning  \r\n- Perception  \r\n- Thinking  \r\n\r\nThese
+      activities can range from simple memory exercises to more complex tasks that
+      require deep cognitive processing. Cognitive stimulation seeks to keep the
+      mind active and engaged, thus promoting brain plasticity and cognitive health
+      throughout life.\r\n\r\n<color=#610078></align=left><size=60>The Importance
+      of Cognitive Stimulation in Preventing Decline:</color></size></align>\r\n\r\nCognitive
+      stimulation plays a crucial role in preventing cognitive decline and promoting
+      brain health as we age. Although aging naturally brings changes to the brain
+      that can affect our cognitive abilities, research has shown that the brain
+      has a remarkable capacity for adaptation and change, known as brain plasticity.
+      Cognitive stimulation promotes this plasticity by regularly challenging and
+      exercising the brain, which can help counteract the effects of aging and reduce
+      the risk of neurodegenerative diseases such as Alzheimer\u2019s, Parkinson\u2019s,
+      dementia, and many others.\r\n\r\n<color=#610078></align=left><size=60>Symptoms
+      of Cognitive Decline:</color></size></align>\r\n\r\nCognitive decline can manifest
+      in various ways, and symptoms may vary depending on the underlying cause and
+      severity. Here are some common symptoms of cognitive decline:\r\n\r\n- **Memory
+      problems:**  \r\na. Difficulty remembering recent information or past events. 
+      \r\nb. Forgetting important details of daily life, such as the names of close
+      people or important appointments.  \r\nc. Repeating questions or stories due
+      to memory lapses.  \r\n\r\n- **Difficulties in Thinking and Reasoning:**  \r\na.
+      Difficulty concentrating or maintaining attention in simple tasks or conversations. 
+      \r\nb. Slowness in processing information or solving problems.  \r\nc. Difficulty
+      following complex instructions or performing tasks that were once easy.  \r\n\r\n-
+      **Changes in Language and Communication:**  \r\na. Struggling to find the right
+      words during conversations.  \r\nb. Difficulty expressing ideas clearly or
+      following a conversation thread.  \r\nc. Misusing words or having difficulty
+      understanding spoken language.  \r\n\r\n- **Disorientation in Time and Space:** 
+      \r\na. Confusion about the date, time of day, or current location.  \r\nb.
+      Difficulty following directions or finding the way home or to familiar places. 
+      \r\nc. Loss of sense of time or sequence of events.  \r\n\r\n- **Behavioral
+      and Personality Changes:**  \r\na. Sudden or unusual mood swings, such as irritability,
+      apathy, or anxiety.  \r\nb. Loss of interest in activities that were once enjoyable. 
+      \r\nc. Personality changes, becoming more withdrawn or aggressive.  \r\n\r\nIt
+      is important to note that these symptoms may be subtle at first and can be
+      mistaken for normal aging or stress. However, if the symptoms persist or begin
+      to significantly interfere with daily life, it is essential to seek medical
+      attention for an accurate diagnosis and appropriate treatment plan.\r\n\r\n<color=#610078></align=left><size=60>Strategies
+      for Cognitive Stimulation to Prevent Cognitive Decline:</color></size></align>\r\n\r\n1.
+      **Lifelong Learning Activities:**\r\n\r\nEncourage participation in lifelong
+      learning activities, such as:\r\n\r\n- **Classes:** Classes provide significant
+      mental stimulation by challenging individuals to learn new skills, concepts,
+      and information. This constant challenge helps keep the brain active, promoting
+      neuronal growth and brain plasticity.\r\n\r\n- **Workshops:** Workshops often
+      involve activities that challenge and stimulate the brain, such as problem-solving,
+      decision-making, learning new skills, or engaging in creative projects.\r\n\r\n-
+      **Online Courses:** Online courses offer a wide range of topics and disciplines,
+      allowing participants to expand their knowledge base. This diversified learning
+      can stimulate the brain and promote greater cognitive development.\r\n\r\nLifelong
+      learning challenges the brain and promotes the formation of new neural connections,
+      which can improve cognitive function and cognitive reserve in the long term.\r\n\r\n2.
+      **Mental Exercises:**\r\n\r\nIncorporate daily exercises that challenge different
+      cognitive skills, such as memory, attention, and problem-solving. This can
+      include solving crosswords, sudoku puzzles, brainteasers, word games, and memory
+      activities. These exercises can be both fun and beneficial for keeping the
+      mind active and agile.\r\n\r\n3. **Social Interaction:**\r\n\r\nEncourage participation
+      in social activities and maintain meaningful social connections with friends,
+      family, and the community. Social interaction stimulates the brain and can
+      help prevent depression and isolation, factors that can contribute to cognitive
+      decline. Engaging in group activities, clubs, or volunteering also provides
+      opportunities for learning and cognitive stimulation.\r\n\r\n4. **Healthy Lifestyle:**\r\n\r\nPromote
+      a healthy lifestyle that includes a balanced diet, regular exercise, adequate
+      sleep, and stress management. Healthy eating, physical exercise, and proper
+      rest are essential for maintaining brain health and promoting neuronal plasticity.
+      Chronic stress and unhealthy habits can negatively impact cognitive function
+      and increase the risk of cognitive decline in the long term.\r\n\r\n5. **Mental
+      Challenges and New Experiences:**\r\n\r\nExpose yourself to new mental challenges
+      and enriching experiences to stimulate the brain and promote the formation
+      of new neural connections. This can include traveling, exploring new cultures,
+      learning new skills, or engaging in creative activities. Exposure to new experiences
+      and stimuli can help keep the mind active and flexible, contributing to long-term
+      cognitive health.\r\n\r\n6. **Conclusions and Final Recommendations:**\r\n\r\nCognitive
+      stimulation is a powerful tool for promoting brain health and preventing cognitive
+      decline throughout life. By incorporating cognitive stimulation activities
+      into your daily routine and adopting a healthy lifestyle, you can keep your
+      mind active and agile, promoting quality of life and cognitive well-being as
+      you age. Remember that it is never too late to start caring for your brain
+      health, and even small changes can have a significant impact on your cognitive
+      function and long-term well-being.\r\n\r\nSources:  \r\n\r\n<color=blue></align=left><u><link=https://www.nia.nih.gov/health/healthy-aging>https://www.nia.nih.gov/health/healthy-aging</link></u></color></align=left>\r\n\r\n<color=blue></align=left><u><link=https://www.who.int/es/news-room/fact-sheets/detail/dementia>https://www.who.int/es/news-room/fact-sheets/detail/dementia</link></u></color></align=left>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182861139968
+    m_Localized: "<color=#610078></align=left><size=60>Cleaning Techniques</color></size></align>\r\n\r\nIn
+      this section, we will explore the most suitable techniques when working with
+      furniture, including the type of product for each piece, the tools to use,
+      and a brief overview of how to prepare and condition the workspaces.\r\n\r\n**A)
+      Leather Furniture Cleaning**\r\n\r\n\u25CF Leather furniture requires special
+      care to maintain its appearance and durability. A specific leather cream, applied
+      with a soft cloth, is recommended.\r\n\r\n\u25CF Procedure:  \r\n1. Start by
+      removing dust with a dry cloth to avoid scratches.  \r\n2. Apply the leather
+      cream with a damp cloth to remove dirt.  \r\n3. Use a clean, dry cloth to spread
+      the cream evenly.  \r\n4. Finally, rub with a soft cloth to achieve the desired
+      shine.\r\n\r\n**B) Upholstered Furniture Cleaning**\r\n\r\n\u25CF Upholstered
+      furniture can easily accumulate dust and stains. Use a vacuum to remove dust,
+      and for stains, a specific upholstery product along with a bristle brush and
+      a cloth for cleaning.\r\n\r\n\u25CF Procedure:  \r\n1. Use the vacuum to remove
+      surface dust.  \r\n2. Apply the upholstery-specific product on the stains and
+      rub with a brush.  \r\n3. Wipe with a damp cloth to remove dirt, and repeat
+      if necessary.\r\n\r\n**C) Computer Equipment Cleaning**\r\n\r\n\u25CF Cleaning
+      computer equipment is crucial to maintaining optimal functionality. Use special
+      cloths and products to remove dust and stains without damaging the components.\r\n\r\n\u25CF
+      Procedure:  \r\n1. Wipe with a cloth to remove surface dust.  \r\n2. Apply
+      the specific product and gently rub to remove stains.  \r\n3. Use a dampened
+      cloth to remove dirt and rinse until clean.  \r\n4. Finally, use a dry cloth
+      to polish and add shine.\r\n\r\n**D) Wooden Furniture Cleaning**\r\n\r\n\u25CF
+      Wooden furniture requires special care to maintain its shine and beauty. Use
+      specific cloths and products to remove dust and enhance its appearance.\r\n\r\n\u25CF
+      Procedure:  \r\n1. Remove objects from the surface and clean the dust with
+      a cloth.  \r\n2. Apply furniture cleaner with a clean cloth and spread it evenly. 
+      \r\n3. Let it dry and polish with a clean cloth.\r\n\r\n**E) Solid Wood Cleaning**\r\n\r\n\u25CF
+      Solid wood furniture may require special care due to its age. Use a clean,
+      dry cloth to remove dust and occasionally apply a special cream for antique
+      furniture.\r\n\r\n\u25CF Procedure:  \r\n1. Wipe with a clean, dry cloth to
+      remove dust.  \r\n2. Apply the special cream for antique furniture and polish
+      as needed.\r\n\r\n**F) Office Cleaning**\r\n\r\n\u25CF Keeping offices clean
+      is essential for a healthy work environment. Use tools such as wastebaskets,
+      brooms, buckets, dry cloths, mops, dusters, and sprayers for comprehensive
+      cleaning.\r\n\r\n\u25CF Procedure:  \r\n1. Empty wastebaskets and dust the
+      high areas of the office with a duster.  \r\n2. Wipe furniture with a damp
+      cloth and remove dust from surfaces.  \r\n3. Vacuum or sweep the floors, and
+      if necessary, apply an air freshener.\r\n\r\n**G) Mirror and Glass Cleaning**\r\n\r\n\u25CF
+      Mirrors and glass need regular cleaning to maintain their transparency. Use
+      a cloth, sponge, and glass cleaner for effective cleaning.\r\n\r\n\u25CF Procedure: 
+      \r\n1. Wipe the frames and surfaces with a damp cloth.  \r\n2. Apply glass
+      cleaner and clean with a sponge.  \r\n3. Use a dry cloth to polish and shine
+      the surface.\r\n\r\n<color=#610078></align=left><size=60>Use of Cleaning Products</color></size></align>\r\n\r\nThe
+      use of cleaning and disinfecting products can pose risks both to the environment
+      and to our health. Many of these products, commonly used in household tasks,
+      contain potentially harmful chemicals. When these products are disposed of
+      in the trash or poured down the drain, they contribute to environmental pollution,
+      affecting ecosystems and water quality.\r\n\r\nOn the other hand, improper
+      use of these products can lead to a variety of health problems, from allergies
+      and irritations to headaches, nausea, and disorders of the nervous and immune
+      systems. It is important to understand that some toxic products can have subtle
+      but long-term harmful effects, making proper handling even more critical.\r\n\r\nFor
+      these reasons, it is necessary to use cleaning products properly, taking into
+      account the quantity to be used (dosing) for each product and the risks we
+      must prevent.\r\n\r\n<color=#610078></align=left><size=60>Dosing</color></size></align>\r\n\r\nIt
+      is crucial to properly dose cleaning and disinfecting products to avoid excessive
+      exposure and protect our health. Dispensers, devices incorporated into the
+      product's packaging, are useful tools that help us calculate the exact amount
+      needed for each cleaning task.\r\n\r\nAdditionally, it is essential to read
+      and understand the information provided on product labels, which offer important
+      details about their composition, toxicity level, and necessary precautions
+      for safe handling. This way, we can minimize the risks associated with the
+      use of these chemicals and ensure a clean and safe environment.\r\n\r\n<color=#610078></align=left><size=60>Labeling</color></size></align>\r\n\r\nTo
+      start cleaning and use the various cleaning products safely and effectively,
+      it is essential to understand the symbols and nomenclature that describe their
+      most relevant characteristics. Without this understanding, we risk using products
+      incorrectly, which can have negative consequences for our health and the environment.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186485018624
+    m_Localized: "E - Explosives (example: aerosols)  \r\nO \u2013 Oxidizer (example:
+      alcohol, diesel, petroleum, solvents\u2026)  \r\nF+ - Extremely flammable (example:
+      aerosols, diesel, petroleum)  \r\nF \u2013 Highly flammable (example: alcohol,
+      solvents)  \r\nT+ - Highly toxic (example: arsenic)  \r\nT- Toxic (example:
+      ammonia and aerosols)  \r\nX \u2013 Harmful (example: bleach, ammonia)  \r\nC
+      \u2013 Corrosive (example: drain cleaners, caustic soda, dishwashing products) 
+      \r\nN \u2013 Dangerous for the environment (example: carbides)  \r\n\r\n<color=#610078></align=left><size=60>Potentially
+      Hazardous Cleaning Products</color></size></align>\r\n\r\nIn everyday life,
+      it is common to have a variety of cleaning products that may pose risks to
+      health and the environment. These include bleach, anti-limescale agents, detergents,
+      refrigerants, disinfectants, and various cleaners for different surfaces. Dangerous
+      products are often labeled with orange warning symbols, indicating properties
+      such as explosiveness, flammability, toxicity, among others.\r\n\r\nSome preventive
+      measures include:  \r\n1. **Assess the need**: Before purchasing, ask yourself
+      if the product is truly necessary.  \r\n2. **Moderate use**: Use the smallest
+      possible amount of the product, which can reduce consumption by up to 20%. 
+      \r\n3. **Read labels**: Carefully read the labels to understand the risks and
+      usage instructions.  \r\n4. **Avoid mixing**: Never mix products like bleach
+      and ammonia, as they can produce toxic gases.  \r\n5. **Choose phosphate-free
+      detergents**: Opt for detergents without phosphates to reduce environmental
+      impact.  \r\n6. **Seek natural alternatives**: Consider using natural cleaning
+      products such as vinegar, baking soda, and mild soap.  \r\n7. **Eco-friendly
+      products**: Prefer eco-friendly cleaning products that are less harsh on the
+      environment and health.  \r\n8. **Recyclable packaging**: Choose products in
+      recyclable packaging to reduce environmental waste impact.\r\n\r\nReading the
+      labels of cleaning products carefully is a fundamental step in ensuring household
+      safety. These labels not only provide information about the product's composition
+      but also warn about specific risks associated with its use and offer important
+      guidelines for taking appropriate precautionary measures. Taking the time to
+      fully understand this information can make the difference between a safe home
+      environment and a potentially dangerous one.\r\n\r\nWhen selecting cleaning
+      products, it's important to avoid those containing certain chemicals known
+      for their harmful effects on human health and the environment. These chemicals
+      include surfactants, phosphates, glutaraldehyde, formaldehyde, and chlorinated
+      compounds. The presence of these ingredients can increase the risk of skin
+      irritation, respiratory problems, water contamination, and harm to aquatic
+      life. Therefore, when choosing cleaning products, it's essential to opt for
+      those that are free of these compounds or contain them in minimal quantities.\r\n\r\nAdopting
+      natural and environmentally friendly alternatives is becoming an increasingly
+      important practice in household management. Opting for cleaning products made
+      with natural and biodegradable ingredients not only reduces exposure to harmful
+      chemicals but also helps protect aquatic and terrestrial ecosystems. Moreover,
+      these alternatives are often just as effective at cleaning and disinfecting,
+      demonstrating that it is possible to maintain cleanliness without compromising
+      human health or the natural environment.\r\n\r\n<color=#610078></align=left><size=60>Risk
+      Prevention in Cleaning</color></size></align>\r\n\r\nOccupational risk involves
+      the possibility of a worker suffering harm due to their work, such as accidents
+      or occupational diseases. Occupational safety seeks to prevent or reduce these
+      risks. In the cleaning industry, workers are exposed to injuries or illnesses
+      due to the materials and products used in their work. Therefore, it is crucial
+      to understand these risks and the measures to prevent them.\r\n\r\nThe basic
+      principles of safety are as follows:  \r\n\u25CF Prioritize the worker's health 
+      \r\n\u25CF Accident prevention is everyone's responsibility  \r\n\u25CF Safety
+      is an integral part of each employee's work, who must take care of their own
+      safety and that of others  \r\n\u25CF Properly use tools, machines, and substances 
+      \r\n\u25CF Use protective equipment  \r\n\u25CF Report risk situations  \r\n\u25CF
+      Comply with safety and health regulations  \r\n\u25CF Cooperate with the employer
+      to ensure safe working conditions\r\n\r\nWorkplace accidents often occur due
+      to lack of knowledge, poor prevention management, overconfidence, or underestimation
+      of risks. It is essential to work safely, paying attention throughout the workday.\r\n\r\nThe
+      cleaning sector encompasses various activities with varied risks, from falls
+      to intoxications. It is important to identify and prevent these risks to ensure
+      a safe working environment.\r\n\r\nSome risks and preventive measures include:\r\n\r\n1.
+      **Falls**  \r\n\u25CF Avoid risk situations when working at heights  \r\n\u25CF
+      Keep work areas orderly and clean  \r\n\u25CF Use appropriate protective equipment 
+      \r\n\r\n2. **Blows**  \r\n\u25CF Handle objects and tools with care  \r\n\u25CF
+      Use gloves and other protective equipment provided by the company  \r\n\r\n3.
+      **Intoxication**  \r\n\u25CF Store and handle cleaning products according to
+      the manufacturer's instructions  \r\n\u25CF Use personal protective equipment
+      and adhere to safety standards  \r\n\r\n4. **Overexertion and lifting**  \r\n\u25CF
+      Ask for help when necessary to handle heavy loads  \r\n\u25CF Follow proper
+      lifting techniques to avoid injuries  \r\n\r\n5. **Electrical contact**  \r\n\u25CF
+      Avoid contact with wet electrical equipment  \r\n\u25CF Use safety devices
+      and follow handling standards  \r\n\r\n6. **Biological risks**  \r\n\u25CF
+      Follow hygiene protocols and use protective equipment when cleaning areas with
+      biological risks  \r\n\r\n7. **Psychosocial risks**  \r\n\u25CF Conduct evaluations
+      and studies to identify psychosocial risks  \r\n\u25CF Implement measures to
+      promote a healthy work environment and reduce stress  \r\n\r\nRisk prevention
+      in cleaning is essential to ensuring the safety and well-being of workers.
+      It is everyone's responsibility to adopt preventive measures and promote a
+      safe and healthy work environment.\r\n\r\n**SOURCE:**\r\n\r\n<color=blue></align=left><u><link=https://estabilizacion.emvipsa.es/wp-content/uploads/2023/03/TEMARIO-LIMPIEZA.pdf>https://estabilizacion.emvipsa.es/wp-content/uploads/2023/03/TEMARIO-LIMPIEZA.pdf</link></u></color></align>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188968046592
+    m_Localized: "<color=#610078><size=60>Food Handling</color></size></align=left>\r\n\r\nCorrect
+      food handling requires adopting preventive measures to avoid risks. Below are
+      the main aspects that handlers should take care of:\r\n\r\n\u25CF Personal
+      health: it is essential for handlers to take care of their health. In case
+      of illness, such as nausea, vomiting, fever, or severe skin conditions, they
+      must inform their supervisor and refrain from working until full recovery.
+      If there are cuts or wounds on the hands, they must be disinfected and covered
+      with waterproof bandages and gloves to prevent food contamination.\r\n\r\n\u25CF
+      Personal hygiene: a high degree of personal hygiene must be maintained, including
+      showering before work, keeping hair clean, brushing teeth, and keeping nails
+      short and clean.\r\n\r\n\u25CF Work attire: work clothes should be exclusively
+      for handling food, preferably light-colored and clean. They should not be worn
+      on the street or in places where they can become contaminated. A hat or hairnet
+      should be used to fully cover the hair and prevent it from falling onto the
+      food.\r\n\r\n\u25CF Hygienic habits when handling food: there are certain activities
+      prohibited in the workplace, such as smoking, chewing gum, or eating. If it
+      is necessary to blow your nose, disposable tissues must be used and properly
+      discarded. Food must also be washed correctly, not left at room temperature
+      for more than two hours, and safe practices must be followed during its preparation
+      and consumption, such as properly thawing food and avoiding mixing raw and
+      cooked foods in the fridge.\r\n\r\n<color=#610078><size=60>Hygiene of Common
+      Foods</color></size></align=left>\r\n\r\nTo ensure safe food handling, it is
+      crucial to follow a set of hygiene rules. A common practice for all foods is
+      to ensure that the workspace, as well as utensils and tools, are clean and
+      disinfected before handling any food.\r\n\r\n\u25CF Fish: before cutting or
+      cooking fish, it is essential to verify that it is in good condition for consumption.
+      It should have firm scales, reddish gills, and bulging, bright eyes.\r\n\r\n\u25CF
+      Meats: \r\n   o Chicken: it is essential that it retains its characteristic
+      smell and texture. If it has a slimy film or a greenish color, it is no longer
+      suitable for consumption. Specific recommendations must be followed, such as
+      using a designated cutting board and gloves, planning the consumption, and
+      avoiding contamination of other foods.\r\n   \r\n   o Beef: its original characteristics
+      must be observed, and a specific board should be used for handling it.\r\n  
+      \r\n   o Pork: the same steps as for beef should be followed.\r\n\r\n\u25CF
+      Shellfish: due to their fragility against contamination, it is crucial to maintain
+      the cold chain during handling. It is recommended to cool cooked shellfish
+      in an ice bath and consume frozen shellfish with the head as soon as possible
+      to avoid deterioration.\r\n\r\n\u25CF Vegetables and fruits: these foods contaminate
+      easily and quickly, so it is essential to remove those that begin to spoil
+      to prevent contamination of the rest. They must be washed and disinfected before
+      consumption or processing. It is also recommended to use a specific knife and
+      cutting board for cutting them.\r\n\r\n\u25CF Dairy: it is essential to avoid
+      exposing dairy products to room temperature for more than two hours (30 minutes
+      for cheeses). They should be kept in the fridge for a maximum of 3 days.\r\n\r\n<color=#610078><size=60>Cleaning
+      and Hygiene in Food Handling</color></size></align=left>\r\n\r\nIn terms of
+      cleaning and hygiene, it is crucial not only to consider the personal hygiene
+      of the handlers but also the cleanliness of everything around the food, from
+      utensils to facilities.\r\n\r\n\u25CF Hygiene rules in food handling or restaurant
+      premises:\r\n\r\n   It is essential to maintain proper hygiene and food handling
+      in all food handling or restaurant premises by following an adequate cleaning
+      and disinfection protocol. Cleaning is not only done to prevent microorganisms
+      from appearing but also to avoid pests that can arise due to unsanitary conditions.\r\n\r\nTo
+      prevent pests, handlers must implement various preventive measures such as:
+      \r\n\r\n   o Ensuring that drain grates are properly placed\r\n   \r\n   o
+      Checking that windows have intact mesh or screens\r\n   \r\n   o Keeping insect
+      killers on\r\n   \r\n   o Ensuring all doors are properly closed and without
+      gaps\r\n   \r\n   o Keeping trash bins clean and changing bags regularly\r\n  
+      \r\n   o Not leaving doors or windows open without protection\r\n   \r\n  
+      o Keeping storerooms organized and clean\r\n   \r\n   o Inspecting merchandise
+      to ensure it does not carry any pests\r\n\r\n   In case a pest is found, it
+      should be reported to approved external companies for elimination, using specialized
+      methods and products.\r\n\r\nRegarding garbage and waste management, it is
+      essential to keep bins closed, avoid exposure to the sun and high temperatures,
+      use single-use plastic bags, and wash hands after handling garbage or waste.\r\n\r\n\u25CF
+      Utensil and equipment rules for food handling:\r\n\r\n   To maintain hygiene
+      in premises where food is handled, it is crucial to follow proper hygiene practices
+      for equipment and utensils. All utensils that come into contact with food must
+      be easily washable and not have areas where dirt can accumulate. The use of
+      wooden utensils is prohibited as they can splinter and pose a risk to consumers.
+      Clean and disinfected utensils should be properly stored, avoiding the use
+      of cloths or rags and opting for disposable papers. Machines used should have
+      easily removable parts to facilitate cleaning. Moreover, dry sweeping in areas
+      where food products are present is not allowed, and cleaning products used
+      must be suitable for the food industry.\r\n\r\n\u25CF Cleaning and disinfection
+      of utensils:\r\n\r\n   It is essential to differentiate between cleaning and
+      disinfection as they are complementary actions to ensure proper sanitization.
+      Cleaning involves removing visible residues with hot water and suitable detergents,
+      while disinfection is done after cleaning to eliminate or reduce microorganisms
+      present on surfaces. The steps for proper cleaning and disinfection include
+      applying detergent, rinsing, applying disinfectant, and drying with disposable
+      paper.\r\n\r\n<color=#610078><size=60>Food Contamination: Types and Sources</color></size></align=left>\r\n\r\n\u25CF
+      Types of food contaminants:\r\n\r\n   Food contamination refers to the presence
+      of unwanted substances in food that can negatively affect the consumer's health.
+      These contaminants can be classified into three main categories:\r\n\r\n  
+      o Physical contaminants: these are foreign objects that can be visible to the
+      naked eye, such as glass, bones, plastics, and other objects that pose a risk
+      of physical harm to the consumer.\r\n   \r\n   o Chemical contaminants: these
+      include toxic substances that can contaminate food accidentally or as a result
+      of improper handling. These may include cleaning products, pesticides, pesticide
+      residues, heavy metals, etc.\r\n   \r\n   o Biological contaminants: caused
+      by living organisms that contaminate food, such as insects, rodents, birds,
+      parasites, and microorganisms like bacteria, viruses, and molds.\r\n\r\n\u25CF
+      Main sources of food contamination:\r\n\r\n   It is crucial to identify the
+      main sources of food contamination to prevent its occurrence. These sources
+      include:\r\n\r\n   o Environment: microorganisms present in water, dust, soil,
+      and air can contaminate food.\r\n   \r\n   o Pests: insects, rodents, birds,
+      and other animals can transmit contaminants to food.\r\n   \r\n   o Utensils
+      and premises: lack of hygiene in utensils and premises can be a source of infection.\r\n  
+      \r\n   o Garbage: the presence of garbage near food can contaminate it.\r\n  
+      \r\n   o Cross-contamination: the transfer of contaminants from one food to
+      another, either by mixing raw and cooked foods or using the same utensils without
+      prior cleaning.\r\n   \r\n   o Food handlers: people handling food can be a
+      source of contamination if they do not maintain proper personal hygiene and
+      handling practices.\r\n\r\n\u25CF Identifying contaminated food:\r\n\r\n  
+      Contaminated food does not always show obvious signs of spoilage, so it is
+      important to know some indicators:\r\n\r\n   o Meat: changes in color, smell,
+      or texture may indicate contamination.\r\n   \r\n   o Fish and shellfish: reddish
+      gills, bright eyes, and firm scales are signs of freshness.\r\n   \r\n   o
+      Dairy and eggs: changes in color, smell, or texture may indicate contamination.\r\n  
+      \r\n   o Fruits and vegetables: the presence of mold, soft spots, or slimy
+      films may indicate contamination.\r\n\r\n   It is essential to discard any
+      food showing signs of contamination, even if it appears to be in good condition,
+      to avoid health risks to the consumer.\r\n   \r\nBad Practices in Food Handling\r\nTo
+      ensure safety and hygiene in food handling, certain practices should be avoided:\r\n\r\n\u25CF
+      Smoking\r\n\r\n\u25CF Chewing gum\r\n\r\n\u25CF Eating at the workstation\r\n\r\n\u25CF
+      Coughing, sneezing, or blowing your nose near food\r\n\r\n\u25CF Touching your
+      hair or scratching\r\n\r\n\u25CF Wearing cloths around the waist\r\n\r\n\u25CF
+      Tasting food with your finger\r\n\r\n\u25CF Using dirty spoons for different
+      foods\r\n\r\n\u25CF Cleaning utensils used for tasting food with just water\r\n\r\n\u25CF
+      Leaving cloths on work tables\r\n\r\n\u25CF Leaving utensils inside containers\r\n\r\n\u25CF
+      Drying hands on aprons or pants\r\n\r\n\u25CF Wearing bracelets or rings\r\n\r\n\u25CF
+      Having long, painted, or decorated nails\r\n\r\n<color=#610078><size=60>Food
+      Information Regulation (Allergens)</color></size></align=left>\r\n\r\nAccording
+      to Regulation 1169/2011, also known as the Allergen Information Law, since
+      December 13, 2014, all food operators are required to clearly inform about
+      allergens present in their products. This implies identifying and accurately
+      communicating the allergens contained in the food they offer.\r\n\r\n\u25CF
+      What allergens must be disclosed?\r\n\r\n1. Cereals containing gluten\r\n\r\n2.
+      Crustaceans and crustacean-based products\r\n\r\n3. Eggs and egg-based products\r\n\r\n4.
+      Fish and fish-based products\r\n\r\n5. Peanuts and peanut-based products\r\n\r\n6.
+      Soybeans and soybean-based products\r\n\r\n7. Milk and its derivatives\r\n\r\n8.
+      Nuts (almonds, hazelnuts, walnuts, cashews\u2026)\r\n\r\n9. Celery and derived
+      products\r\n\r\n10. Sesame seeds and sesame seed-based products\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191480434688
+    m_Localized: "<color=#610078><size=60>Prevention of contagious diseases.</color></size>\r\n\r\n<color=#610078><size=60>Contagious
+      diseases:</color></size>\r\n\r\n\tContagious diseases are those that can be
+      transmitted from one person to another, either through direct contact, respiratory
+      droplets, contact with contaminated surfaces, or ingestion of contaminated
+      food or water. These diseases are caused by infectious agents such as bacteria,
+      viruses, fungi, parasites, or other microorganisms, and can spread easily in
+      human populations if proper prevention and control measures are not taken.\r\n\r\nSome
+      examples of contagious diseases and their respective symptoms include:\r\n\r\n1.\tInfluenza
+      (Flu):\r\n-\tSymptoms: Fever, chills, muscle aches, headache, fatigue, cough,
+      nasal congestion, and general malaise.\r\n-\tTransmission: The flu is primarily
+      spread through respiratory droplets produced when an infected person coughs,
+      sneezes, or talks.\r\n\r\n2.\tCOVID-19:\r\n-\tSymptoms: Fever, dry cough, difficulty
+      breathing, fatigue, headache, loss of taste or smell, sore throat, muscle aches,
+      among others.\r\n-\tTransmission: COVID-19 is mainly transmitted through respiratory
+      droplets and close contact with infected individuals. It can also be transmitted
+      by contact with contaminated surfaces.\r\n\r\n3.\tMeasles:\r\n-\tSymptoms:
+      Fever, skin rash that starts on the face and spreads to the body, cough, runny
+      nose, red eyes, and sensitivity to light.\r\n-\tTransmission: Measles spreads
+      through contact with respiratory droplets from an infected person.\r\n\r\n4.\tChickenpox:\r\n-\tSymptoms:
+      Skin rash with fluid-filled blisters that itch intensely, fever, fatigue, headache,
+      and general malaise.\r\n-\tTransmission: Chickenpox is spread through direct
+      contact with the blisters of an infected person or contact with the fluid from
+      the blisters.\r\n\r\n5.\tTuberculosis (TB):\r\n-\tSymptoms: Persistent cough
+      that produces blood-tinged phlegm, weight loss, fatigue, fever, night sweats,
+      and loss of appetite.\r\n-\tTransmission: Tuberculosis is transmitted through
+      the air when an infected person coughs, sneezes, or talks.\r\n\r\n<color=#610078><size=60>Prevention
+      of contagious diseases:</color></size>\r\n\r\n\tTo prevent contagious diseases
+      such as the flu, the common cold, COVID-19, and other viral infections like
+      those mentioned above, it is crucial to adopt effective preventive measures.
+      Below are some key steps that can help reduce the risk of infection:\r\n\r\n-\tPractice
+      good personal hygiene: In addition to frequent hand washing, it is important
+      to maintain good personal hygiene overall, including regular bathing, keeping
+      hair clean and trimmed, and keeping nails short and clean to reduce the buildup
+      of germs and bacteria.\r\n\r\n-\tAvoid sharing personal items: To prevent the
+      spread of diseases, it is advisable to avoid sharing personal items like toothbrushes,
+      kitchen utensils, towels, and makeup, as they can transmit germs from one person
+      to another.\r\n\r\n-\tPromote proper ventilation: Maintaining good ventilation
+      in indoor spaces can help reduce the concentration of viruses and germs in
+      the air. Opening windows and doors to allow the circulation of fresh air is
+      an important measure, especially in closed and crowded places.\r\n\r\n-\tPractice
+      self-care: Strengthening the immune system through a balanced diet, regular
+      exercise, adequate rest, and stress management can help reduce susceptibility
+      to diseases and improve the body's ability to fight infections.\r\n\r\n-\tAvoid
+      unnecessary travel: During outbreaks of contagious diseases, it is advisable
+      to avoid non-essential travel, especially to areas with high transmission rates.
+      If travel is necessary, local and international travel guidelines and restrictions
+      should be followed, along with taking additional precautions to protect yourself
+      and others.\r\n\r\n-\tFollow public health guidelines: Staying informed about
+      recommendations and guidelines from local and national health authorities is
+      essential for making informed decisions about the prevention and control of
+      contagious diseases.\r\n\r\n-\tBe aware of symptoms: Knowing the common symptoms
+      of contagious diseases, such as fever, cough, difficulty breathing, sore throat,
+      and fatigue, can help quickly identify any potential infection and take appropriate
+      action, such as seeking medical care and self-isolation.\r\n\r\n-\tParticipate
+      in screening and testing programs: Participating in screening and testing programs
+      for contagious diseases, such as COVID-19 testing, can help quickly identify
+      and isolate positive cases, reducing the spread of the disease in the community.\r\n\r\n-\tFollow
+      vaccination recommendations: Keeping up to date with vaccines recommended by
+      public health authorities is crucial for preventing contagious diseases. In
+      addition to vaccines against the flu and COVID-19, it is important to get vaccinated
+      against other preventable diseases, such as chickenpox, measles, and whooping
+      cough.\r\n\r\n-\tEncourage community responsibility: The prevention of contagious
+      diseases is a collective effort that requires the collaboration and commitment
+      of the entire community. Promoting a culture of community responsibility, solidarity,
+      and mutual support can help protect the most vulnerable and reduce the spread
+      of diseases.\r\n\r\n-\tAdapt workplace and educational practices: In workplace
+      and educational settings, it is important to implement appropriate prevention
+      measures, such as physical distancing, the use of masks, proper ventilation,
+      and regular cleaning and disinfection of surfaces, to reduce the risk of disease
+      transmission.\r\n\r\n-\tPromote mental health and well-being: During periods
+      of contagious disease outbreaks, it is important to pay attention to mental
+      health and emotional well-being. Encouraging social connection, engaging in
+      relaxing activities, and accessing support resources can help mitigate the
+      stress and anxiety associated with the pandemic.\r\n\r\n-\tAdopt personal protective
+      measures: In addition to using masks, other personal protective equipment,
+      such as gloves and protective eyewear, can be used in environments where there
+      is a higher risk of exposure to germs and viruses, such as hospitals, clinics,
+      and healthcare centers.\r\n\r\n-\tLimit contact with animals: While some contagious
+      diseases can be transmitted from animals to humans, it is important to limit
+      contact with wild and domestic animals, especially in areas where zoonotic
+      disease outbreaks, such as avian flu and rabies, are occurring.\r\n\r\n-\tPractice
+      food safety: To prevent foodborne illnesses, it is important to follow safe
+      food handling and preparation practices, such as washing hands before cooking
+      and eating, cooking food to safe temperatures, and storing food properly to
+      avoid cross-contamination.\r\n\r\n-\tEducate the community: Public education
+      and awareness are powerful tools for preventing contagious diseases. Providing
+      accurate and accessible information about prevention measures, disease symptoms,
+      and available resources can help empower people to protect their health and
+      that of others.\r\n\r\n-\tAdapt to changes in the epidemiological situation:
+      During outbreaks of contagious diseases, it is important to stay alert to changes
+      in the epidemiological situation and adjust prevention measures accordingly.
+      This may include the implementation of additional restrictions, mass vaccination
+      campaigns, and increased testing and contact tracing capacity.\r\n\r\n-\tRemain
+      calm and composed: In times of health crises, it is essential to remain calm
+      and composed to make informed decisions and avoid panic. Seeking information
+      from reliable sources, following public health recommendations, and practicing
+      self-care can help maintain a positive and resilient mindset in the face of
+      adversity.\r\n\r\n-\tEncourage research and innovation: Scientific research
+      and technological innovation play a key role in the prevention and control
+      of contagious diseases. Investing in medical research helps to better understand
+      pathogens, identify risk factors, develop effective vaccines, and improve diagnostic
+      and tracking methods.\r\n\r\nSource:\r\n\r\n<color=blue><u><link=https://medlineplus.gov/spanish/infectiousdiseases.html>Enfermedades
+      infecciosas: MedlinePlus en espa\xF1ol</link>\r\n\r\n<link=https://www.areasaludbadajoz.com/images/datos/docencia_e_investigacion/prevencion_enfermedades_infecciosas_mH5Kc.pdf>Microsoft
+      PowerPoint - PREVENCI\xD3N DE ENFERMEDADES INFECTOCONTAGIOSAS (areasaludbadajoz.com)</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194944929792
+    m_Localized: "<color=#610078><size=60>First Aid Techniques</color></size></align=left>\r\n\r\n\tFirst
+      aid is a vital skill that we should all learn. In emergency situations, having
+      basic first aid knowledge can make the difference between life and death. This
+      training pill aims to provide an overview of essential first aid techniques,
+      from scene assessment to wound management, and even the principles of cardiopulmonary
+      resuscitation (CPR). These techniques also include:\r\n\r\n-\tScene assessment:
+      Before providing assistance, it is important to evaluate the safety of the
+      scene to avoid endangering yourself or others. This involves:\r\n\r\n1.\tAssessing
+      personal safety: Before approaching the area where the victim is located, make
+      sure there are no dangers that could put your safety at risk.\r\n\r\n2.\tIdentifying
+      and eliminating any safety hazards, such as fire, glass, or hazardous materials.\r\n\r\n3.\tIdentifying
+      other people present: Observe if there are other people present in the area
+      and if they can assist in the situation. Coordinate with those present to ensure
+      the safety of the victim and the environment.\r\n\r\n4.\tSeeking resources
+      and protective equipment: Look for appropriate resources and protective equipment
+      to provide care to the victim and protect your safety. This may include gloves,
+      face masks, among others.\r\n\r\n5.\tDetermining the need for additional help:
+      If the situation requires it, request emergency medical assistance by calling
+      the emergency unit of your city. Provide accurate information about the incident's
+      location, the nature of the injuries, and any other relevant details to ensure
+      a prompt and effective response.\r\n\r\n-\tVictim assessment: Once the scene
+      is safe, the victim's condition must be assessed. This involves determining
+      if the person is:\r\n\r\n1.\tEvaluating safety: Before approaching the victim,
+      ensure that the scene is safe for both you and the injured person. Assess any
+      potential hazards, such as fire or exposed electrical cables, and take the
+      necessary steps to eliminate or mitigate these risks.\r\n\r\n2.\tAssessing
+      breathing: Observe whether the victim is breathing normally. If they are unconscious
+      but breathing, place them in a recovery position to keep the airway clear.\r\n\r\n3.\tAssessing
+      the level of consciousness: Ask the victim if they are conscious and observe
+      their response. If there is no response, try gently shaking them or calling
+      their name.\r\n\r\n4.\tAsking questions: If the victim is conscious and able
+      to speak, ask questions to gather more information about potential ailments
+      and if they suffer from any specific health conditions that could worsen due
+      to the accident.\r\n\r\n5.\tDetermining the course of action: Based on your
+      initial assessment, determine the most appropriate course of action. Provide
+      the necessary first aid and request additional medical help if needed.\r\n\r\n-\tWound
+      management: Proper wound care is essential in first aid to prevent infections
+      and promote quick healing. The basic steps for treating a wound include:\r\n\r\n1.\tCleaning
+      the wound: Use clean water and mild soap to gently wash the wound and remove
+      any dirt or foreign bodies.\r\n\r\n2.\tStopping the bleeding: Apply direct
+      pressure on the wound with a clean dressing or sterile cloth. Elevate the limb
+      if possible and maintain pressure until the bleeding stops.\r\n\r\n3.\tApplying
+      a dressing: Once the bleeding has stopped, apply a sterile dressing or clean
+      bandage to cover the wound and protect it from contamination.\r\n\r\n4.\tSeeking
+      medical attention: If the wound is deep, extensive, or causing severe bleeding,
+      seek medical attention immediately.\r\n\r\n-\tBleeding control: Describes actions
+      to stop the bleeding of a patient who has suffered a traumatic wound or has
+      a condition that has caused bleeding.\r\n\r\n1.\tDirect pressure on the wound:
+      Apply direct pressure on the wound using a sterile dressing or compress. Press
+      firmly with the palm of your hand to stop the bleeding. If the bleeding is
+      severe, you may need to apply more pressure.\r\n\r\n2.\tElevating the affected
+      limb: If possible, raise the bleeding body part above heart level. This helps
+      reduce blood flow to the wound and may help stop the bleeding.\r\n\r\n3.\tApplying
+      additional pressure: If direct pressure and elevation do not stop the bleeding,
+      you can apply additional pressure to the wound using a thicker bandage or dressing.\r\n\r\n-\tBasic
+      CPR (Cardiopulmonary Resuscitation): CPR is a life-saving skill in cases of
+      cardiac arrest. The basic steps for performing CPR are as follows:\r\n\r\n1.\tAssessing
+      the situation: Ensure the environment is safe for both you and the victim.
+      Check if the person is unconscious and unresponsive.\r\n\r\n2.\tCalling for
+      emergency help: If the person is unresponsive, immediately request medical
+      assistance by calling the emergency number and follow the operator's instructions.\r\n\r\n3.\tChest
+      compressions: Place your hands in the center of the victim's chest and perform
+      rapid, deep chest compressions at a rate of at least 100-120 compressions per
+      minute.\r\n\r\n4.\tMouth-to-mouth ventilation: If you feel comfortable and
+      safe, you can perform mouth-to-mouth ventilations alternated with chest compressions.
+      Tilt the victim's head back and seal their mouth with yours while inflating
+      air into their lungs.\r\n\r\n5.\tContinuing CPR until help arrives: Continue
+      alternating chest compressions and mouth-to-mouth ventilation until emergency
+      medical personnel arrive and take control of the situation.\r\n\r\n-\tBurn
+      management: Burns can happen at any time and place, so it's important to know
+      how to treat them properly. Here are some basic steps for burn management:\r\n\r\n1.\tCooling
+      the burn: Place the burn under cold running water for at least 10-15 minutes
+      to reduce pain and inflammation.\r\n\r\n2.\tProtecting the burn: Cover the
+      burn with a clean dressing or sterile gauze to protect it from contamination
+      and prevent infections.\r\n\r\n3.\tAvoiding home remedies: Do not apply ice,
+      butter, or other home remedies to the burn, as they may worsen the injury and
+      increase the risk of infection.\r\n\r\n4.\tSeeking medical attention: If the
+      burn is severe, extensive, or affects sensitive areas such as the face, hands,
+      or genitals, seek medical attention immediately.\r\n\r\n-\tChoking prevention:
+      Choking is a potentially life-threatening emergency that can occur when a person's
+      airway is blocked, and they cannot breathe. The basic steps to prevent choking
+      include:\r\n\r\n1.\tKeeping small objects out of children's reach: Avoid leaving
+      small objects within the reach of children, as they may pose a choking hazard
+      if swallowed.\r\n\r\n2.\tCutting food into small pieces: When preparing food
+      for small children or people with swallowing difficulties, make sure to cut
+      it into small pieces to reduce the risk of choking.\r\n\r\n3.\tSupervising
+      children during meals: Never leave a child alone while eating and maintain
+      active supervision to prevent choking situations.\r\n\r\n4.\tLearning first
+      aid techniques for choking: Learn and practice first aid techniques for clearing
+      the airway in an emergency, such as the Heimlich maneuver.\r\n\r\n-\tFracture
+      immobilization: This technique aims to provide functional rest for a limb to
+      allow the consolidation of a fracture or the healing of parts of the joint
+      apparatus in case of injured joints.\r\n\r\n1.\tAssessing the injury: Before
+      handling the injured limb, conduct a quick assessment to determine if there
+      is a fracture. Look for signs such as obvious deformity, swelling, bruising,
+      intense pain when touching the affected area, or inability to move the limb.\r\n\r\n2.\tStabilizing
+      the limb: If you suspect a fracture, immobilize the limb in the position you
+      found it, whenever possible, to avoid movements that may cause further injury.
+      If the person is in an uncomfortable or dangerous position, you can assist
+      them in moving carefully to a safer position.\r\n\r\n3.\tApplying support:
+      Use support materials such as splints or bandages to immobilize the limb and
+      prevent unnecessary movement. Place the splints along both sides of the limb,
+      ensuring they are firm enough to prevent bending or movement.\r\n\r\n4.\tEnsuring
+      immobilization: Once the limb is immobilized, secure the splints or bandages
+      with adhesive tape to maintain stability.\r\n\r\n<color=#610078><size=60>Conclusions
+      and Final Recommendations:</color></size></align=left>\r\n\r\n\tFirst aid techniques
+      are vital skills that we should all learn. From wound care to CPR and choking
+      prevention, this knowledge can make a difference in emergency situations. It
+      is important to receive first aid training and be prepared to act quickly and
+      effectively when necessary. Remember that regular practice and training are
+      essential to keep your skills updated and ready to respond in an emergency.\r\n\r\nSources:
+      \r\n\r\n<color=blue><u><link=https://medlineplus.gov/firstaid.html>https://medlineplus.gov/firstaid.html</link></u></align=left>\r\n\r\n<u><link=https://tinyurl.com/mr2csher>First
+      Aid - Red Cross</link></u></color></align=left>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199034376192
+    m_Localized: "<color=#610078><size=60>Types of Minor Wounds</color></size></align=left>\r\n\r\nA
+      minor wound is a superficial injury to the skin that does not compromise deeper
+      structures. They can be caused by cuts, scrapes, abrasions, or superficial
+      burns. Although these wounds are usually not severe, it's crucial to disinfect
+      them properly to prevent complications.\r\n\r\nIn most cases, minor wounds
+      can be treated at home with proper care. However, it's important to know when
+      to seek medical attention if the wound is more serious or shows signs of infection.\r\n\r\nThere
+      are several types of minor wounds that can occur in daily life, including:\r\n\r\n\u25CF\t**Superficial
+      cuts**: These occur when the skin is cut by a sharp object, such as a knife
+      or a piece of paper. These cuts are usually small and shallow but may cause
+      slight bleeding.\r\n\r\n\u25CF\t**Scratches**: These are superficial wounds
+      that result from friction of the skin against a rough or coarse surface. Although
+      usually shallow, scratches can cause irritation and redness on the skin.\r\n\r\n\u25CF\t**Abrasion
+      from chafing**: These occur when the skin scrapes against a rough surface,
+      such as asphalt or pavement. These wounds are usually painful and present slight
+      bleeding, often accompanied by redness and swelling in the affected area.\r\n\r\n\u25CF\t**Minor
+      burns**: These occur from brief exposure to heat sources, such as the sun or
+      hot water. These burns usually cause redness and pain in the skin, but they
+      generally heal without leaving scars.\r\n\r\n\u25CF\t**Small blisters**: These
+      form as a result of repeated friction or pressure on the skin. They fill with
+      clear or bloody fluid and can be painful to the touch. They usually form in
+      areas where the skin comes into contact with tight footwear or work tools,
+      such as the hands or feet.\r\n\r\n<color=#610078><size=60>Risk Factors for
+      Infection</color></size></align=left>\r\n\r\nThere are various risk factors
+      for infections in minor wounds, and it's important to understand them to prevent
+      complications.\r\n\r\n\u25CF\t**Presence of dirt or foreign objects in the
+      wound**\r\n\r\nWhen the skin is injured, especially if there is dirt or foreign
+      particles present in the affected area, the risk of bacteria entering the wound
+      and causing an infection increases. For example, if someone is cut by a dirty
+      or contaminated object, the bacteria present in the dirt can enter the wound
+      and lead to an infection.\r\n\r\n\u25CF\t**Exposure to bacteria and germs**\r\n\r\nOur
+      skin is naturally populated by a variety of bacteria, some of which can be
+      harmful if they enter an open wound. Additionally, bacteria and germs present
+      in the environment, such as on dirty surfaces or in the air, can contaminate
+      a wound and increase the risk of infection. Therefore, it is crucial to keep
+      the wound clean and protected to prevent the entry of bacteria.\r\n\r\n\u25CF\t**Lack
+      of hygiene**\r\n\r\nIf a wound is not cleaned properly or if dressings or bandages
+      are not regularly changed, bacteria can multiply in the affected area and cause
+      an infection. Additionally, not washing your hands before handling a wound
+      or applying a dressing can transfer bacteria and germs to the wound, further
+      increasing the risk of infection. It's essential to maintain good personal
+      hygiene and follow proper cleaning practices to reduce the risk of infections
+      in minor wounds.\r\n\r\n<color=#610078><size=60>Infection Prevention</color></size></align=left>\r\n\r\nPreventing
+      infections in minor wounds is key to promoting a speedy recovery and avoiding
+      complications.\r\n\r\n\u25CF\t**Keep the wound clean and dry**\r\n\r\nThis
+      involves gently washing the wound with water and mild soap, making sure to
+      remove any dirt or debris. After cleaning, it\u2019s important to carefully
+      dry the wound with a sterile gauze or clean cloth to avoid moisture buildup,
+      which can promote bacterial growth.\r\n\r\n\u25CF\t**Avoid scratching or manipulating
+      the wound**\r\n\r\nAlthough it can be tempting to touch or scratch a wound
+      that itches, doing so increases the risk of introducing bacteria into the wound
+      and causing an infection. It's crucial to resist the temptation to manipulate
+      the wound and instead allow it to heal naturally. Additionally, it's important
+      not to share wound care tools, such as bandages, gauze, or scissors, with others.
+      Sharing such tools can transfer bacteria and germs from one person to another,
+      increasing the risk of infection.\r\n\r\n\u25CF\t**Follow a healthcare professional\u2019s
+      recommendations**\r\n\r\nIf medical attention has been sought to treat the
+      wound, it's important to follow the doctor's or nurse's instructions regarding
+      dressing changes, the application of topical medications, or any other specific
+      instructions for wound care. It's also important to watch for any signs of
+      infection, such as redness, swelling, persistent pain, or pus discharge, and
+      seek medical attention if these symptoms occur.\r\n\r\nFollowing these tips
+      can significantly reduce the risk of infections in minor wounds and promote
+      a quick and safe recovery.\r\n\r\n<color=#610078><size=60>Infection Symptoms</color></size></align=left>\r\n\r\nIt
+      is essential to know and understand the following symptoms to properly identify
+      a possible infection in a minor wound and seek timely medical attention for
+      the necessary treatment.\r\n\r\n1)\t**Redness around the wound**\r\n\r\n\u25CF\tRedness
+      may indicate the presence of inflammation, which is the body\u2019s natural
+      response to an infection.\r\n\u25CF\tIt is important to observe any changes
+      in skin color and seek medical attention if the redness worsens or spreads.\r\n\r\n2)\t**Swelling
+      in the affected area**\r\n\r\n\u25CF\tSwelling is another sign of inflammation
+      and may be an indication of infection in the wound.\r\n\u25CF\tIf the swelling
+      is noticeable or accompanied by other symptoms, such as increased pain, medical
+      attention should be sought immediately.\r\n\r\n3)\t**Increased pain**\r\n\r\n\u25CF\tAn
+      increase in the intensity of pain in the wound area may be a sign of infection.\r\n\u25CF\tIt
+      is important to pay attention to any changes in the sensation of pain and seek
+      medical help if it becomes more intense over time.\r\n\r\n4)\t**Warmth around
+      the wound**\r\n\r\n\u25CF\tInflammation can cause an increase in temperature
+      in the wound area.\r\n\u25CF\tIf localized warmth is noticed along with other
+      symptoms, it is important to seek medical attention to assess if there is an
+      infection present.\r\n\r\n5)\t**Presence of pus or discharge**\r\n\r\n\u25CF\tThe
+      appearance of pus or discharge in the wound is a clear sign of infection and
+      that the body is fighting the presence of microorganisms.\r\n\u25CF\tMedical
+      attention should be sought if pus or any type of discharge is observed in the
+      wound, as it may require proper treatment.\r\n\r\n6)\t**Fever**\r\n\r\n\u25CF\tFever
+      is a systemic symptom that may indicate a more severe infection or the spread
+      of the infection to other parts of the body.\r\n\u25CF\tIf fever occurs along
+      with other signs of infection in a minor wound, it is crucial to seek medical
+      attention immediately to avoid major complications.\r\n\r\n\r\n<color=#610078><size=60>Wound
+      Washing Techniques</color></size></align=left>\r\n\r\nProper wound washing
+      techniques are essential for ensuring effective cleaning and preventing infections.
+      Below, we detail the steps and practical tips to carry out this process adequately:\r\n\r\n\u25CF\t**Use
+      of warm running water and mild soap**\r\n\r\nThe first step in washing a minor
+      wound is to use warm running water and mild soap. Running water helps to remove
+      debris and contaminants from the wound, while mild soap aids in eliminating
+      bacteria and other microorganisms. It\u2019s important to avoid using hot water,
+      as it can cause additional tissue damage.\r\n\r\n\u25CF\t**Avoid using hydrogen
+      peroxide or alcohol**\r\n\r\nWhile hydrogen peroxide or alcohol was commonly
+      recommended for cleaning wounds in the past, it has now been shown that these
+      products can damage tissues and delay the healing process. Therefore, it\u2019s
+      important to avoid using them and opt for warm water and mild soap instead.\r\n\r\n\u25CF\t**Rinse
+      the wound carefully**\r\n\r\nDuring wound washing, it's crucial to rinse the
+      wound carefully to remove any remaining dirt or debris. It\u2019s recommended
+      to use a gentle stream of water to avoid further tissue damage. Make sure there
+      are no foreign particles left in the wound, as they can increase the risk of
+      infection.\r\n\r\n\u25CF\t**Step-by-step instructions**\r\n\r\no\t**Step 1**:
+      Place the wound under warm water for several minutes to remove any visible
+      debris.\r\n\r\no\t**Step 2**: Apply mild soap to the wound and around it, ensuring
+      to cover the entire surface.\r\n\r\no\t**Step 3**: Use your fingertips or a
+      sterile gauze to gently clean the wound, avoiding rubbing forcefully to prevent
+      further damage.\r\n\r\no\t**Step 4**: Rinse the wound carefully with warm running
+      water, ensuring all soap and debris are completely washed away.\r\n\r\no\t**Step
+      5**: Dry the wound with a sterile gauze or clean cloth, patting gently rather
+      than rubbing to avoid irritating the tissues.\r\n\r\n<color=#610078><size=60>Myths
+      and Misconceptions About Wound Care</color></size></align=left>\r\n\r\nWound
+      care is often surrounded by myths and misconceptions that can influence treatment
+      decisions and negatively affect the healing process. Addressing these myths
+      accurately is crucial to ensure people provide the right care for minor wounds.\r\n\r\nHere
+      are some of the most common myths, with accurate information to debunk them:\r\n\r\n\u25CF\t**The
+      myth of letting wounds \"breathe\"**\r\n\r\nMany people believe that leaving
+      a wound uncovered helps it heal faster. However, this approach can be counterproductive.
+      Covering wounds with sterile dressings provides an optimal environment for
+      healing by keeping the wound clean and protected from environmental contamination.
+      Additionally, dressings help maintain the proper moisture balance in the wound,
+      which promotes healing. Leaving wounds uncovered increases the risk of infection
+      and may delay the healing process.\r\n\r\n\u25CF\t**The myth of alcohol and
+      hydrogen peroxide as effective disinfectants**\r\n\r\nAs mentioned earlier,
+      alcohol and hydrogen peroxide are often thought to be effective disinfectants
+      for cleaning wounds. However, these products can be too harsh and damage the
+      healthy tissues around the wound. Additionally, they can interfere with the
+      healing process by killing healthy cells and delaying the formation of new
+      tissue. Instead, using warm water and mild soap to clean wounds is equally
+      effective and less irritating.\r\n\r\n\u25CF\t**The myth of removing scabs**\r\n\r\nSome
+      people believe that removing scabs from a wound speeds up the healing process.
+      However, this can be harmful, as scabs act as a natural protective barrier
+      that helps prevent infections and promotes healing. Removing scabs prematurely
+      can cause bleeding, pain, and increase the risk of infection. It\u2019s important
+      to allow scabs to fall off naturally and not interfere with the healing process.\r\n\r\n\u25CF\t**The
+      myth of using topical antibiotics on all wounds**\r\n\r\nThere is a belief
+      that all cuts and scrapes should be treated with topical antibiotics to prevent
+      infections. However, the overuse of antibiotics can lead to bacterial resistance
+      and increase the risk of side effects. In most cases, proper wound washing
+      with water and mild soap is sufficient to prevent infections in minor wounds.
+      Topical antibiotics should only be used if recommended by a healthcare professional
+      or if the wound shows signs of infection.\r\n\r\n<color=#610078><size=60>Practical
+      Tips for Wound Care</color></size></align=left>\r\n\r\n\u25CF\t**Stay calm
+      and treat the wound gently**\r\n\r\nIn emergency situations, staying calm is
+      essential. Panic can worsen the situation and make proper treatment difficult.
+      Treat the wound gently and with care, avoiding sudden movements that could
+      cause further damage. If the injured person is conscious, reassure them and
+      explain what you\u2019re doing to help calm them.\r\n\r\n\u25CF\t**Control
+      the bleeding and seek medical attention if necessary**\r\n\r\nIf the wound
+      is bleeding heavily, apply direct pressure on it with a clean gauze or sterile
+      cloth. Elevate the affected body part to reduce blood flow. If the bleeding
+      does not stop after a few minutes of continuous pressure, seek medical attention
+      immediately. It\u2019s also important to seek professional help if the wound
+      is deep, extensive, or caused by a dirty or sharp object.\r\n\r\n\u25CF\t**Avoid
+      direct contact with your hands**\r\n\r\nHands can carry germs and bacteria
+      that may infect the wound. Therefore, avoid touching the wound directly with
+      bare hands. Use disposable gloves or sterile gauze to handle the wound and
+      apply any necessary medication or dressing. Always wash your hands thoroughly
+      with water and soap before and after treating a wound, even if you use gloves.\r\n\r\n\u25CF\t**Consult
+      a healthcare professional if the wound is very dirty or contains difficult-to-remove
+      debris**\r\n\r\nIf the wound is extremely dirty or contains hard-to-remove
+      debris, such as dirt or foreign objects, it is advisable to seek professional
+      guidance. A doctor or nurse can assess the severity of the wound and determine
+      if additional procedures, such as saline irrigation or foreign body removal,
+      are necessary. Do not attempt to clean the wound aggressively, as this can
+      cause more damage. It\u2019s better to leave this task to a trained professional.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202117189632
+    m_Localized: "<color=#610078><size=60>Handling People with Reduced Mobility</color></size></align=left>\r\n\r\nReduced
+      mobility refers to the restrictions in movement experienced by some individuals
+      due to a disability or, in the absence of a disability, limitations in their
+      ability to interact with their environment when accessing a space, moving within
+      it, overcoming differences in height, or reaching objects at normal heights.\r\n\r\nThus,
+      a person with reduced mobility is someone who has difficulty moving normally,
+      whether permanently or temporarily, and often requires mechanical assistance
+      (cane, walker, wheelchair, mobility scooter) to move from one point to another.\r\n\r\nConsidering
+      the above, certain aspects must be taken into account to perform proper handling
+      of individuals with reduced mobility. This should be appropriate and ensure
+      the well-being of the person being cared for. Knowledge of patient mobilization
+      techniques is a preventive element in avoiding injuries.\r\n\r\n**MOBILIZATIONS:**
+      movements performed on the same surface, involving changes in position.\r\n\r\n**TRANSFERS:**
+      movements that involve moving from one surface to another.\r\n\r\nBelow are
+      some preventive measures: \r\n\r\n**THINK BEFORE ACTING:** before performing
+      mobilization or transfer:\r\n\r\n\uF0FC\tKnow the degree of dependence and
+      cooperation of the individual.\r\n\r\n\uF0FC\tInform the person about the maneuver
+      to be performed and request their active collaboration.\r\n\r\n\uF0FC\tLock
+      the bed or wheelchair and adjust the height of the bed surface.\r\n\r\n\uF0FC\tApproach
+      and firmly hold the user.\r\n\r\n\uF0FC\tIt is advisable to mobilize between
+      two workers in the case of a non-cooperative user. The use of available technical
+      aids should always be preferred.\r\n\r\n**Posture**\r\n\r\n\uF0FC\tBack straight,
+      do not twist the torso.\r\n\r\n\uF0FC\tAbdomen contracted.\r\n\r\n\uF0FC\tLegs
+      apart, one foot in the direction of the movement.\r\n\r\n\uF0FC\tHip and knee
+      flexion.\r\n\r\n\uF0FC\tGood grip, load close to the body.\r\n\r\n<color=#610078><size=60>Techniques
+      and Aids for Ambulation and Mobilization</color></size></align=left>\r\n\r\nImmobility
+      significantly deteriorates the quality of life for dependent individuals, especially
+      older adults. We cannot consider it normal or inevitable that dependents become
+      immobilized over the years. Generally, we should differentiate between two
+      types:\r\n\r\n\uF0FC\tRelative immobility, in which the user leads a sedentary
+      life but can move with varying degrees of independence.\r\n\r\n\uF0FC\tAbsolute
+      immobility, which implies chronic chaining, with very limited postural variability.\r\n\r\n**What
+      causes immobility?**\r\n\r\n\uF0FC\tThe main cause is bed rest following acute
+      illnesses and especially after hospitalizations.\r\n\r\n\uF0FC\tRheumatological
+      diseases, due to pain and joint deformity.\r\n\r\n\uF0FC\tStroke (cerebral
+      infarction).\r\n\r\n\uF0FC\tParkinson's disease and other dementias in advanced
+      stages.\r\n\r\n\uF0FC\tPeripheral neuropathies, especially in diabetics.\r\n\r\n\uF0FC\tHeart
+      and respiratory diseases that progressively limit exercise tolerance.\r\n\r\n\uF0FC\tPoor
+      nutrition.\r\n\r\n\uF0FC\tGait disorders, positional vertigo, post-fall syndrome.\r\n\r\n\uF0FC\tExcess
+      weight.\r\n\r\n\uF0FC\tLack of motivation or depressive states.\r\n\r\n\uF0FC\tInadequate
+      social support or lack of information on how to resume mobilization and what
+      technical aids are needed.\r\n\r\n\uF0FC\tMany medications accelerate immobility
+      due to side effects such as orthostatic hypotension or deterioration of consciousness
+      levels.\r\n\r\n\uF0FC\tFoot problems: calluses, nail disorders, and deformities
+      causing pain and altering gait.\r\n\r\n\uF0FC\tMany dependents voluntarily
+      extend their hours of sleep, increasing the risk of becoming bedridden.\r\n\r\n<color=#610078><size=60>Positioning
+      in Bed</color></size></align=left>\r\n\r\nPostural changes are modifications
+      made to the body posture of a bedridden patient. To perform these changes,
+      certain general rules should be followed:\r\n\r\n\uF0FC\tPrepare the area where
+      work will take place by removing any elements that may hinder us.\r\n\r\n\uF0FC\tMake
+      an effort using the largest and strongest muscles (thighs and legs).\r\n\r\n\uF0FC\tGet
+      as close as possible to the patient's bed so that the effort is minimized,
+      keeping the spine straight.\r\n\r\n\uF0FC\tIt is preferable to slide and push
+      rather than lift.\r\n\r\n\uF0FC\tWhen possible, more than one person should
+      assist.\r\n\r\n**Incorporating the User**\r\n\r\n\uF0FC\tIndicate to the user
+      to place their arms at their sides with the palms of their hands on the bed.
+      This way, the user can push to provide additional strength.\r\n\r\n\uF0FC\tLooking
+      towards the head of the bed, the professional stands beside the bed at the
+      height of the user's hips. The professional should seek a wide base of support,
+      with the foot farthest from the bed in front, and the weight of the body on
+      that foot.\r\n\r\n\uF0FC\tThe professional places their farthest arm over the
+      user's farthest shoulder. The professional should put their free hand on the
+      bed near the user's other shoulder, using it to push during the lift.\r\n\r\n\uF0FC\tPulling
+      with one arm and pushing with the other, lift the user while shifting weight
+      to stand. The user should also push with their hands (if possible).\r\n\r\n\uF0FC\tWhen
+      possible, more than one person should assist.\r\n\r\n**Moving the User to the
+      Edge of the Bed**\r\n\r\n\uF0FC\tLock the bed (if it has an adjustable feature)
+      and place it in a horizontal position (without angling), remove the pillows,
+      and uncover the user.\r\n\r\n\uF0FC\tPosition yourself on the side of the bed
+      towards which you want to move the user, placing your nearest arm across their
+      torso.\r\n\r\n\uF0FC\tPass your arm under the user's head and neck to grasp
+      their far shoulder, and with your other arm, grasp the lumbar area beneath
+      their body. Once secured with both arms, gently and simultaneously pull the
+      user toward the edge of the bed.\r\n\r\n\uF0FC\tOnce this part of the body
+      is moved, place one of your arms under their buttocks and the other under the
+      lower third of the buttocks, and proceed to move the user to the edge of the
+      bed.\r\n\r\n**Sitting the User on the Edge of the Bed**\r\n\r\n\uF0FC\tThe
+      assistant extends one arm, the one closest to the headboard, and wraps it around
+      the patient's shoulders, while the other is placed on the patient's far hip
+      (it can also be positioned beneath the thighs, supporting the distal leg).\r\n\r\n\uF0FC\tWith
+      this hand, turn the hip and legs so that they hang over the edge of the bed,
+      while using the other arm to help raise the torso. These steps should be performed
+      in one fluid motion.\r\n\r\n**Teaching the User to Sit on the Bed Alone Without
+      Assistance**\r\n\r\nUsers who can sit independently due to acute processes
+      should receive proper education from us. The professional should instruct them
+      to perform the following steps:\r\n\r\n\uF0FC\tRoll to one side and lift the
+      far leg over the other.\r\n\r\n\uF0FC\tGrasp the edge of the mattress with
+      the lower arm and push with the fist of the upper arm against the mattress.\r\n\r\n\uF0FC\tPush
+      with the arms while sliding the heels and legs over the edge of the mattress.\r\n\r\n\uF0FC\tMaintain
+      the sitting position by pushing with both fists into the mattress behind and
+      to the sides of the buttocks.\r\n\r\n**Getting the User into Bed**\r\n\r\n\uF0FC\tIf
+      the user cooperates, carefully remove the pillow.\r\n\r\n\uF0FC\tWith the user
+      lying down, ask them to bend their knees, resting both feet on the bed, and
+      request that they hold onto the headboard with both hands.\r\n\r\n\uF0FC\tPass
+      the arm closest to the user under their back at shoulder height, holding the
+      shoulder farthest from you, and pass the other arm under their thighs.\r\n\r\n\uF0FC\tOnce
+      prepared, instruct the user to push up using their hands on the headboard and
+      their legs resting on the mattress, while you assist with the movement until
+      they are properly positioned. Place the pillow and adjust the bed linens.\r\n\r\nIf
+      the user does not cooperate, the movement can be performed using a transfer
+      sheet, but it requires the assistance of two people. Another option for two
+      people during mobilization is for each to hold a shoulder and a thigh, positioning
+      both on either side of the bed. In both cases, watch the body position while
+      performing the technique, using the legs as the driving force, starting the
+      movement with bent knees and the foot closest to the headboard facing the direction
+      of the movement while keeping the back straight.\r\n\r\n<color=#610078><size=60>TRANSFER
+      FROM BED TO CHAIR</color></size></align=left>\r\n\r\n\uF0FC\tPosition the chair
+      next to the bed and lock it. Remove the arm from the chair.\r\n\r\n\uF0FC\tInform
+      and request cooperation from the resident.\r\n\r\n\uF0FC\tWorker's posture:
+      beside the bed, with knees bent. One foot forward and knee with a point of
+      support.\r\n\r\n\uF0FC\tCross the resident's arms over their torso. Move their
+      legs to the side of the bed.\r\n\r\n\uF0FC\tWith one hand, hold the resident's
+      cervical area and sit them up in bed. Place one hand on their back for stabilization.\r\n\r\n\uF0FC\tThe
+      worker places one foot in the direction of the turning movement to be performed.\r\n\r\n\uF0FC\tLift
+      the resident with the worker's hips bent and their knees close to the resident's
+      knees.\r\n\r\n\uF0FC\tStabilize the resident sitting with one of the worker's
+      knees between theirs and adjust the height of the bed.\r\n\r\n\uF0FC\tWorker's
+      posture: legs apart and bent, back straight. Blocking the resident's feet with
+      their own, place arms behind the resident, under their armpits.\r\n\r\n\uF0FC\tLift
+      the resident to place them standing and ask them to lean forward. Coordinate
+      the movement and lower the resident from the bed with a turn towards the chair.\r\n\r\n\uF0FC\tReposition
+      and stabilize the resident in the chair.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205036425216
+    m_Localized: "<color=#610078><size=60>REPOSITIONING IN THE CHAIR</color></size></align=left>\r\n\r\n\uF0FC\tLock
+      the wheelchair or chair.\r\n\r\n\uF0FC\tInform the resident about the maneuver
+      to be performed.\r\n\r\n\uF0FC\tPlace the resident with their legs bent and
+      close to the chair, with feet parallel.\r\n\r\n\uF0FC\tWorker's posture: Stand
+      behind the chair with one foot in front of the other and knees bent.\r\n\r\n\uF0FC\tFirmly
+      grasp the fabric of the transfer sheet or blanket covering the chair, close
+      to the patient's shoulders. Pull the sheet strongly upward while keeping your
+      back straight.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209868263424
+    m_Localized: "<color=#610078><size=60>TRANSFER FROM CHAIR TO BED</color></size></align=left>\r\n\r\n\uF0FC\tPlace
+      the bed in a horizontal position, locked, and with the head section elevated.\r\n\r\n\uF0FC\tInform
+      the resident of the maneuver to be performed and request their cooperation.\r\n\r\n\uF0FC\tAlign
+      the resident in the chair, with slippers on and feet resting on the floor.\r\n\r\n\uF0FC\tWorker's
+      posture: bending the legs and keeping the back straight, grasp the resident
+      under the arms to help them stand up.\r\n\r\n-\tThe leg farthest from the bed
+      is flexed and placed between the resident's legs.\r\n\r\n-\tThe other leg is
+      positioned with the foot facing the bed. Turn the resident to sit them on the
+      bed.\r\n\r\n\uF0FC\tTurn the resident by lifting their legs and rotating the
+      torso until they are supported on the bed.\r\n\r\n\uF0FC\tReposition and stabilize
+      the resident in the bed.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213865435136
+    m_Localized: "Sources:\r\n\r\nA diagnosis often ignored. Dr. Aldo Fierro*, Dr.
+      Pablo Solari**, Dr. Ana P\xE9rez\r\n\r\nBasic auxiliary nursing care - by Jorge
+      Buenaventura L\xF3pez Porcel\r\n\r\n<color=blue><u><link=https://enfermeriapractica.com/procedimientos/cambios-posturales-yposicionesbasicas#section-7>https://enfermeriapractica.com/procedimientos/cambios-posturales-yposicionesbasicas#section-7</link>\r\n\r\n<link=https://www.auxiliar-enfermeria.com/movilizaciones.htm>https://www.auxiliar-enfermeria.com/movilizaciones.htm</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215908061184
+    m_Localized: "<color=#610078><size=60>Use and Handling of Hoists</color></size>\r\n\r\nHoists
+      for dependent individuals are essential when \"light\" assistive devices, such
+      as canes, walkers, or wheelchairs, are no longer sufficient to address mobility
+      and transfer issues.\r\n\r\nThey are an advantageous solution for both the
+      caregiver and the care recipient, as they prevent injuries, discomfort, or
+      falls, while providing greater autonomy and safety.\r\n\r\n<color=#610078><size=60>Types
+      of Hoists for Dependent Individuals</color></size>\r\n\r\nIn the market, we
+      find different types of hoists for dependent individuals. The choice depends
+      on the user\u2019s weight, the dimensions of the place where it will be installed,
+      or the intended use.\r\n\r\nWe can make a first distinction between fixed hoists,
+      wheeled (mobile) hoists, or ceiling hoists.\r\n\r\nWe can also distinguish
+      between:\r\n\r\n\u2022 Transfer Hoists\r\n\r\nThese are for individuals with
+      limited mobility.\r\n\r\nBasically, they lift the patient and transfer them
+      \"in suspension\" when they are lying in bed or sitting in an armchair, on
+      the edge of the bed, or in a wheelchair.\r\n\r\nUsing the appropriate harness,
+      these hoists also make it easier to change diapers.\r\n\r\n\u2022 Standing
+      Hoists\r\n\r\nThese are only used when the patient is sitting, so they are
+      recommended for individuals with some strength and mobility in the lower extremities.\r\n\r\nThey
+      are quite versatile, and if the person can bear their own weight (even if secured
+      with a harness), they can be used for changing diapers, getting dressed, undressing,
+      moving from bed to a chair, and even going to the bathroom.\r\n\r\n\u2022 Mixed
+      Hoists\r\n\r\nThese are a mix between transfer hoists and standing hoists and
+      have an articulated arm to perform different functions.\r\n\r\n<color=#610078><size=60>When
+      and Why are Hoists Used for Dependent Individuals?</color></size>\r\n\r\nMobilizing
+      dependent individuals is not an easy task. Especially in elderly individuals
+      with reduced mobility, who are usually heavier: in these cases, manual mobilization
+      is uncomfortable and even dangerous, as there is a risk of falls and other
+      negative health consequences for the caregiver.\r\n\r\nAs mentioned, hoists
+      improve the mobility of dependent individuals and facilitate the work of their
+      caregivers, as the transfer is done comfortably, safely, and quickly, avoiding
+      overexertion.\r\n\r\nThese aids also enhance the quality of life and autonomy
+      of users.\r\n\r\nBut in what cases and for what purposes should they be used?\r\n\r\nTypically,
+      these types of assistive devices are recommended for individuals who are immobilized
+      or have serious mobility issues, with a degree of total dependence or dependence,
+      according to the FIM scale parameters.\r\n\r\nSome of their uses for dependent
+      individuals are:\r\n\r\n\u2022 Transferring them from one place to another
+      within their home, and from one position to another (lying down, sitting, etc.).
+      The basic transfers in daily life are usually from lying down (bed) to sitting
+      (wheelchair/armchair) or from sitting to lying down, that is, the reverse movement.\r\n\r\n\u2022
+      Lifting them from the floor, bed, or wheelchair.\r\n\r\n\u2022 Changing different
+      types of absorbents while they are lying down. Standing hoists are most recommended
+      for this use, although \"mixed\" models have specific accessories.\r\n\r\n\u2022
+      Streamlining their daily hygiene and grooming.\r\n\r\n\u2022 Taking them to
+      the toilet without removing the harness and with the convenience of letting
+      them sit and be easily lifted.\r\n\r\n\u2022 Showering them while standing
+      or sitting in a bath chair more safely. If the shower is adapted, even better.\r\n\r\n\u2022
+      Facilitating rehabilitation exercises or improving mobility, always using the
+      appropriate accessories and following an individualized exercise plan supervised
+      by a physiotherapist.\r\n\r\n\u2022 Streamlining daily tasks, such as getting
+      dressed or undressed.\r\n\r\n<color=#610078><size=60>How to Use Hoists for
+      Dependent Individuals</color></size>\r\n\r\n<color=#610078><size=60>1.- POSITIONING
+      THE HARNESS.</color></size>\r\n\r\nA) IN SUPINE POSITION (LYING IN BED)\r\n\r\n1.
+      Position the user in a lateral decubitus (on their side).\r\n\r\n2. Place the
+      harness on the bed.\r\n\r\n3. Place the user on top of the harness, adjusting
+      and stretching the harness.\r\n\r\n4. Turn the user onto the opposite side,
+      stretching the remaining part of the harness.\r\n\r\n5. Turn the user onto
+      their back.\r\n\r\n6. Place the lower straps under the legs, crossing them.\r\n\r\nB)
+      SITTING IN CHAIR/ARMCHAIR\r\n\r\n1. Position the harness from top to bottom
+      at the back of the user, leaning them slightly forward to the waist.\r\n\r\n2.
+      Pass the lower straps under the legs, crossing them.\r\n\r\n<color=#610078><size=60>2.-
+      LIFTING THE PERSON.</color></size>\r\n\r\nA) Bring the hoist closer and lower
+      the lifting arm.\r\n\r\nB) Position the harness straps.\r\n\r\n- Place the
+      upper straps on the corresponding hook in the shortest position (the closest
+      to the body).\r\n\r\n- Place the lower straps on the opposite hook, that is,
+      the strap that goes under the right leg on the left hook and the one that goes
+      under the left leg on the right hook, always in the longest position, farthest
+      from the body.\r\n\r\nC) Lift gently to a height where it does not hit the
+      bed or armrest of the chair.\r\n\r\n<color=#610078><size=60>3.- APPROACHING
+      THE CHAIR</color></size>\r\n\r\nA) Open the hoist legs to increase the available
+      width. Close them for transport.\r\n\r\nB) Transport the user to the armchair/chair
+      or bed.\r\n\r\n<color=#610078><size=60>4.- PLACING THE PERSON.</color></size>\r\n\r\nA)
+      Position the person on the desired surface, chair, or bed.\r\n\r\nB) Lower
+      the hoist arm.\r\n\r\nC) Hold the harness with one hand, placing it in the
+      desired position on the bed or approaching the back of the chair as it descends.\r\n\r\nD)
+      Completely lower the user with the hoist arm.\r\n\r\nE) Remove the harness
+      from the hoist hooks and take off the harness, reversing the steps taken in
+      point 1 when placing it.\r\n\r\n<color=#610078><size=60>Other Aspects to Consider:</color></size>\r\n\r\nMost
+      hoists for dependent individuals operate intuitively. In fact, their controls
+      for raising and lowering are quite easy to use and fully manageable by any
+      caregiver.\r\n\r\nThe main difference is usually the way they lift the patient,
+      which can be manual or electric. The most important thing is to position the
+      user and put on the harness.\r\n\r\nThis accessory should be suitable for their
+      weight and dimensions, should not dig into the armpits or thighs, and should
+      be easy to clean.\r\n\r\nTo put on the harness, we can recline the user on
+      their side so that the straps of the harness are positioned under their back,
+      ready to be hooked onto the hoist.\r\n\r\nOnce the hoist is positioned, we
+      will engage the brakes and safety systems to avoid unwanted movements.\r\n\r\nAfter
+      that, we can attach the harness straps to the hoist head (they usually have
+      four attachment points, although it depends on the model).\r\n\r\nFirst, the
+      leg straps are placed, then the hip straps, and finally the shoulder straps.
+      After checking the security, the patient can be lifted. The movement will always
+      be slow, without abrupt motions.\r\n\r\nSource:\r\n\r\n<color=blue><u><link=https://www.clubdecuidadores.com/blog/cuando-usar-gruas-personas-dependientes>https://www.clubdecuidadores.com/blog/cuando-usar-gruas-personas-dependientes</link></u></color>\r\n\r\n<color=#610078><size=60>Why
+      is it Important to Use a Hoist at Home?</color></size>\r\n\r\n- GREATER COMFORT
+      AND SAFETY, for both the caregiver and the user. Using a harness minimizes
+      the effort applied to make the transfer, while manual mobilizations require
+      greater effort and can cause pain and discomfort.\r\n\r\n- SIMPLER MOBILIZATION.
+      Only the participation of one person, the caregiver, is necessary, regardless
+      of the degree of dependence of the person. Furthermore, with continued use
+      of the hoist, transfer times are significantly reduced.\r\n\r\n- BETTER ATTENTION
+      TO THE USER. The caregiver can pay more attention to the user during mobilization
+      since the hoist allows them not to exert continuous effort as in manual mobilizations.\r\n\r\n-
+      EASIER TRAINING. Compared to the learning and training involved in manual mobilizations,
+      handling the hoist is acquired more quickly and easily.\r\n\r\nSteps for Handling
+      a Hoist in the Care of the Elderly or Dependent Individuals.\r\n\r\nIn the
+      care of elderly or individuals with significant mobility issues, we encounter
+      two basic transfers in daily life: from lying down (bed) to sitting (wheelchair/armchair)
+      or the reverse movement, from sitting to lying down. The only difference for
+      performing these transfers is the positioning of the harness.\r\n\r\nSource:\r\n\r\n<color=blue><u><link=https://geriayuda.com/como-usar-una-grua-para-el-traslado-de-un-paciente-con-movilidad-reducida/>https://geriayuda.com/como-usar-una-grua-para-el-traslado-de-un-paciente-con-movilidad-reducida/</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217317347328
+    m_Localized: "<color=#610078><size=60>Chronic diseases</color></size>\r\n\r\n   
+      A chronic disease is a long-lasting health condition that typically progresses
+      slowly and can persist for months or even years. These diseases are often non-communicable
+      and require ongoing management over time. Common examples of chronic diseases
+      include diabetes, cancer, multiple sclerosis, Alzheimer\u2019s, Parkinson\u2019s,
+      among others.\r\n\r\n<color=#610078><size=60>Diabetes</color></size>\r\n\r\n   
+      Diabetes is a chronic disease characterized by elevated blood glucose levels,
+      either because the body does not produce enough insulin (type 1 diabetes) or
+      because the cells do not respond adequately to the insulin produced (type 2
+      diabetes).\r\n\r\n    Insulin is a hormone produced by the pancreas that helps
+      regulate blood sugar and allows glucose to enter the cells to be used as energy.
+      When this process is disrupted, glucose accumulates in the blood and can cause
+      damage to various organs and systems in the body over the long term.\r\n\r\n\u25CF
+      Associated pathologies\r\n\r\no Cardiovascular disease\r\n\r\no Chronic kidney
+      disease\r\n\r\no Peripheral neuropathies\r\n\r\no Diabetic retinopathy\r\n\r\no
+      Diabetic foot disease\r\n\r\no Wound healing problems\r\n\r\n\u25CF How it
+      affects daily life\r\n\r\n    Diabetes can significantly affect a person's
+      daily life. Common symptoms include fatigue, excessive thirst, frequent urination,
+      constant hunger, blurred vision, and unexplained weight loss. Managing diabetes
+      may also require regular monitoring of blood sugar levels, tracking diet and
+      exercise, medication administration, insulin injections, and ongoing medical
+      care. Fluctuations in blood sugar levels can affect mood, energy, and the ability
+      to perform daily activities.\r\n\r\n\u25CF Medication\r\n\r\n    Diabetes treatment
+      may include a combination of oral medications, insulin injections, and other
+      medications to control blood sugar levels and prevent complications. Antidiabetic
+      medications can help improve insulin sensitivity, reduce glucose production
+      in the liver, increase insulin secretion, and delay carbohydrate absorption
+      in the intestine.\r\n\r\n\u25CF Activity recommendations\r\n\r\n    As a home
+      worker, it is important to be aware of the needs and limitations of the person
+      with diabetes. This may include:\r\n\r\no Promoting regular physical activity\r\n\r\no
+      Encouraging healthy eating habits\r\n\r\no Supporting social and educational
+      participation\r\n\r\no Motivating to maintain a healthy lifestyle\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://diabetes.org/>https://diabetes.org/</link>\r\n\r\n<link=https://www.paho.org/es/temas/diabetes>https://www.paho.org/es/temas/diabetes</link>\r\n\r\n<link=https://www.cdc.gov/diabetes/basics/index.html>https://www.cdc.gov/diabetes/basics/index.html</link></u></color>\r\n\r\n<color=#610078><size=60>Cancer</color></size>\r\n\r\n   
+      Cancer is a disease characterized by the uncontrolled growth of abnormal cells
+      that can invade surrounding tissues and organs. These malignant cells can spread
+      to other parts of the body through the bloodstream and lymphatic system, leading
+      to the formation of malignant tumors. There are different types of cancer that
+      can affect virtually any organ or tissue in the body.\r\n\r\n\u25CF Associated
+      pathologies\r\n\r\no Metastasis: the spread of cancer to other organs and tissues\r\n\r\no
+      Pain: cancer can cause pain due to pressure on surrounding tissues or invasion
+      of nerves\r\n\r\no Fatigue: fatigue is a common symptom in people with cancer,
+      which may be related to the disease itself, treatment, or emotional stress\r\n\r\no
+      Treatment complications: chemotherapy, radiotherapy, and surgery can cause
+      a range of side effects, such as nausea, vomiting, hair loss, skin problems,
+      and weakness\r\n\r\n\u25CF How it affects daily life\r\n\r\n    Cancer can
+      affect all aspects of a person's daily life, from physical health to emotional
+      and social well-being. Cancer symptoms can vary depending on the type and stage
+      of the disease but may include fatigue, unexplained weight loss, persistent
+      pain, changes in appetite, difficulty breathing, and digestive problems.\r\n\r\n   
+      Cancer treatment, which may include surgery, chemotherapy, radiotherapy, immunotherapy,
+      and targeted therapies, can also have side effects that affect quality of life
+      and the ability to perform daily activities.\r\n\r\n\u25CF Medication\r\n\r\n   
+      Cancer treatment generally involves a combination of approaches, which may
+      include surgery, chemotherapy, radiotherapy, hormone therapy, immunotherapy,
+      and targeted therapies. The choice of treatment depends on the type of cancer,
+      its location, its stage, and the overall health of the patient. Specific medications
+      may include analgesics to control pain, antiemetic medications to prevent nausea
+      and vomiting associated with chemotherapy, and medications to stimulate the
+      production of white and red blood cells.\r\n\r\n\u25CF Activity recommendations\r\n\r\n   
+      As a home worker, it is important to provide support and compassionate care
+      to individuals affected by cancer. Some recommendations to improve the quality
+      of life for cancer patients include:\r\n\r\no Providing emotional and social
+      support\r\n\r\no Assisting with daily activities\r\n\r\no Encouraging a healthy
+      lifestyle\r\n\r\no Helping manage the side effects of treatment\r\n\r\no Promoting
+      participation in support groups or wellness programs\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://www.cancer.org/es.html>https://www.cancer.org/es.html</link>\r\n\r\n<link=https://www.cancer.gov/espanol>https://www.cancer.gov/espanol</link>\r\n\r\n<link=https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fatiga/fatiga-pro-pdq>https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fatiga/fatiga-pro-pdq</link></u></color>\r\n\r\n<color=#610078><size=60>Multiple
+      sclerosis</color></size>\r\n\r\n    Multiple sclerosis (MS) is a chronic disease
+      of the central nervous system that affects the brain and spinal cord. It is
+      characterized by inflammation, demyelination (loss of the myelin sheath that
+      covers nerve cells), and the formation of scars (sclerosis) in various areas
+      of the nervous system. This impairment can lead to a wide variety of symptoms
+      and disabilities, which can vary in severity and duration.\r\n\r\n\u25CF Associated
+      pathologies\r\n\r\no Mobility issues: loss of motor function can hinder mobility
+      and coordination, leading to difficulties walking, muscle weakness, and muscle
+      spasms\r\n\r\no Cognitive problems: some people with MS may experience memory,
+      concentration, processing speed, and decision-making issues\r\n\r\no Fatigue:
+      fatigue is one of the most common symptoms of MS and can significantly affect
+      quality of life and the ability to perform daily activities.\r\n\r\no Emotional
+      problems: MS can have a significant impact on emotional well-being, leading
+      to anxiety, depression, stress, and mood swings\r\n\r\n\u25CF How it affects
+      daily life\r\n\r\n    MS can affect all aspects of a person's daily life, from
+      their ability to work and engage in social activities to their independence
+      in daily tasks. Symptoms can vary widely among individuals and may include
+      extreme fatigue, mobility issues, cognitive problems, vision issues, pain,
+      and urinary tract dysfunction. Managing these symptoms may require lifestyle
+      adaptations, changes in daily routines, and support from caregivers and health
+      professionals.\r\n\r\n\u25CF Medication\r\n\r\n    MS treatment may include
+      a combination of medications to control symptoms, prevent relapses, and slow
+      disease progression. Some common medications include:\r\n\r\no Disease-modifying
+      medications: can help reduce the frequency and severity of MS relapses and
+      slow disease progression\r\n\r\no Corticosteroids: used to reduce inflammation
+      and shorten the duration of acute relapses\r\n\r\n\u25CF Activity recommendations\r\n\r\n   
+      As a home worker, it is important to provide a safe and supportive environment
+      for individuals with MS. Some recommendations to help improve the quality of
+      life for these individuals include:\r\n\r\no Encouraging moderate physical
+      activity\r\n\r\no Assisting with household tasks and daily activities\r\n\r\no
+      Promoting independence and autonomy\r\n\r\no Providing emotional and social
+      support\r\n\r\no Encouraging participation in wellness groups or programs\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://www.nationalmssociety.org/>https://www.nationalmssociety.org/</link>\r\n\r\n<link=https://www.nationalmssociety.org/Treating-MS/Medications>https://www.nationalmssociety.org/Treating-MS/Medications</link></u></color>\r\n\r\n<color=#610078><size=60>Alzheimer</color></size>\r\n\r\n   
+      Alzheimer\u2019s is a progressive neurodegenerative disease that primarily
+      affects cognitive functions such as memory, thinking, and behavior. It is the
+      most common cause of dementia in older adults and is characterized by the accumulation
+      of beta-amyloid protein plaques and neurofibrillary tangles in the brain, disrupting
+      communication between nerve cells and eventually leading to their death.\r\n\r\n\u25CF
+      Associated pathologies\r\n\r\no Memory loss: memory loss is one of the most
+      characteristic symptoms of Alzheimer\u2019s, which can begin with simple forgetfulness
+      and progress to significant loss of short-term and long-term memory.\r\n\r\no
+      Behavioral changes: patients with Alzheimer\u2019s may experience changes in
+      mood, personality, and behavior, such as irritability, anxiety, depression,
+      agitation, and apathy.\r\n\r\no Communication problems: the disease can affect
+      the patient's ability to communicate effectively, manifesting as difficulties
+      in finding words, following a conversation, or understanding language.\r\n\r\no
+      Difficulties in performing daily activities: as the disease progresses, patients
+      may experience difficulties performing everyday tasks such as dressing, grooming,
+      cooking, and managing money.\r\n\r\n\u25CF How it affects daily life\r\n\r\n   
+      Alzheimer\u2019s can affect all aspects of a person\u2019s daily life, from
+      their ability to remember past events to their capacity to perform simple tasks.
+      Symptoms can vary depending on the individual and the stage of the disease
+      but may include frequent forgetfulness, disorientation in time and place, difficulties
+      in decision-making, mood changes, and behavioral problems. As the disease progresses,
+      patients may become increasingly dependent on external help for basic daily
+      activities.\r\n\r\n\u25CF Medication\r\n\r\n    Currently, there is no cure
+      for Alzheimer\u2019s, but there are medications that can help control symptoms
+      and slow the progression of the disease in some individuals. These medications
+      include cholinesterase inhibitors, which help improve cognitive function and
+      memory, and memantine, which helps regulate glutamate activity in the brain.
+      However, it is important to note that these medications may not be effective
+      for all patients and may have side effects that need to be monitored.\r\n\r\n\u25CF
+      Activity recommendations\r\n\r\n    As a home worker, it is important to provide
+      a safe and compassionate environment for individuals with Alzheimer\u2019s.
+      Some recommendations to help patients with Alzheimer\u2019s include:\r\n\r\no
+      Maintaining a structured routine\r\n\r\no Providing visual reminders\r\n\r\no
+      Encouraging participation in cognitive activities\r\n\r\no Keeping a safe environment\r\n\r\no
+      Providing emotional and social support\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://www.who.int/es/news-room/fact-sheets/detail/dementia>https://www.who.int/es/news-room/fact-sheets/detail/dementia</link>\r\n\r\n<link=https://www.alz.org/alzheimers-dementia/what-is-dementia>https://www.alz.org/alzheimers-dementia/what-is-dementia</link></u></color>\r\n\r\n<color=#610078><size=60>Parkinson</color></size>\r\n\r\n   
+      Parkinson's is a chronic neurodegenerative disease that affects the central
+      nervous system and is characterized by the progressive loss of nerve cells
+      that produce dopamine in the brain. Dopamine is a neurotransmitter that plays
+      a crucial role in controlling movement and muscle coordination. The lack of
+      dopamine causes characteristic motor symptoms such as tremors, muscle stiffness,
+      bradykinesia (slow movements), and balance and posture problems.\r\n\r\n\u25CF
+      Associated pathologies\r\n\r\no Sleep disorders: patients with Parkinson's
+      may experience problems falling asleep, staying asleep, or experiencing REM
+      sleep disorders, such as REM sleep behavior disorder.\r\n\r\no Mood disorders:
+      depression, anxiety, and other mood disorders are common in patients with Parkinson's
+      and may be related to changes in brain chemistry and the emotional burden of
+      the disease.\r\n\r\no Cognitive disorders: some patients with Parkinson's may
+      experience memory, concentration, and executive function problems as the disease
+      progresses, which can interfere with their ability to perform daily activities.\r\n\r\no
+      Swallowing problems: dysphagia, or difficulty swallowing, is common in people
+      with advanced Parkinson's and can increase the risk of aspiration and pneumonia.\r\n\r\no
+      Urinary and gastrointestinal problems: constipation, urinary incontinence,
+      and other gastrointestinal issues are common in patients with Parkinson's and
+      may result from changes in the autonomic nervous system.\r\n\r\n\u25CF How
+      it affects daily life\r\n\r\n    Parkinson's can significantly impact a person's
+      daily life, as both motor and non-motor symptoms can affect the ability to
+      perform everyday tasks independently. Motor symptoms, such as stiffness and
+      bradykinesia, can hinder mobility and physical activity, while non-motor symptoms,
+      such as depression and anxiety, can affect mood and motivation. As the disease
+      progresses, patients may become increasingly dependent on external help for
+      basic daily activities such as dressing, grooming, cooking, and performing
+      household tasks.\r\n\r\n\u25CF Medication\r\n\r\n    Parkinson's treatment
+      focuses on alleviating symptoms and improving the patient's quality of life.
+      The most commonly used medications include levodopa, which converts to dopamine
+      in the brain and helps compensate for the dopamine deficiency, and dopamine
+      agonists, which mimic the action of dopamine in the brain and help improve
+      motor symptoms. Other medications, such as MAO-B inhibitors and anticholinergics,
+      may also be prescribed to control symptoms and improve function.\r\n\r\n\u25CF
+      Activity recommendations\r\n\r\n    As a home worker, it is important to provide
+      a safe and compassionate environment for individuals with Parkinson's. Some
+      recommendations to help patients with Parkinson's include:\r\n\r\no Encouraging
+      regular physical activity\r\n\r\no Adapting the home environment\r\n\r\no Providing
+      emotional and social support\r\n\r\no Encouraging participation in cognitive
+      and social activities\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://www.michaeljfox.org/>https://www.michaeljfox.org/</link></u></color>\r\n\r\n<color=#610078><size=60>HIV</color></size>\r\n\r\n   
+      HIV stands for human immunodeficiency virus. It damages your immune system
+      by destroying a type of white blood cell that helps your body fight infections.
+      This puts you at risk for other infections and diseases.\r\n\r\n    What is
+      AIDS? AIDS stands for acquired immunodeficiency syndrome. It is the final stage
+      of HIV infection. It occurs when the body's immune system is severely damaged
+      by the virus. Not everyone with HIV develops AIDS.\r\n\r\nHow is HIV transmitted?\r\n\r\nHIV
+      spreads through certain bodily fluids from a person with HIV. This can happen:\r\n\r\n   
+      When having unprotected vaginal or anal sex with someone who has HIV. Unprotected
+      means not using condoms or medications to treat or prevent HIV. This is the
+      most common way it spreads.\r\n\r\n\u25CF Sharing needles for drug use\r\n\r\n\u25CF
+      Through contact with the blood of a person with HIV\r\n\r\n\u25CF From mother
+      to child during pregnancy, childbirth, or breastfeeding\r\n\r\nWhat are the
+      symptoms of HIV and AIDS?\r\n\r\nThe first signs of HIV infection can be flu-like
+      symptoms:\r\n\r\n\u25CF Fever\r\n\r\n\u25CF Chills\r\n\r\n\u25CF Rash\r\n\r\n\u25CF
+      Night sweats (sweating a lot at night)\r\n\r\n\u25CF Muscle aches\r\n\r\n\u25CF
+      Sore throat\r\n\r\n\u25CF Fatigue\r\n\r\n\u25CF Swollen lymph nodes\r\n\r\n\u25CF
+      Mouth sores\r\n\r\n    These symptoms can come and go within 2 to 4 weeks.
+      This stage is called acute HIV infection.\r\n\r\n    If the infection is not
+      treated, it becomes chronic HIV infection. Often, there are no symptoms during
+      this stage. If untreated, the virus will eventually weaken your body's immune
+      system. Then the infection will progress to AIDS. This is the last stage of
+      HIV infection. Because your immune system is severely damaged, your body cannot
+      fight off other infections, called opportunistic infections. These are infections
+      that occur more frequently or are more severe in people with weakened immune
+      systems. Some people may not feel sick during the early stages of HIV infection.
+      Therefore, the only way to know for sure if you have HIV is to get tested.\r\n\r\nWhat
+      are the treatments for HIV and AIDS?\r\n\r\n    While there is no cure for
+      HIV infection, it can be treated with medications known as antiretroviral therapy.
+      This can turn HIV infection into a manageable chronic disease. It also reduces
+      the risk of transmitting the virus to others.\r\n\r\n    Most people with HIV
+      live long and healthy lives if they receive antiretroviral therapy as soon
+      as possible and maintain treatment. It is also important to take care of yourself.
+      Having the support you need, leading a healthy lifestyle, and receiving regular
+      medical care can help you enjoy a better quality of life.\r\n\r\n    Can HIV
+      infection be prevented? You can reduce your risk of getting or transmitting
+      HIV by:\r\n\r\n\u25CF Getting tested for HIV\r\n\r\n\u25CF Practicing safer
+      sexual behaviors. This includes limiting the number of sexual partners you
+      have and using latex condoms every time you have sex. If you or your partner
+      is allergic to latex, you can use polyurethane condoms.\r\n\r\n\u25CF Getting
+      tested and treated for sexually transmitted infections\r\n\r\n\u25CF Not injecting
+      drugs\r\n\r\n\u25CF Talking to your healthcare provider about medications to
+      prevent HIV:\r\n\r\n\u2794 PrEP (pre-exposure prophylaxis) is for people who
+      do not have HIV but are at very high risk of getting it. PrEP is a daily medication
+      that can reduce this risk.\r\n\r\n\u2794 PEP (post-exposure prophylaxis) is
+      for people who may have been exposed to HIV. It is only for emergency situations.
+      PEP must be started within 72 hours after a possible exposure to HIV.\r\n\r\nSource:\r\n\r\nHIV/AIDS
+      <color=blue><u><link=https://medlineplus.gov/spanish/hiv.html>https://medlineplus.gov/spanish/hiv.html</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218592415744
+    m_Localized: "<color=#610078><size=60>What are palliative care?</color></size>\r\n\r\nWhen
+      a loved one approaches a stage in which their medical condition indicates that
+      they are nearing the end of their life, or suffers from a serious illness that
+      causes them significant pain, they may choose to receive palliative care. Palliative
+      care is aimed at relieving the symptoms that cause great pain and stress in
+      patients.\r\n\r\nIt is normal for family members to be overwhelmed by a series
+      of concerns about how to cope with that moment, and they are likely to have
+      many questions about what can be done. Hospital care is often the first option
+      to consider. However, caring for the elderly at home allows them to feel surrounded
+      by peace and affection. Special care at home should be considered, but how
+      prepared are family members, loved ones, and caregivers to deal with the care
+      of the elderly during this stage of their lives?\r\n\r\n<color=#610078><size=60>What
+      are palliative care at home?</color></size>\r\n\r\nPalliative care at home
+      represents a mode of medical assistance provided in the patient\u2019s home,
+      specially designed for those facing serious or terminal illnesses.\r\n\r\nUnlike
+      conventional medical treatments that aim to cure or fight diseases, home-based
+      palliative services focus on comfort and emotional support, ensuring that patients
+      can live their last days with dignity and as little pain as possible. This
+      is especially relevant when it comes to palliative care for the elderly, where
+      the focus is on respecting the patient\u2019s decisions and preferences, providing
+      care that aligns with their personal values and wishes.\r\n\r\n<color=#610078><size=60>Palliative
+      care at home or in the hospital?</color></size>\r\n\r\nWhen it comes to providing
+      palliative care for the elderly, one of the most significant decisions is determining
+      where this care should take place. The choice between home-based palliative
+      care and hospital care can profoundly impact the patient\u2019s experience
+      during their most challenging moments. While both environments offer benefits,
+      home-based palliative care stands out by allowing the patient to remain in
+      their familiar home, surrounded by a comforting family environment.\r\n\r\nIn
+      contrast, hospital palliative care may be the best option for situations requiring
+      constant medical supervision or immediate access to specialized treatments
+      and technology.\r\n\r\nRegardless of the types of palliative care chosen, the
+      most important thing is to ensure that the patient receives the necessary support
+      to live their last days with the highest possible quality of life, respecting
+      their individual desires and needs. Whether at home or in the hospital, palliative
+      care aims to provide comfort, dignity, and peace to patients in the final stage
+      of their lives.\r\n\r\n<color=#610078><size=60>Palliative care for the elderly
+      at home: How to request them?</color></size>\r\n\r\nRequesting palliative care
+      for the elderly at home is a process that requires a series of specific steps
+      to ensure that the patient receives the appropriate and personalized attention
+      they need. It begins with: *Medical evaluation: The first step is to obtain
+      a medical evaluation from the treating physician of the palliative patient.
+      The doctor must determine the patient's eligibility for receiving palliative
+      care at home based on their medical condition and specific needs and *contacting
+      a caregiver specialized in home-based palliative care.\r\n\r\n<color=#610078><size=60>Are
+      palliative care only for terminally ill patients?</color></size>\r\n\r\nThere
+      is a common misconception about palliative care; many believe that it is exclusively
+      designed for patients in the final stages of an illness. However, this perception
+      does not fully reflect the breadth and purpose of palliative care. In fact,
+      these services are not limited to terminally ill patients but are available
+      for all types of palliative patients, including those who are not necessarily
+      at the end of their lives.\r\n\r\nPalliative care for the elderly focuses on
+      improving the quality of life for patients and their families, addressing the
+      problems associated with serious illnesses. This includes pain management,
+      symptom relief, emotional stress, and spiritual support, regardless of the
+      stage of the illness or the need for other treatments. The goal is to provide
+      relief from suffering and improve the quality of life, which is relevant at
+      any point in the disease process, not just at the end of life.\r\n\r\n<color=#610078><size=60>Life
+      expectancy in palliative care</color></size>\r\n\r\nA common question among
+      families and patients considering palliative care is about the duration of
+      these services and how they can influence the life expectancy of the elderly.
+      The answer to how long a person can be in palliative care is complex, as it
+      varies significantly from individual to individual, depending on multiple factors
+      such as the type of illness, the patient's overall health, and the timing of
+      when care is initiated.\r\n\r\nLife expectancy in palliative care does not
+      focus solely on extending a patient\u2019s days but rather on improving the
+      quality of the remaining days. However, studies have shown that in some cases,
+      palliative care can contribute to prolonging patients' lives. This is because
+      effective pain management and alleviation of other distressing symptoms can
+      have a positive impact on the patient\u2019s overall condition, allowing them
+      to enjoy more meaningful time with their loved ones and, in some cases, even
+      stabilize their clinical condition.\r\n\r\n<color=#610078><size=60>What does
+      palliative care include?</color></size>\r\n\r\nPatients facing serious illnesses
+      experience disruptions in their lives due to the symptoms of the underlying
+      condition. These symptoms are not only physical, so palliative care considers
+      the main causes of pain and stress to achieve the greatest possible well-being.\r\n\r\nPhysical
+      symptoms: These are the symptoms that manifest physically, such as:\r\n\r\n\u2022
+      Various pains\r\n\r\n\u2022 Insomnia\r\n\r\n\u2022 Dyspnea or difficulty breathing\r\n\r\n\u2022
+      Loss of appetite\r\n\r\n\u2022 These physical symptoms can be alleviated through
+      medication, physiotherapy, and a specific diet for each case.\r\n\r\nEmotional
+      disturbances: These symptoms are related to how one copes with the illness,
+      affecting each patient differently, with the most common being: Elevated stress.
+      Anxiety. Fear. Isolation. Depression.\r\n\r\nThese emotional symptoms are addressed
+      through companionship, psychological support, and support groups. In addition
+      to these two main blocks of physical symptoms and emotional disturbances, palliative
+      care also provides advice on legal, economic, and spiritual matters whenever
+      necessary.\r\n\r\n<color=#610078><size=60>Who is palliative care aimed at?</color></size>\r\n\r\nBased
+      on the premise that the goal of palliative treatments is to improve the quality
+      of life of chronic patients, the scope of action is truly broad.\r\n\r\nAmong
+      others, the people most in need of palliative treatment are the elderly, cancer
+      patients, those with heart problems, lung disease, kidney failure, dementia
+      or mental illness, AIDS, or ALS. Each of these diseases has symptoms that affect
+      individuals differently, but thanks to comprehensive assistance that addresses
+      the physical, social, and emotional needs in an individualized and personalized
+      manner, patients can find relief from their symptoms.\r\n\r\n<color=#610078><size=60>Who
+      intervenes in palliative care?</color></size>\r\n\r\nSpecialized doctors. Specialized
+      nurses. Home caregivers. Physiotherapists. Endocrinologists. Nutritionists.
+      Psychologists.\r\n\r\n<color=#610078><size=60>Characteristics of the professional
+      in palliative care</color></size>\r\n\r\nAptitudes such as emotional balance
+      and patience are essential for dealing with individuals who are typically in
+      a state of frustration. Therefore, the first requirement for performing the
+      functions of home-based palliative care is that the staff is sensitive and
+      has a high level of empathy for the patients in need of this type of attention.\r\n\r\n<color=#610078><size=60>Palliative
+      care for terminal patients. What does it consist of?</color></size>\r\n\r\nEveryone
+      who reaches the final stage of their life has the right to receive the necessary
+      care. Controlling what happens in their environment is very important because
+      this facilitates their personal circumstances, allowing for the acceptance
+      process of this stage of life. Therefore, the care consists of a series of
+      services aimed at detecting the patient's needs, as well as comforting them,
+      improving their quality of life.\r\n\r\n<color=#610078><size=60>Home-based
+      palliative care: Benefits</color></size>\r\n\r\nHome care provides relief for
+      the elderly and terminal palliative patients and their family members, as it
+      helps reduce stress and fatigue for the entire family group. Home-based palliative
+      care offers security, allowing the elderly to manage their conflicts and difficulties
+      surrounded by closer support.\r\n\r\nEveryone involved, both caregivers and
+      families, can be a great support in the care process; from helping to improve
+      autonomy to overcoming unwanted loneliness.\r\n\r\nHaving palliative care at
+      home brings a series of benefits for both patients and families:\r\n\r\nFamily
+      support: Furthermore, the availability of home-based palliative services provides
+      invaluable support to family members, who benefit from guidance and assistance
+      from professionals in managing the patient's care. This not only reduces the
+      stress associated with caregiving but also offers learning on how to effectively
+      and compassionately address the needs of their loved one.\r\n\r\nFlexibility
+      in care: Adaptability is key in home-based palliative care. As the needs of
+      the palliative patient change, the care team can quickly adjust the treatment
+      plan, ensuring that the patient always receives the appropriate level of care.\r\n\r\nContinuity
+      and consistency in treatment: By choosing home-based palliative care, continuity
+      of care is guaranteed, which is essential for maintaining the emotional and
+      physical stability of the patient. Familiarity with the caregiving team and
+      consistency in treatment contribute to creating an environment of trust and
+      safety for the elderly.\r\n\r\n<color=#610078><size=60>The objectives pursued
+      by home-based care</color></size>\r\n\r\nOne of the priorities pursued by home
+      care is to improve the quality of life. During the last days, specialized support
+      through a medical team is necessary, along with the companionship of caregivers
+      and family, to help the patient navigate these difficult moments.\r\n\r\nHome
+      care includes a series of comprehensive services that care for the elderly
+      while respecting their decisions and safeguarding their environment. Moreover,
+      it is a solution for family members to make necessary decisions as specific
+      events arise, reducing stress.\r\n\r\n<color=#610078><size=60>Palliative care
+      at home: Importance of the caregiver</color></size>\r\n\r\nHome-based palliative
+      care is a type of service that has significantly grown in recent years. In
+      response to the need for this service and as support for doctors, specialized
+      nurses, nutritionists, social workers, psychologists, among others, the caregiver
+      plays a very important role in providing patients with the best palliative
+      care at home.\r\n\r\nThe caregiver\u2019s role goes far beyond this, as they
+      provide continuous support to patients in need of palliative care and their
+      families.\r\n\r\nThese characteristics not only allow the caregiver to deliver
+      high-quality care but also ensure that the emotional and physical well-being
+      of the patient is the top priority.\r\n\r\nThus, the caregiver should possess
+      the following characteristics: Empathy and compassion. Patience. Effective
+      communication. Knowledge in the care of palliative patients and experience.
+      Emotional and physical strength. Adaptability and problem-solving skills. Respect
+      for the dignity and privacy of the patient.\r\n\r\n<color=#610078><size=60>Functions
+      in the work of home-based palliative care</color></size>\r\n\r\nAlways under
+      the guidelines of the medical and psychological care team treating the patient,
+      among the main functions performed by these professionals are daily hygiene
+      and personal care, assistance with feeding, and help with the mobility of elderly
+      individuals.\r\n\r\nPersonal hygiene: Daily hygiene is one of the basic needs
+      of any person, and for patients with special needs, bath time becomes even
+      more important.\r\n\r\nFor elderly or bedridden patients, the caregiver must
+      pay special attention to safety to avoid exposing them to fall risks, which
+      is crucial for carrying out the task safely. It is also during hygiene that
+      skin problems (such as bedsores, abrasions, or ulcers) can be detected. To
+      prevent these issues, it is advisable to dry the folds well and avoid massaging
+      red areas.\r\n\r\nFeeding: The person responsible for home palliative care
+      should be aware of the lack of appetite that typically affects these patients.
+      Eating accompanied and not forcing them to eat more than they wish can be sufficient
+      for them to eat without problems. Creating a pleasant and relaxed environment
+      is essential.\r\n\r\nMobility: Encouraging mobility in elderly individuals
+      significantly improves their quality of life. The caregiver attending to a
+      palliative care patient must understand the characteristics of the disease
+      they suffer from, their state, and the level of mobility they possess. With
+      this information, they can safely handle the types of movements the patient
+      should and can perform. Walking and moving around the home, taking short walks
+      while providing support, or performing personalized exercises are common activities
+      among these patients.\r\n\r\nPsychological support: In certain cases, especially
+      the more challenging ones, it is highly advisable to consult a specialist to
+      cope with the difficult situation faced by patients and families. When we can
+      no longer see light at the end of the tunnel, a specialist in such cases can
+      guide us through the challenges we face.\r\n\r\nIf you are currently going
+      through a similar situation, our thoughts and best wishes are with you and
+      your family.\r\n\r\nSources:\r\n\r\n<color=blue><u><link=https://www.cuidum.com/blog/cuidados-paliativos-hogar/>https://www.cuidum.com/blog/cuidados-paliativos-hogar/
+      </link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220374994944
+    m_Localized: "<color=#610078><size=60>STRESS MANAGEMENT FOR CAREGIVERS</color></size>\r\n\r\n<color=#610078><size=60>The
+      Importance of Caring for the Caregiver</color></size>\r\n\r\nCaring for a dependent
+      elderly person is a job that requires a lot of effort and dedication. This
+      effort should be taken into account by employers to ensure favorable and proactive
+      working conditions. In this article, we will discuss the importance of caring
+      for the worker who will be with the elderly person, as by taking care of the
+      caregiver, we will achieve much better assistance services.\r\n\r\n<color=#610078><size=60>Why
+      is Caring for the Elderly a Stressful Job?</color></size>\r\n\r\nThe perception
+      that the work of an elderly caregiver is \"simple\" or does not require much
+      preparation is completely erroneous. The workload is very high, both physically
+      and mentally, leading to increased nerves and stress. Moreover, knowing that
+      the well-being of a person largely depends on you is a significant responsibility.\r\n\r\nBeyond
+      the physical aspect, which is essential in most home care tasks carried out
+      by elderly caregivers (such as mobilizations, assistance with walking, personal
+      hygiene, etc.), the psychological part is also fundamental. Spending long periods
+      in a confined space with an elderly person showing signs of cognitive decline
+      (due to dementia or Alzheimer\u2019s, for example) can be very challenging.
+      Understanding this reality and doing everything possible to facilitate the
+      work of caregivers is an important part of any home assistance service. Taking
+      care of the caregiver starts with understanding their work, their difficulties,
+      and empathizing with them.\r\n\r\n<color=#610078><size=60>Symptoms of Stress
+      in Caregivers</color></size>\r\n\r\nFor families, it can be difficult to recognize
+      this issue, and overlooking the caregiver may be easier than expected. Therefore,
+      paying attention and analyzing the symptoms or signals that the social health
+      professional may exhibit is important for both the employee's health and the
+      family member under their care:\r\n\r\n- Growing anxiety and irritability\r\n-
+      Sleep problems\r\n- Social isolation\r\n- Generalized sadness and apathy\r\n-
+      Fatigue and loss of energy\r\n\r\n<color=#610078><size=60>Advice to Prevent
+      This Situation</color></size>\r\n\r\n**Understanding**\r\n\r\nOne of the main
+      keys to caring for the caregiver is for families to understand the reality
+      of their work and the difficulties involved in caring for a dependent elderly
+      person. This understanding will be essential to empathize with them and address
+      their complaints with solutions.\r\n\r\n**Helping the Caregiver**\r\n\r\nProviding
+      assistance to the caregiver is also important. If the elderly person's needs
+      are high, we must understand that additional support will be necessary (whether
+      another aide or an accessory to facilitate mobility). Caring for the caregiver
+      requires ongoing attention to prevent any negative outcomes.\r\n\r\n**Guaranteeing
+      the Caregiver's Rights**\r\n\r\nEnsuring decent working conditions and respecting
+      their rights as workers is also a fundamental part of caring for the caregiver.
+      Work hours, rest periods, vacations, etc., are key to allowing the elderly
+      caregiver to disconnect from their work environment for a period of time.\r\n\r\nSOURCE:\r\n\r\n<color=blue><u><link=https://wayalia.es/importancia-cuidar-cuidador/>https://wayalia.es/importancia-cuidar-cuidador/</link></u></color>\r\n\r\n<color=#610078><size=60>How
+      to Prevent Caregiver Syndrome?</color></size>\r\n\r\nIn home care for a dependent
+      person, we must not only consider the elderly but also focus on the caregiver.
+      This is a very stressful job with a significant emotional burden that can lead
+      to what is known as caregiver syndrome. What does it refer to? Below, we explain
+      everything you need to know about this phenomenon.\r\n\r\n<color=#610078><size=60>Lack
+      of Preparation in Elderly Care</color></size>\r\n\r\nPreparation is fundamental
+      in all professional areas, as it is through training that one acquires the
+      necessary tools to overcome the challenges encountered. This remains equally
+      relevant in the case of home care. However, this sector is characterized by
+      a large number of informal or unprofessional caregivers (family members, acquaintances,
+      inexperienced individuals, etc.). What is the reason? Economic situations,
+      lack of awareness of the risks, etc. The reality is that the most vulnerable
+      are once again the elderly, who are cared for by caregivers who are not prepared
+      to do so (either physically or mentally).\r\n\r\n<color=#610078><size=60>What
+      is Caregiver Syndrome?</color></size>\r\n\r\nThe lack of preparation and experience
+      in caring for dependent individuals, as previously mentioned, can lead the
+      caregiver to a state of physical and mental exhaustion that persists over time.
+      Also referred to as burnout syndrome, it signifies a total overwhelm in the
+      face of the inability to find ways to cope with the responsibilities at hand.\r\n\r\n**Main
+      Symptoms**\r\n\r\nFamilies must play an active and important role in detecting
+      this caregiver situation, as the effects of their state can impact the care
+      of their loved one. Therefore, knowing the main symptoms of caregiver syndrome
+      will help us alert to its possible onset:\r\n\r\n- Generalized anxiety\r\n-
+      Fatigue and exhaustion\r\n- Feelings of discomfort\r\n- Irritability and apathy\r\n-
+      Sadness\r\n- Loss of appetite\r\n\r\n<color=#610078><size=60>Why Does Caregiver
+      Syndrome Occur?</color></size>\r\n\r\nThe work of a caregiver is not easy,
+      and if one is unprepared or lacks experience, the situation worsens significantly.
+      The main explanatory factors are as follows:\r\n\r\n- Life change: the caregiver
+      must adapt to the lifestyle and schedule of the person being cared for.\r\n-
+      Putting personal life aside: family, friends, or personal hobbies take a back
+      seat as this work requires full dedication (and for live-in caregivers, 24
+      hours a day).\r\n- Demands and responsibilities of care: the condition of the
+      person being cared for may involve significant dependence (both physical and
+      cognitive), leading to increased stress for the caregiver.\r\n\r\n<color=#610078><size=60>Advice
+      to Avoid Caregiver Syndrome</color></size>\r\n\r\nAs we see, the implications
+      of this situation can affect both the caregiver and the person being cared
+      for. Therefore, caring for the caregiver will be essential for the health of
+      the social health professional and the family member. The first piece of advice
+      is, without a doubt, proper preparation and experience in caring for dependent
+      individuals. This background will be crucial in knowing how to act in all situations
+      that may arise. Another key piece of advice is to respect and guarantee the
+      rights of caregivers. Rights seek to address precariousness and provide legal
+      tools to domestic workers for proper labor activity: vacations, holidays, work
+      hours, work shifts, salary, etc. All of these factors contribute to achieving
+      high-quality care and optimal well-being.\r\n\r\n<color=#610078><size=60>How
+      to Overcome Caregiver Syndrome? Daily Guidelines</color></size>\r\n\r\nAlthough
+      psychological help is highly recommended for elderly caregivers experiencing
+      more severe stress and anxiety, there are other techniques that can be implemented
+      daily to combat caregiver fatigue and prevent more complicated situations.\r\n\r\nAmong
+      the basic self-care guidelines for caregivers, special attention should be
+      paid to:\r\n\r\n- Expressing feelings and emotions. Communication helps find
+      solutions at critical moments and avoids frustration.\r\n  \r\n- Setting schedules
+      and routines beyond work obligations. It is necessary to balance work time
+      with leisure time to ensure good physical and mental health.\r\n  \r\n- Establishing
+      limits on the feeling of responsibility. Not all efforts and thoughts can be
+      dedicated to the person in care. It's important to find the necessary space
+      for family life and friendships outside the work environment.\r\n  \r\n- Maintaining
+      healthy lifestyle habits. Following a balanced diet, engaging in outdoor activities,
+      ensuring adequate daily rest, and avoiding alcohol and drug consumption.\r\n\r\n<color=#610078><size=60>Mindfulness
+      for Anxiety and Stress</color></size>\r\n\r\nMindfulness is the focus of attention
+      on the present moment; it is a method to achieve full attention by concentrating
+      on what is happening \u201Chere and now,\u201D accepting it as it is, without
+      trying to change or judge anything. Its meaning is full awareness. It involves
+      concentrating on what happens within us and around us while renouncing noise
+      and distractions.\r\n\r\nMindfulness becomes the perfect practice to prevent
+      caregiver burnout due to the numerous benefits it offers for caregivers and
+      the general population:\r\n\r\n- Reduces stress and anxiety\r\n- Improves attention,
+      concentration, and memory levels\r\n- Facilitates emotional regulation in our
+      own experiences and interactions with others\r\n- Enhances self-awareness and
+      awareness of others\r\n- Promotes communication and social relationships\r\n-
+      Improves time management\r\n- Increases states of calm\r\n- Enhances sleep
+      quality\r\n\r\nLet\u2019s explore some simple tricks from this technique that
+      can help us in caring for a family member or a dependent person and avoid caregiver
+      stress.\r\n\r\n**Basic Technique**\r\n\r\nThe basic technique consists of closing
+      your eyes and focusing solely on your breathing. If thoughts arise, that's
+      okay. Simply accept them and let them pass. We should only be aware of each
+      breath we take and exhale. We should not try to change anything.\r\n\r\n**For
+      Anxiety**\r\n\r\nWorries, fears, and anxieties are like waves: they come and
+      go. We should be like the seagull that watches as the waves approach and recede
+      from the shore, without letting them overwhelm us. We shouldn\u2019t run from
+      these waves but ride them until they pass.\r\n\r\n**In Case of Low Energy**\r\n\r\nOne
+      of the typical symptoms of caregiver stress that leads to caregiver burnout
+      is fatigue. In these cases, when we lack energy, taking a 5 or 10-minute walk
+      can help us regain strength. It\u2019s important to notice the details of our
+      environment: the air, the colors, the landscape, the sounds. And although it
+      may seem contradictory, bad weather can be the best ally in finding peace in
+      our minds.\r\n\r\n**When Sleep is Lacking**\r\n\r\nSleep problems are very
+      common in those who spend the day caring for others. Taking a long time to
+      fall asleep or waking up several times during the night can be alleviated with
+      some basic mindfulness techniques.\r\n\r\nThe simplest technique for sleep
+      is \u201Cmindful breathing.\u201D This technique can be combined with calming
+      music or an image that conveys tranquility.\r\n\r\nAnother slightly more advanced
+      technique is the \u201Cbody scan,\u201D which begins with conscious breathing
+      and gradually directs attention to each part of our body, starting from the
+      head and finishing at the feet.\r\n\r\n**SOURCES:**\r\n\r\n<color=blue><u><link=https://wayalia.es/prevenir-sindrome-del-cuidador/>https://wayalia.es/prevenir-sindrome-del-cuidador/</link>\r\n\r\n<link=https://www.cuidum.com/blog/mindfulness-una-tecnica-para-aliviar-el-estres-de-cuidar/>https://www.cuidum.com/blog/mindfulness-una-tecnica-para-aliviar-el-estres-de-cuidar/</link>\r\n\r\n<link=https://atenzia.com/es/noticia/mindfulness-para-cuidadores>https://atenzia.com/es/noticia/mindfulness-para-cuidadores</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222413426688
+    m_Localized: "<color=#610078><size=60>Obligations Regarding Occupational Risk
+      Prevention (PRP) for Domestic Workers</color></size>\r\n\r\n\"In the context
+      of the special employment relationship of domestic service, workers have the
+      right to effective protection regarding safety and health at work, especially
+      in the prevention of violence against women, considering the specific characteristics
+      of domestic work, under the terms and with the guarantees that will be provided
+      by regulations to ensure their health and safety.\" (D.A. 18 of the LPRL, in
+      force since 09/09/2022).\r\n\r\nUntil September 9, 2022 (the date of entry
+      into force of the modifications made by Royal Decree-Law 16/2022, of September
+      6), the repealed article 3.4 of the LPRL excluded the special employment relationship
+      of domestic service from its scope of application. However, after reviewing
+      certain aspects of socio-labor regulations, a new D.A. 18 has been added to
+      the LPRL to ensure, through future regulatory development, a level of protection
+      for the safety and health of those serving in domestic households equivalent
+      to that of any other worker.\r\n\r\nEven if the employer is not a business
+      entity, the new regulation relates to Article 7 of Royal Decree 1620/2011,
+      of November 14, which, within the obligations of the employer, establishes
+      the duty that \"(...) the work of the domestic employee is performed under
+      adequate safety and health conditions, for which effective measures will be
+      adopted, taking into account the specific characteristics of domestic work.
+      Serious non-compliance with these obligations will be just cause for resignation
+      of the employee.\"\r\n\r\n<color=#610078><size=60>What preventive measures
+      can be adopted for domestic workers?</color></size>\r\n\r\nThe risks to which
+      domestic workers are exposed are the same as those that any other worker performing
+      similar activities might face, or even a wage earner in the cleaning sector:\r\n\r\n-
+      Falls\r\n- Chemical risks from the products used: poisoning, allergies, and
+      irritations\r\n- Burns\r\n- Fires and explosions\r\n- Electrocution\r\n- Respiratory
+      asphyxia\r\n- Blows, cuts, and entrapments\r\n- Wounds\r\n- Overexertion\r\n-
+      Ergonomics\r\n\r\nUntil the future regulatory development of the new obligations,
+      which will clarify what is meant by a right to effective protection regarding
+      safety and health at work with special attention to \"the prevention of violence
+      against women,\" considering that it may be necessary to have a plan, an assessment,
+      or a preventive activity plan by the household head, various prevention organizations
+      have provided a series of guidelines for employers to fulfill the obligation
+      of Article 7.2 of Royal Decree 1620/2011, of November 14:\r\n\r\n<color=#610078><size=60>a)
+      In the workplace:</color></size>\r\n\r\n- Before starting cleaning tasks, clear
+      passageways and work areas of obstacles, paying special attention to unevenness,
+      irregularities, or damage to the floor, and communicate them to the employer.\r\n-
+      Avoid crossing freshly cleaned areas that are wet or waxed.\r\n- Avoid having
+      cleaning cables cross over work or passage areas.\r\n- When cleaning stairs,
+      perform the task facing them and do not place the bucket on a step lower than
+      the one the domestic employee is on.\r\n- Go up and down stairs facing them,
+      never backwards or in a hurry, using handrails.\r\n- Maintain a good level
+      of order and cleanliness.\r\n- Do not handle installations or electrical devices
+      when wet or with wet hands or body parts.\r\n- Do not touch defective electrical
+      installations.\r\n- Try to avoid drafts.\r\n- Wear work clothing appropriate
+      to thermal conditions.\r\n\r\nIt should be noted that a poor state of the floor
+      or lack of light can lead to serious accidents.\r\n\r\n<color=#610078><size=60>b)
+      Work equipment.</color></size>\r\n\r\nWork equipment refers to any machine,
+      device, instrument, or installation used at work: manual tools and equipment
+      for pressure cleaning. Regarding them, the following safety measures will be
+      adopted, which concern both the employer and the domestic employee:\r\n\r\n-
+      Perform preventive maintenance and replace defective or damaged tools.\r\n-
+      Pay special attention to telescopic and detachable handles due to the risk
+      of electrical contact and breakage of objects and glass.\r\n- Strictly follow
+      the manufacturer's maintenance and conservation guidelines and have a specific
+      place for their storage.\r\n- Use personal protective equipment when it is
+      impossible to eliminate risks, such as gloves.\r\n- Bags should extend above
+      the edges of their containers and be picked up away from the body to avoid
+      blows and/or cuts.\r\n- Periodically check the proper condition of the attachments
+      or securing methods of mop, broom, and similar handles, and report any anomalies.\r\n-
+      Use safety glasses, shields, and waterproof clothing when using pressure cleaning
+      equipment and be well aware of their proper operation and usage.\r\n\r\nEquipment
+      must be in good condition.\r\n\r\n<color=#610078><size=60>c) Safety-related
+      risks.</color></size>\r\n\r\nThis refers to electrical risks, fire hazards,
+      falls, or entrapments, for which the following preventive measures will be
+      taken:\r\n\r\n- Ensure that the electrical installation is adequate and in
+      perfect condition and that equipment and/or machines are in good condition
+      before use.\r\n- Do not manipulate or attempt to repair or open the various
+      electrical machines and work equipment without first disconnecting them from
+      the electrical network.\r\n- Use standardized extensions, plugs, and sockets
+      suitable for the power of the connected equipment.\r\n- Exercise extreme caution
+      when working in damp environments and on wet floors.\r\n- Do not disconnect
+      equipment by pulling on the cables.\r\n- Whenever possible, disconnect powered
+      elements before cleaning them.\r\n- Do not use wet cloths or towels to clean
+      electrical receivers (computers, table lamps, etc.).\r\n- Unplug electrical
+      devices/equipment after use.\r\n- In case of electrocution, disconnect the
+      electricity before touching the victim.\r\n- Maintain order and cleanliness
+      and avoid the accumulation of waste that could become fire hazards.\r\n- Do
+      not overload sockets.\r\n- Do not leave cups or containers with liquid on electrical
+      devices or appliances.\r\n- Report any anomalies in the electrical installation.\r\n-
+      Keep flammable products closed, away from heat sources and equipment that may
+      produce sparks, and handle them according to instructions and in well-ventilated
+      areas. Do not smoke while working with these products.\r\n- In case of fire,
+      try to extinguish it using fire extinguishers if it is small; if not, leave
+      the task without taking any personal belongings, disconnect the devices, and
+      exit quickly, closing all doors and ensuring that no one is in the rooms passed
+      through to prevent the spread of the fire. Stay away from hot doors and, if
+      there is abundant smoke, crawl low and cover the nose and mouth with a damp
+      cloth; lie on the ground and roll if clothing catches fire. Do not use the
+      elevator.\r\n- Use ladders firmly secured at their upper end and extending
+      one meter above the height to be overcome, without placing them in front of
+      open doors or in passage areas, nor resting them on weak points or glass. Position
+      the ladder near the area to be cleaned and move it as many times as necessary,
+      without stepping on the last step of the ladder. If the ladder is a step ladder,
+      the maximum opening angle should be 30\xBA, with the opening limiter locked.\r\n-
+      Keep cabinet doors and drawers closed.\r\n\r\n<color=#610078><size=60>d) Risks
+      Related to Industrial Chemical Products.</color></size>\r\n\r\nWhen using industrial
+      cleaning chemical products, the following precautions should be taken:\r\n\r\n-
+      Read the label before using any product and follow the manufacturer's instructions.\r\n-
+      Always keep product labels on their containers in case of poisoning.\r\n- Use
+      appropriate personal protective equipment, such as gloves or masks.\r\n- Ensure
+      proper ventilation when using toxic chemical products.\r\n- Avoid mixing products
+      that may pose a danger.\r\n- Do not mix cleaning products: mixing bleach and
+      ammonia produces a toxic gas; mixing hydrochloric acid with ammonia reacts,
+      producing heat that can cause burns; mixing bleach with vinegar, ammonia, or
+      toilet cleaning products produces chlorine dioxide, which is highly toxic;
+      caustic soda should not be used on metals such as aluminum, copper, bronze,
+      brass, or tin; adding ammonia to chlorine, fluorine, or calcium may cause a
+      fire or explosion.\r\n- Store products in their original containers and do
+      not transfer chemicals to food or drink containers to avoid accidental ingestion.\r\n-
+      Do not smell products in an attempt to identify them.\r\n- Always close cleaning
+      product containers.\r\n- Clean in a damp environment, maintain continuous ventilation,
+      and use a dust mask when necessary. It is advisable to use mops and microfiber
+      cloths instead of brooms.\r\n- Do not eat or drink when using chemical products,
+      and always wash hands after use. If a product is ingested, drink plenty of
+      water and never induce vomiting; call the National Toxicology Institute and
+      go to the nearest medical center.\r\n- In case of contact with eyes or skin,
+      wash with plenty of water.\r\n- Try to use less hazardous substances.\r\n-
+      Avoid touching printer toner without gloves, and do not dispose of it dry.\r\n-
+      Incompatible chemicals should be kept separated.\r\n\r\n<color=#610078><size=60>e)
+      Risks Related to Ergonomics and Psychosociology.</color></size>\r\n\r\nThese
+      are postural risks related to manual handling of loads, stress, and fatigue,
+      which can be avoided with the following preventive measures:\r\n\r\n- Avoid
+      extreme or prolonged static postures by alternating body weight on each leg
+      and, if possible, between standing and sitting positions.\r\n- Take frequent
+      short breaks in tasks that involve repetitive movements.\r\n- Try to work with
+      your back as straight as possible and take small steps to turn.\r\n- Avoid
+      tilting your head and try not to hunch your shoulders when performing tasks
+      such as sweeping or mopping.\r\n- Reduce working periods with vibrating tools.\r\n-
+      Protect certain body parts from contact with cold or hard surfaces.\r\n- Work
+      equipment (mop handles, brooms, squeegees) should be sized appropriately for
+      the height of the user or be adjustable (telescopic), lightweight, and easy
+      to handle, equipped with suitable grips and wheels for the surface over which
+      they move.\r\n- It is recommended to use buckets with lever-operated wringers
+      for mopping.\r\n- Distribute the force among several fingers and alternate
+      using both hands.\r\n- When bending down to clean under furniture or in low
+      areas, bend your knees while avoiding bending your back.\r\n- Use gloves that
+      are appropriate for each task and fit well.\r\n- Wear comfortable footwear
+      and socks or stockings that facilitate blood circulation.\r\n- Monitor incorrect
+      postures.\r\n- Use mechanical means to handle loads whenever possible and distribute
+      weight between both hands as much as possible.\r\n- Organize work to reduce
+      handling and movements with loads.\r\n- Perform operations requiring high effort
+      with two or more people.\r\n- Avoid dragging loads.\r\n- Avoid handling weights
+      over 25 kg (15 kg for women and young workers, or 40 kg sporadically for healthy
+      and physically trained workers).\r\n- To lift any load, get as close as possible
+      to it, firmly plant your feet on the ground, separate them about 50 cm, with
+      one slightly ahead, and use your leg muscles to give the first push, bending
+      your body and knees; lift the weight by straightening your legs while keeping
+      your spine straight, slightly tucking in your chin. Ensure your grip with the
+      palm of your hand and the base of your fingers, keeping your arms extended,
+      without twisting your waist or lifting the load above your shoulder.\r\n\r\nSource:\r\n\r\n<color=blue><u><link=https://www.iberley.es/temas/prevencion-riesgos-laborales-empleados-hogar-63614>https://www.iberley.es/temas/prevencion-riesgos-laborales-empleados-hogar-63614</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227421425664
+    m_Localized: "<color=#610078><size=60>GENDER EQUALITY IN CARE</color></size>\r\n\r\n<color=#610078><size=60>a.
+      WHAT IS SEX AND WHAT IS GENDER?</color></size>\r\n\r\nWhen we hear discussions
+      about sex and gender, we usually hear that sex refers to the biological aspect
+      and gender to the social aspect. But what does this mean? What other concepts
+      might sex and gender be related to? It is essential to consider these contents
+      when working with children, adolescents, and young people, as we live in a
+      society where issues related to sex and gender are prevalent.\r\n\r\nThus,
+      the importance of addressing these topics from an early age lies in providing
+      tools to young people to have a critical view of these issues, beyond the barrage
+      of messages they receive every day from the media. Working from the perspective
+      of diversity as a fact and equality of rights can foster a positive experience
+      for boys and girls regarding themselves and their relationships with others.
+      Providing information and inviting reflection on issues related to sex, gender,
+      and other related matters can help young people know themselves better, accept
+      themselves, and coexist with others more satisfactorily.\r\n\r\nTo start with
+      some basic concepts, sex refers to what we are: men or women, considering the
+      reality of intersex individuals. Speaking in general terms, being men or women
+      is the result of the processes of sexual differentiation that occur in the
+      womb during pregnancy, involving the construction of the future individual
+      at genetic, gonadal, genital, and cerebral levels, through a series of biological
+      and hormonal processes. Regarding sex, one can speak of sexual identity, which
+      refers to the feeling of being a man or a woman: the felt sex. When a person
+      feels like a man or a woman and this experience matches the sex assigned to
+      them at birth, they are referred to as cisgender individuals. When a person
+      feels like the opposite sex from the one assigned at birth, they are referred
+      to as transgender individuals.\r\n\r\nIn relation to the above, it is worth
+      mentioning a brief note about sexual orientation. Sexual orientation represents
+      the sex, sexes, or genders to which we feel attracted and is independent of
+      our own sex and sexual identity. In other words, being men or women, cisgender
+      or transgender, is independent of whom we feel attracted to. Thus, a person
+      may have been assigned male at birth, feel their gender as female, and feel
+      attracted to women; this is just one example of the various realities that
+      can occur. There are also individuals who do not feel sexual attraction to
+      any sex or gender.\r\n\r\nGender, for its part, refers to the set of characteristics
+      that society attributes to men and women. One of the first people to use the
+      term gender was physician John Money in 1955, referring to the behaviors associated
+      with being male or female. More recently, the World Health Organization defines
+      gender as \"socially constructed roles, behaviors, activities, and attributes
+      that a society considers appropriate for men and women.\" According to this
+      same organization, the issue of gender varies from one society to another and
+      can change over time. It is based on these culturally attributed characteristics
+      that a system of relationships between men and women is believed to be created.\r\n\r\nFrom
+      this construction, concepts such as gender roles derive, which are the set
+      of social norms regarding behaviors, functions, and responsibilities that society
+      considers appropriate for men and women, based on the concepts of masculinity
+      and femininity.\r\n\r\nAnother related concept would be gender identity. As
+      we have seen, every culture has a series of norms related to gender, which
+      form the basis of social and relational identity concerning other individuals.
+      Thus, individuals develop their subjective perception of being men, women,
+      or, from queer perspectives, non-binary individuals, who do not identify within
+      the man-woman dichotomy.\r\n\r\nFinally, to conclude this brief overview of
+      some concepts that could be related to sex and gender, gender expression is
+      the way we externalize our gender identity, through clothing and appearance,
+      language, and behavior, among other things.\r\n\r\nA rigid view of gender issues
+      may not allow for diversity and lead to inequalities between men and women.
+      To alleviate these inequalities, it will be essential to educate from an early
+      age about gender equality, which, according to the World Health Organization,
+      refers to equal opportunities for men and women in accessing social, economic,
+      and political resources, including being protected by the law, as in matters
+      related to healthcare, education, and voting rights. Addressing these issues
+      from an early age will be positive for promoting acceptance and respect for
+      diversity in gender identities and expressions, thus fostering good treatment
+      among children.\r\n\r\n<color=#610078><size=60>b. WHAT IS GENDER EQUALITY?</color></size>\r\n\r\nGender
+      equality means that men and women should receive the same benefits, the same
+      judgments, and be treated with the same respect. The principle of equality
+      and non-discrimination based on sex is a general international legal obligation
+      that binds all nations, and given its fundamental nature, it is always established
+      as a principle that should inspire the rest of the fundamental rights.\r\n\r\nGlobally,
+      achieving gender equality also requires the elimination of harmful practices
+      against women and girls, which include human trafficking, femicide, sexual
+      violence during war, among other acts of violence against women. UNFPA stated
+      that \"although many international agreements affirm their human rights, women
+      are much more likely than men to be poor and illiterate. They have less access
+      to property, credit, training, and employment. They are much less likely than
+      men to be politically active and much more likely to be victims of domestic
+      violence.\"\r\n\r\n<color=#610078><size=60>c. DIFFERENCE BETWEEN GENDER EQUALITY
+      AND GENDER EQUITY</color></size>\r\n\r\nGender equality is the result of the
+      absence of discrimination based on sex or gender, equality in opportunities,
+      and equality in the allocation of resources, benefits, and access to services.\r\n\r\nIn
+      this sense, gender equity primarily aims to provide fair opportunities to women
+      and men. Still, unlike equality, it will address the idea that women and men
+      are different, so these opportunities will be tailored according to the characteristics,
+      contexts, and specific needs in which they find themselves and possess, across
+      the various areas in which they interact, such as in the workplace, education,
+      health, economy, culture, and social life in general.\r\n\r\nDiscussing gender
+      equity involves the participation of all individuals in practice and as a way
+      of life, beyond the theoretical aspect. This is to truly impact society and
+      promote small but significant changes that reflect a societal commitment seen
+      daily in practice to foster equitable participation of men and women in all
+      areas of personal and community development.\r\n\r\n<color=#610078><size=60>d.
+      INEQUITY AND FEMINIZATION OF CARE</color></size>\r\n\r\nThe so-called gender
+      approach in health emerged in the mid-20th century. The term gender highlights
+      cultural, social behaviors, and role assignments that differentiate how society
+      constructs \"being a man\" or \"being a woman,\" not as distinct but as unequal.
+      The concept of gender is relational, revealing the inequity of social relationships
+      from a principle of power and inequality focused on deprivation, unnecessary
+      exclusions of income, and participation that are avoidable and unjust.\r\n\r\nThe
+      onset of the invisibility of informal caregivers begins with the assignment
+      of caregiving roles in the socio-cultural context of women and men regarding
+      their attitudes and behaviors; where care is inherent to all human cultures,
+      and women have historically been responsible for the physical and mental health
+      of the family throughout the health and illness process. The differentiated
+      burden in the distribution of caregiving roles between men and women and the
+      presence of the female gender in care is a fact; although this does not mean
+      that care is exclusively performed by women. However, care assumes a connotation
+      of feminization and inequity where the typical profile of those who take on
+      the role of primary caregiver is that of an unemployed woman with a lower level
+      of education, responsible for domestic tasks, from a lower social class, a
+      direct family member, and who lives with the person being cared for, carrying
+      out preventive activities related to family health and not only caring but
+      also supporting and helping other women in care. Women take on care as a moral
+      commitment, a natural task marked by affection, socially at a high cost, defined
+      as responsibility, an imposed task, an undervalued and unremunerated duty,
+      until these cares are not assumed. In contrast, caregiving for men is an option.
+      This highlights the existence of a different social valuation regarding the
+      development of these tasks and the gender bias that this implies; despite this,
+      and due to the valuable contribution of women within the health system, exercising
+      the intermediary function between the dependent sick person and health systems
+      remains invisible, only becoming evident when these cares are not assumed.
+      The woman, as the quintessential caregiver, contributes an invisible, significant,
+      and unvalued role as a health agent, as an informal caregiver for her family
+      and society; she is the one who makes decisions related to care and also assumes
+      multiple roles.\r\n\r\nInformal healthcare thus poses two inequalities related
+      to caregiving responsibility: the differential burdens of care between men
+      and women and between families and the state, which need to be addressed as
+      essential elements and critical factors for debate within resource allocation
+      and the creation of new programs that promote reforms in health services and
+      in a country's economic and social policies.\r\n\r\nIn recent years, it has
+      been observed that the state has gradually transferred to families the responsibility
+      for caring for dependent individuals, linked to both chronic and acute health
+      processes at different life cycle stages, becoming more evident in elderly
+      individuals. The provision of care manifests through small sacrifices, without
+      any social and economic recognition, attributed without being part of, to the
+      private sphere, being a problem that should be part of citizens' and democratic
+      rights.\r\n\r\nThe loss of balance in care leads us to reflect on the context
+      of rights and the duty to care, justice of opportunities, and valuation of
+      work, within a concept of disadvantages between men and women, families and
+      the state; assessing the distribution of power, resources, and responsibilities.
+      Changing the inequitable protagonism to a new participatory approach, socially
+      neutral and impartial shared care that involves everyone.\r\n\r\nIt also encompasses
+      values such as the time dedicated to care, intensity, and opportunity, noting
+      that women with low income and advanced age dedicate more hours to unpaid informal
+      care, contributing to maintaining this welfare system. In contrast, men, whether
+      employed or unemployed with low income, are less likely to engage in this type
+      of informal labor, suggesting a greater degree of sexual division of labor,
+      related to the scarce job opportunities for women in lower-income population
+      groups.\r\n\r\n<color=#610078><size=60>e. IMPORTANCE OF GENDER EQUITY IN SUSTAINABLE
+      DEVELOPMENT</color></size>\r\n\r\nThe various factors leading to a lack of
+      Sustainable Human Development often occur together. Many of these cases, although
+      it may seem strange, primarily have gender exclusion and the inequalities faced
+      by women today as their main problem.\r\n\r\nAccording to the Universal Declaration
+      of Human Rights issued by the UN (1948), development includes respect for people's
+      rights, social progress, and improvement of living standards. As can be seen,
+      in this case, it includes various elements, especially the essential aspect
+      of progress; but not only that, development is also linked to the freedom of
+      the individual and the goals this has for their development. In other words,
+      elements that hinder free will, such as poverty, lack of opportunities, limitations
+      of the system, etc., must be eliminated. Thus, human rights are enshrined internationally,
+      including various factors, among them gender equality.\r\n\r\nThis is highlighted
+      in the United Nations Charter, which declares equal rights for men and women,
+      in addition to protecting and promoting women's human rights as part of the
+      commitment that every country must uphold. Alongside human rights, there exists
+      the Beijing Declaration and Platform for Action, where a commitment was signed
+      to protect women's gender equality. However, the international body that has
+      the most involvement concerning gender equality and women's empowerment is
+      the Commission on the Status of Women (CSW), which promotes women's rights,
+      records the issues they face internationally, and develops standards aimed
+      at equality and female empowerment. From this, it is understood that human
+      rights must be respected without excluding the conditions of individuals. Ensuring
+      their respect goes hand in hand with the appropriate rights and living conditions
+      that every person must have.\r\n\r\nThe United Nations also recognizes that
+      the role of women is crucial for development; therefore, through the United
+      Nations Development Programme, efforts are made to encourage various interventions
+      and public policies that improve the quality of life for women worldwide. However,
+      the UN, through UN Women, not only seeks the economic empowerment of women,
+      as mentioned by the previous organizations, but is also aware that to achieve
+      the Millennium Development Goals, it is necessary to reduce discrimination
+      against women in all fields, decrease violence against them, and ensure active
+      political leadership and participation of women, whether urban or rural.\r\n\r\nIndeed,
+      the existence of a goal focused solely on women does not mean that they do
+      not benefit from other Millennium Goals. As explained by Elson (2016), even
+      though women, as part of society, are beneficiaries of other development goals,
+      if there wasn't a specific one that expressly included women and girls, it
+      could not be ensured that they wouldn't be left behind because \"Often, policymakers
+      do not recognize that treating all individuals the same in formal terms does
+      not guarantee that all individuals benefit equally\" (Pajarin and Leyra 16:2016).\r\n\r\nThe
+      International Monetary Fund (IMF) and the World Bank (WB) refer to the fact
+      that for economic growth in countries, economic empowerment of women is necessary;
+      however, according to the Women\u2019s Foundation of Spain, the insertion and
+      more active participation of women in the economic sphere should not occur
+      in isolation; it should be accompanied by personal empowerment in which women
+      are aware of their own abilities and freedoms; political empowerment, through
+      which women can create networks to discuss and make political and economic
+      decisions; and finally, entrepreneurial empowerment, meaning that women should
+      create viable and sustainable business initiatives with growth potential and
+      wealth generation. In other words, viewed in this light, women not only enter
+      development by being part of a country's economic system, but they are also
+      agents of change and facilitators of complete and inclusive human development.\r\n\r\nSource:\r\n\r\nCOURSE
+      ON HOME HELP ASSISTANT (C\xF3rdoba ACOGE, M\xAA Dolores de Austria Mill\xE1n)"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

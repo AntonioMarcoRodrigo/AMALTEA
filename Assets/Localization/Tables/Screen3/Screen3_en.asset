@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen3_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fea5dbd6fc9c3a64093eae29de9236dc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6834589696
+    m_Localized: Home social-health care assistance to the elderly, hourly service,
+      intern and night caregiver and training services in social-health competencies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182513012736
+    m_Localized: Home help and assistance services providing comprehensive support
+      to the elderly, and covering the needs of those people who present problems
+      for the development of the basic activities of daily living.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186107531264
+    m_Localized: Social-health care company, we serve at home, hospital and residences.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188628307968
+    m_Localized: It offers elderly care service, both external and internal, night
+      service and weekend service.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191413325824
+    m_Localized: Provision of in-house caregivers, hourly caregivers, night caregivers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195888648192
+    m_Localized: Home help service for the elderly and dependent persons, in-house,
+      hourly and telecare services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199265062912
+    m_Localized: Management of Home Help, Telecare and Social Emergency Service.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201546764288
+    m_Localized: It offers assistance to the elderly, people with disabilities and
+      reduced mobility and children in private homes, accompaniment in hospitals,
+      help and assistance in hotels.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205367775232
+    m_Localized: Provision of social and health care services, day care centers,
+      care for the elderly and dependent persons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208224096256
+    m_Localized: It offers assistance services to the elderly, in private homes,
+      in-house staff, by the hour and accompaniment in hospitals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209805348864
+    m_Localized: "Supl\xE1 Multiservicios, Supl\xE1 Servicios Socioeducativos and
+      Madinat Sca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210707124224
+    m_Localized: Specialized Cleaning Service
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211814420480
+    m_Localized: "Professional cleaning and general services for companies and institutions
+      in C\xF3rdoba."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212523257856
+    m_Localized: Cleaning of communities and offices.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213156597760
+    m_Localized: Cleaning of communities, premises, offices, in domiciles,...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213756383232
+    m_Localized: Cleaning of construction sites, cleaning and maintenance of schools,
+      offices, offices, clinics, garages of buildings, cleaning of swimming pools,
+      companies, warehouses,...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214360363008
+    m_Localized: "Brillo Cordob\xE9s S.L. Cleaning services and painting works, electricity,
+      masonry, plumbing,... and integral maintenance."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215039840256
+    m_Localized: Serlinco General Cleaning and Disinfection Services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215706734592
+    m_Localized: Cleaning and multiservice services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216415571968
+    m_Localized: ONOVAL CLEANING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217116020736
+    m_Localized: Cleaning and maintenance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217837441024
+    m_Localized: Commercial cleaning services to companies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218491752448
+    m_Localized: Cleaning for companies and individuals. Maintenance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219162841088
+    m_Localized: Provision of home care and social-health services for the elderly
+      and children.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219867484160
+    m_Localized: Provision of care and assistance services to elderly and dependent
+      persons, domestic services at home and in the home.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220505018368
+    m_Localized: Provision of home care services to elderly and dependent persons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221176107008
+    m_Localized: Provision of care and assistance services for dependents and elderly
+      people, training services in social and health care competencies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221780086784
+    m_Localized: Provision of in-house caregivers, hourly caregivers, night caregivers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222451175424
+    m_Localized: Provision of health promotion services for the elderly, care of
+      the elderly and dependent persons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223092903936
+    m_Localized: Provision of home help services and day care center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223726243840
+    m_Localized: Provision of care services for the elderly and dependent persons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224363778048
+    m_Localized: Provision of social and health care services, day care centers,
+      care for the elderly and dependent persons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225001312256
+    m_Localized: Provision of social and health care services, day care centers,
+      care for the elderly and dependent persons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225638846464
+    m_Localized: Provision of social and health care services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226242826240
+    m_Localized: Provision of social and health care services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226901331968
+    m_Localized: Provision of cleaning services to hospitals, banks, supermarkets,
+      etc.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227350122496
+    m_Localized: Provision of cleaning services by the hour, housekeepers, child
+      care, house cleaning, etc.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228021211136
+    m_Localized: Provision of industrial cleaning services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228591636480
+    m_Localized: Provision of cleaning services to companies and communities.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229195616256
+    m_Localized: Provision of cleaning services to individuals and companies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229807984640
+    m_Localized: Provision of cleaning services, removal of hazardous products and
+      wastes, and disinfection.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230374215680
+    m_Localized: Provision of cleaning services in offices, buildings, garages, events,
+      gardens and much more.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230974001152
+    m_Localized: Provision of cleaning, gardening, maintenance and vehicle cleaning
+      services.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231544426496
+    m_Localized: Provision of maintenance services for offices, communities, garages
+      and windows.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232152600576
+    m_Localized: Provision of cleaning services for stores and stores, tourist apartments,
+      gymnasiums, communities, etc.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232823689216
+    m_Localized: Provision of services for communities, offices, clinics, homes,
+      glass, warehouses, hotels, among others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233389920256
+    m_Localized: Provision of deep cleaning services to homes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234052620288
+    m_Localized: Provision of deep cleaning services to homes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6366301229056
+    m_Localized: Provision of cleaning services to homes, hospitals, residences,
+      as well as care for the elderly.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

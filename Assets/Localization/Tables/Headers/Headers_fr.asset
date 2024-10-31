@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Headers_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: c5baa1dd501832f46b5693b8146e42c3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13302206464
+    m_Localized: "Droits des employ\xE9(e)s de maison\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 752338571264
+    m_Localized: "Capsules d'information\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769765904384
+    m_Localized: "Ressources professionnelles pour les employ\xE9(e)s de maison\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774522245120
+    m_Localized: "Demande de consultation priv\xE9e\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1697751470080
+    m_Localized: "Qu'est-ce que l'emploi des m\xE9nages ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723068289024
+    m_Localized: "R\xE9glementation\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1734652956672
+    m_Localized: "Inscription \xE0 la S\xE9curit\xE9 Sociale et embauche\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1746812243968
+    m_Localized: "Tableau des salaires et bases de cotisation\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1759420321792
+    m_Localized: "Temps de travail\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775568392192
+    m_Localized: "Vacances, jours f\xE9ri\xE9s et cong\xE9s\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788348436480
+    m_Localized: "Arr\xEAts de travail\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1800025378816
+    m_Localized: "Fin de la relation de travail\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816861315072
+    m_Localized: "Ch\xF4mage\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2339870052352
+    m_Localized: "Stimulation cognitive et pr\xE9vention de la d\xE9t\xE9rioration\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2368831721472
+    m_Localized: "Techniques de nettoyage\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2379267149824
+    m_Localized: "Manipulation des aliments\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2390302363648
+    m_Localized: "Pr\xE9vention des maladies contagieuses\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2399005544448
+    m_Localized: "Techniques de premiers secours\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2410913173504
+    m_Localized: "D\xE9sinfection des blessures l\xE9g\xE8res\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2422820802560
+    m_Localized: "Manipulation des personnes\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2432794857472
+    m_Localized: "Utilisation et manipulation de grues\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447021936640
+    m_Localized: "Maladies chroniques\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2460573732864
+    m_Localized: "Comprendre les soins palliatifs\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2477120262144
+    m_Localized: "Gestion du stress chez les aidants\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488222584832
+    m_Localized: "Pr\xE9vention des risques professionnels dans le secteur\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2502781014016
+    m_Localized: "L'\xE9galit\xE9 des sexes dans le soin\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3485288337408
+    m_Localized: "C\xF3rdoba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3519891345408
+    m_Localized: Sevilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3595413983232
+    m_Localized: "Aide \xE0 domicile\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658404040704
+    m_Localized: "Nettoyage\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769643763437568
+    m_Localized: "Ressources professionnelles pour les employ\xE9(e)s de maison (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769698117423104
+    m_Localized: "Ressources professionnelles pour les employ\xE9(e)s de maison (Sevilla)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802205810528256
+    m_Localized: "Nettoyage (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802306306052096
+    m_Localized: Nettoyage (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802155491463168
+    m_Localized: "Aide \xE0 domicile (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802229999079424
+    m_Localized: "Aide \xE0 domicile (Sevilla)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956625500213248
+    m_Localized: Entreprises collaboratrices
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

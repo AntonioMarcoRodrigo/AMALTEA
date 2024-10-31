@@ -1,0 +1,565 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5e1757ac237a7fa41b47d62877e72e33, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38811963392
+    m_Localized: "<color=#610078><align=left><size=60>What is employment in Household
+      Service?</color></align></size>\n\nIt is the special employment relationship
+      between two people, one being the head of the household who hires, and the
+      other being the employee who provides paid services within the family household.\n\n<color=#610078><align=left><size=60>Who
+      can employ?</color></align></size>\n\nThe following can employ:\n\n\u25CF The
+      person who is the head of the family household or the home where the services
+      are provided\n\n\u25CF The owner of the residence when two or more people live
+      there without forming a family or a legal entity\n\n<color=#610078><align=left><size=60>Purpose
+      of the employment relationship</color></align></size>\n\nPeople working in
+      household service can perform the following tasks:\n\n\u25CF Domestic tasks\n\n\u25CF
+      Managing and caring for the household as a whole or specific parts of it\n\n\u25CF
+      Caring for or attending to family members (children, the elderly, dependents...)\n\n\u25CF
+      Other tasks: gardening, house surveillance...\n\n<color=#610078><align=left><size=60>Labor
+      reality of domestic workers: challenges and vulnerabilities</color></align></size>\n\nGlobally,
+      the majority of domestic workers are women, representing 76.2% of the total,
+      although there are also men in this occupation. 81% work in the informal economy,
+      with difficult working conditions and low wages. Additionally, they are more
+      prone to suffering violence, harassment, and restrictions on their freedom
+      of movement.\n\nSOURCES:\n\n<color=blue><u><link=https://tinyurl.com/mumkkt98>https://tinyurl.com/mumkkt98</link>\n\n<link=https://www.nadiesinfuturo.org/IMG/pdf/FOLLETO_SERVICIO_HOGAR_FAMILIAR.pdf>https://www.nadiesinfuturo.org/IMG/pdf/FOLLETO_SERVICIO_HOGAR_FAMILIAR.pdf</link>\n\n<link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/ambito-aplicacion/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/ambito-aplicacion/index.htm</link>\n\n<link=https://www.mites.gob.es/es/portada/serviciohogar/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/index.htm</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78779486208
+    m_Localized: "<color=#610078><align=left><size=60>Regulations</color></align></size>\r\n\r\n\u25CF
+      Law 27/2011, of August 1, on the update, adequacy, and modernization of the
+      Social Security system.\r\n\r\n<color=blue><u><link=https://tinyurl.com/8fhcbkk6>https://tinyurl.com/8fhcbkk6</link></u></color>\r\n\r\n\u25CF
+      Royal Decree 1620/2011, of November 14, regulating the special employment relationship
+      of household service.\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2011/BOE-A-2011-17975-consolidado.pdf>https://www.boe.es/buscar/pdf/2011/BOE-A-2011-17975-consolidado.pdf</link></u></color>\r\n\r\n\u25CF
+      Legislative Royal Decree 2/2015, of October 23, Workers' Statute\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf>https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf</link></u></color>\r\n\r\n\u25CF
+      Royal Decree-Law 29/2012, of December 28, on improving management and social
+      protection in the Special System for Domestic Employees and other economic
+      and social measures.\r\n\r\n<color=blue><u><link=https://www.boe.es/boe/dias/2012/12/31/pdfs/BOE-A-2012-15764.pdf>https://www.boe.es/boe/dias/2012/12/31/pdfs/BOE-A-2012-15764.pdf</link></u></color>\r\n\r\n\u25CF
+      Royal Decree-Law 16/2022, of September 6, for the improvement of working conditions
+      and Social Security for domestic workers.\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2022/BOE-A-2022-14680-consolidado.pdf>https://www.boe.es/buscar/pdf/2022/BOE-A-2022-14680-consolidado.pdf</link></u></color>\r\n\r\n\u25CF
+      IV Provincial Collective Agreement for Home Assistance in Seville\r\n\r\n<color=blue><u><link=https://tinyurl.com/547d4pr2>https://tinyurl.com/547d4pr2</link></u></color>\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90485788672
+    m_Localized: "<color=#610078><align=left><size=60>Application for Registration</size></align></color>\r\n\r\nEmployers
+      have a legal responsibility to request and sign the registration of their employees
+      in the Special Employment System for Domestic Workers. This obligation extends
+      to the submission and signing of resignations and data variations related to
+      the employment status of the staff.\r\n\r\nEmployers are required to request
+      and sign the registration, resignation, and variations of data for their employees.
+      If this obligation is not fulfilled, the employee may directly request their
+      affiliation with the General Treasury of Social Security (TGSS).\r\n\r\nThis
+      must be requested at the General Treasury of Social Security offices, in advance
+      of the start of the work activity.\r\n\r\nThe resignation request and data
+      variations must be submitted within 3 calendar days following the cessation
+      of work or the date on which the variation occurs, through the Import@ss platform.\r\n\r\n<color=#610078><align=left><size=60>Import@ss</size></align></color>\r\n\r\nRegistering
+      a person in the Special Employment System for Domestic Workers is easier than
+      ever thanks to Import@ss, the new portal of the General Treasury of Social
+      Security (TGSS) that allows you to complete the process in just 9 steps without
+      having to provide documentation, although you will need to have a series of
+      data prepared. You can do this anytime, from any computer or mobile device
+      with an internet connection.\r\n\r\nYou can access Import@ss directly from
+      this link or from the access points enabled on the website, the electronic
+      headquarters, and the Social Security mobile application. To request registration,
+      you must identify yourself using the following methods:\r\n\r\n\u25CF Electronic
+      certificate\r\n\r\n\u25CF Cl@ve\r\n\r\n\u25CF Via SMS\r\n\r\n<color=blue><align=left><u><link=https://portal.seg-social.gob.es/wps/portal/importass/importass>https://portal.seg-social.gob.es/wps/portal/importass/importass</link></u></align></color>\r\n\r\nSo
+      far, employment relationships in the domestic sector have represented a high
+      percentage of in-person processing and difficulties in digital processing,
+      as they could require up to three additional procedures to the registration
+      itself if the worker and/or the employer do not have a Social Security Number
+      (NUSS) and the employer does not have a Contribution Account Code (CCC).\r\n\r\nIn
+      Import@ss, the process adapts to the user's circumstances, creating the Social
+      Security Number and the Contribution Account Code if necessary. The process
+      is designed so that the user, from the public or personal area, can complete
+      a registration in a single flow with a maximum of 9 steps, divided by the type
+      of information requested from the user.\r\n\r\n<color=#610078><align=left><size=60>Steps
+      to Register</size></align></color>\r\n\r\nOnce you have accessed the domestic
+      employment registration service in Import@ss and identified yourself or accessed
+      your personal area, you must first indicate whether you are processing the
+      registration as an employer or as a worker. The system will give you the option
+      to process a new registration or continue with one you have previously started.\r\n\r\nNext,
+      you simply need to fill out the 9 steps in which clarity of information, ease
+      of use, control over each of the steps, and security of the process stand out:\r\n\r\n1.
+      Employee's data: Type and number of identification document (DNI or NIE) and
+      date of birth.\r\n\r\n2. Employer's data: Indicate whether the employee will
+      care for a large family. If you meet the conditions, you may be entitled to
+      a bonus.\r\n\r\n3. Duration of the contract: Indicate the start date of the
+      activity and the type of contract (indefinite or fixed-term).\r\n\r\n4. Work
+      schedule and salary: You must mark whether the contract is full-time or hourly,
+      the number of hours worked per week/month, how the salary payment has been
+      agreed (monthly or weekly), the salary they will receive, whether they will
+      receive a salary during vacations, whether extra payments are included, whether
+      guard hours will be worked, or if payment in kind has been agreed (the system
+      will inform you of the fee to be paid based on this data). Remember that the
+      salary must be at least equal to the SMI (if it is full-time).\r\n\r\n5. Activity
+      address: Fill in the details or select the activity address if it matches any
+      of those registered in the TGSS database.\r\n\r\n6. Insurer: Select the insurance
+      entity, choosing between the INSS or a collaborating Mutual.\r\n\r\n7. Contact
+      information: Enter the contact details as the domestic employer.\r\n\r\n8.
+      Bank account: You must provide the account where the corresponding monthly
+      fee will be charged.\r\n\r\n9. Review your data: Import@ss will offer you a
+      summary of all fields, which you can modify if you detect any errors.\r\n\r\nSteps
+      may be omitted if the TGSS already has the corresponding information.\r\n\r\nIf
+      the data is correct, you must give your consent after reading and accepting
+      the responsible declaration by marking the corresponding box. Once done, you
+      can proceed to sign the request and request registration; the system will show
+      you a receipt and offer you the option to download the supporting documentation
+      in PDF format.\r\n\r\nLink to explanatory video of the step-by-step process:
+      \r\n\r\n<color=blue><align=left><u><link=https://www.youtube.com/watch?v=WX2fshb4dPk>https://www.youtube.com/watch?v=WX2fshb4dPk</link></u></align></color>\r\n\r\nWithout
+      identification method\r\n\r\nIf you do not have any of the previous identification
+      methods, you can use the request submission service on the portal, where you
+      can request registration using this form without prior identification. You
+      can also process resignations and modifications of data.\r\n\r\nTo process
+      the registration, you must complete and attach:\r\n\r\n1. Employer's data:
+      personal details, address, Contribution Account Code (CCC), banking details
+      for fee collection, copy of identification document.\r\n\r\n2. Employee's data:
+      personal details, copy of identification document, and Social Security Number
+      (NUSS).\r\n\r\n3. Labor relationship data (number of hours worked, salary,
+      start date of the labor relationship, whether there are any payments in kind,
+      overnight stays, etc.).\r\n\r\n4. The employment contract.\r\n\r\n<color=blue><align=left><u><link=https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html>https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html</link></u></align></color>\r\n\r\n5.
+      The registration forms for Social Security.\r\n\r\n<color=blue><align=left><u><link=https://tinyurl.com/4b7xdkar>https://tinyurl.com/4b7xdkar</link></u></align></color>\r\n\r\n6.
+      If this is the first time you are hiring a domestic employee, you must also
+      submit Model TA.6-0138 HOGAR Request for Contribution Account Code.\r\n\r\n<color=blue><align=left><u><link=https://tinyurl.com/57pxkr6s>https://tinyurl.com/57pxkr6s</link></u></align></color>\r\n\r\n7.
+      Additionally, if the employee does not have a Social Security affiliation number,
+      it should be processed using Model TA 1.\r\n\r\n<color=blue><align=left><u><link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572</link></u></align></color>\r\n\r\nTo
+      guide you through the process, you can use the virtual assistant available
+      on the website and in the Electronic Headquarters of Social Security. It will
+      show you the steps to follow, the necessary requirements, and links to the
+      electronic headquarters for submitting requests.\r\n\r\n<color=#610078><align=left><size=60>Deadlines</size></align></color>\r\n\r\nIn
+      any of the previous cases, registration must be processed before the start
+      of the work activity, with a maximum advance of 60 days, and it is the responsibility
+      of the employer, just like the payment of contributions.\r\n\r\nRemember that,
+      since January 1, 2023, it is no longer possible to agree with domestic workers
+      who perform less than 60 hours of work per month per employer to assume the
+      obligations regarding contributions, affiliation, and registration in Social
+      Security, as could be done until now, after the entry into force of some of
+      the novelties of Royal Decree-Law 16/2022, of September 6, which improves working
+      conditions for this group, including unemployment protection.\r\n\r\n<color=#610078><align=left><size=60>Essential
+      Elements and Forms of the Contract</size></align></color>\r\n\r\n\u25CF Orally:
+      contracts shorter than four weeks (at any time, it can be required that it
+      be formalized in writing).\r\n\r\n\u25CF In writing: contracts lasting four
+      weeks or more.\r\n\r\nThe contract must be made in writing, with one copy for
+      the employer and another for the employee. It is important to do this because
+      if the contract is not formalized in writing, it is presumed that the employment
+      relationship is indefinite and full-time.\r\n\r\n<color=blue><align=left><u><link=https://www.mites.gob.es/es/portada/serviciohogar/nueva-regulacion/contratacion/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/nueva-regulacion/contratacion/index.htm</link></u></align></color>\r\n\r\nWhen
+      the duration of the contract is more than four weeks, the worker must receive
+      information about the essential elements of the contract if they are not included
+      in the written contract formalized, which, in addition to general aspects (identification
+      of the parties, salary, working hours, etc.), will include:\r\n\r\n\u25CF Salary
+      payments in kind, when their existence has been agreed upon.\r\n\r\n\u25CF
+      Payments in kind must be specifically valued, detailing the amount and frequency
+      of the remuneration.\r\n\r\nThe written contract must also specify the following
+      information:\r\n\r\n\u25CF Employment start date, with reference to whether
+      it is indefinite or temporary.\r\n\r\n\u25CF The work schedule (the hours and
+      days of the week that the worker will perform their duties).\r\n\r\n\u25CF
+      The maximum number of working hours, as well as the specific duties to be carried
+      out by the employee.\r\n\r\nLastly, it\u2019s advisable to keep a record of
+      all the communications with the employee, whether by email or message, to avoid
+      any misunderstandings or disputes.\r\n\r\n<color=#610078><align=left><size=60>Rights
+      and Obligations</size></align></color>\r\n\r\nThe employer must comply with
+      their obligations regarding the employee, including the timely payment of salary
+      and contributions to the Social Security system.\r\n\r\nThe employee has the
+      right to a fair salary and to receive the agreed payment on time. They also
+      have the right to a safe and healthy work environment.\r\n\r\nFor any conflicts
+      that arise, both parties should try to resolve the issue amicably before considering
+      legal action. If necessary, they can contact labor inspectors or seek legal
+      advice.\r\n\r\n<color=#610078><align=left><size=60>Contact Information</size></align></color>\r\n\r\nIf
+      you have any questions or need further assistance, you can contact the General
+      Treasury of Social Security at:\r\n\r\nPhone: 901 50 20 50 or 91 22 88 300\r\n\r\nEmail:
+      consultas@seg-social.es\r\n\r\nRemember that keeping open communication with
+      your employee and ensuring clarity in the work relationship is key to avoiding
+      misunderstandings and fostering a good work environment.\r\n\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607702192128
+    m_Localized: '<color=#610078><align=left><size=60>Salary Table and Contribution
+      Bases</size></align></color>
+
+
+
+      <color=#610078><align=left><size=60>A.
+      Salary Table of the Domestic Employment Regime</size></align></color>
+
+
+
+      The
+      salary will be agreed upon by the employer and the employee, always guaranteeing
+      the Minimum Interprofessional Wage (SMI) on an annual basis in proportion to
+      the hours worked. The SMI must always be paid in cash, and deductions for in-kind
+      benefits that result in the cash salary being less than the SMI are not allowed.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756675481600
+    m_Localized: 'In the internal regime, the domestic worker will be entitled to
+      receive the SMI (in cash) and a salary in kind that will cover maintenance
+      and accommodation in the home (single room, basic meals, personal hygiene,
+      use of the washing machine, etc.).
+
+
+
+      The worker who works full-time,
+      under the internal regime or part-time, is entitled to receive two extraordinary
+      payments in the amount agreed upon by the parties, while always guaranteeing
+      the receipt of the SMI (in cash) on an annual basis in proportion to the hours
+      worked.
+
+
+
+      <color=#610078><align=left><size=60>B. Contribution Base Scale
+      (from January 2024)</size></align></color>
+
+
+
+      Contribution bases are
+      determined based on the monthly remuneration of the domestic worker, following
+      established brackets to ensure a fair contribution to the Social Security system.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848815951872
+    m_Localized: "<color=#610078><size=60>C. Applicable bonuses in the special Employment
+      of Home system.</size></color>\r\n\r\nThe following are some of the basic bonuses
+      applicable in the Special Employment of Home System:\r\n\r\n\u25CF Reduction
+      for registration in the regime of 20% on the employer's contribution to Social
+      Security for common contingencies.\r\n\r\n\u25CF Benefit of 45% on the employer's
+      contribution to Social Security for common contingencies for hiring caregivers
+      in large families (not cumulative with the 20% registration reduction). In
+      any case, this bonus will only be applicable for the hiring of a single caregiver
+      for each family unit officially recognized as a large family.\r\n\r\nOnly employers
+      who are up to date with their payment obligations to Social Security at the
+      time of granting can obtain reductions, bonuses, or any other benefit regarding
+      the bases, rates, and contributions of Social Security and for joint collection
+      concepts.\r\n\r\n<color=#610078><align=left><size=60>D. Benefits for workers
+      who contribute to Social Security.</size></align></color>\r\n\r\nWe must highlight
+      the benefits obtained by workers who contribute to Social Security:\r\n\r\n\u25CF
+      Contributions to Social Security: These contributions support the social protection
+      of the worker, including aspects such as retirement, disability, illness, and
+      maternity.\r\n\r\n\u25CF Access to unemployment benefits: Domestic workers
+      have the right to access unemployment benefits if they lose their job.\r\n\r\n\u25CF
+      Protection for workplace accidents and occupational diseases: If a domestic
+      worker suffers an accident related to their work or develops an occupational
+      disease, they will have the right to receive medical assistance and a leave
+      of absence as determined by the professional doctor.\r\n\r\n\u25CF Protection
+      in cases of maternity and paternity: Protection is provided in cases of maternity,
+      granting economic benefits to domestic workers who are on maternity leave.\r\n\r\n\u25CF
+      Inclusion in the pension system: This allows domestic workers to accumulate
+      rights to receive a pension upon retirement.\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/retribuciones/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/retribuciones/index.htm</link>\r\n\r\n<link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537#36556>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537#36556</link>\r\n\r\n<link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/2288>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/2288</link>\r\n\r\n<link=https://qido.es/blog/nuevo-salario-minimo-interprofesional-smi-en-el-regimen-de-empleadas-de-hogar-2024/>https://qido.es/blog/nuevo-salario-minimo-interprofesional-smi-en-el-regimen-de-empleadas-de-hogar-2024/</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 959272947712
+    m_Localized: "<color=#610078><size=60>Working Hours</size></color>\r\n\r\nThe
+      maximum working hours allowed is 40 hours per week, which can be distributed
+      as the parties wish, provided that daily and weekly rest periods are respected.\r\n\r\nIn
+      addition to this ordinary working day, for live-in workers, periods of availability
+      can be established at the employer's disposal for a maximum of 20 hours per
+      week or for longer periods if compensated with time off.\r\n\r\n<color=#610078><size=60>Hourly
+      Work</size></color>\r\n\r\nWork is considered hourly when the total number
+      of days providing services to the same employer in a year does not exceed 120.
+      It is also mandatory to have a written contract and to provide a salary receipt.\r\n\r\n<color=#610078><size=60>Periods
+      of Availability</size></color>\r\n\r\nThe time of presence is that working
+      time during which the employee is available to perform a task but is not actively
+      working. It must be compensated according to what the parties agree upon.\r\n\r\nIt
+      must be paid at least the same amount as an ordinary hour of work or can be
+      compensated with paid time off, meaning granting as many hours of free time
+      as hours of presence that have been provided.\r\n\r\n<color=#610078><size=60>Extraordinary
+      Working Hours: Payment, Limits, and Obligation</size></color>\r\n\r\nExtraordinary
+      hours are those that exceed the ordinary working hours established in the contract.
+      It is important to remember that the ordinary working day cannot exceed 40
+      hours per week, and any hour worked beyond this limit is considered extraordinary.\r\n\r\nExtraordinary
+      hours are different from periods of availability; they must be paid separately
+      and cannot exceed 80 hours per year.\r\n\r\nAccording to Article 15 of the
+      Workers' Statute, extraordinary hours must be paid at least at the same value
+      as one ordinary hour of the Minimum Interprofessional Salary.\r\n\r\nIn addition
+      to cash payment, the employer can opt to compensate extraordinary hours with
+      equivalent rest days, offering free time for the extraordinary hours worked.\r\n\r\nThere
+      is a limit of 80 extraordinary hours per year; however, if the option to compensate
+      extraordinary hours with free time is chosen, these do not count within the
+      mentioned limit. Extraordinary hours are voluntary unless they have been agreed
+      upon as mandatory in the employment contract.\r\n\r\n<color=#610078><size=60>Rest
+      Periods</size></color>\r\n\r\nThe worker must have the following rest periods:\r\n\r\n\u25CF
+      Between two working days on two different days: a minimum of 12 hours, which
+      may be reduced to 10 for live-in workers.\r\n\r\n\u25CF Daily rest for live-in
+      workers: They will have 2 hours each day for main meals. These rest periods
+      do not count as working time.\r\n\r\n\u25CF Weekly rest: 36 consecutive hours.\r\n\r\nSOURCES:\r\n\r\n<color=blue><u><link=https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf>https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/las-horas-extraordinarias-las-empleadas-del-hogar/>https://www.cuestioneslaborales.es/las-horas-extraordinarias-las-empleadas-del-hogar/</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/horario-de-las-empleadas-del-hogar-internas/>https://www.cuestioneslaborales.es/horario-de-las-empleadas-del-hogar-internas/</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/el-regimen-laboral-de-las-empleadas-del-hogar/#descanso>https://www.cuestioneslaborales.es/el-regimen-laboral-de-las-empleadas-del-hogar/#descanso</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083097190400
+    m_Localized: "<color=#610078><align=left><size=60>Holidays and Leave</size></align></color>\r\n\r\n   
+      All workers have the right to enjoy at least 30 calendar days of vacation per
+      year. This right is maintained regardless of the number of weekly working hours
+      or the type of contract (full-time, part-time, or half-time).\r\n\r\n    These
+      30 days are accrued throughout the working year, with each month of work generating
+      2.5 vacation days.\r\n\r\n    During vacation days, the employee is entitled
+      to receive the same salary they would if they were working.\r\n\r\n    There
+      is also a right to enjoy 14 public holidays per year, like the rest of the
+      workers. The labor calendar varies according to the autonomous community and
+      locality.\r\n\r\n<color=#610078><align=left><size=60>How can I enjoy my vacation?</size></align></color>\r\n\r\n   
+      Vacations can be divided into fractions as convenient. Legislation establishes
+      that at least 15 calendar days must be taken consecutively. However, in practice,
+      other arrangements can be agreed upon between both parties.\r\n\r\n    It is
+      important to highlight that all vacations must be taken within the same calendar
+      year in which they were accrued; they cannot be accumulated from one year to
+      another.\r\n\r\n<color=#610078><align=left><size=60>Obligations during Vacation</size></align></color>\r\n\r\n   
+      During vacations, the employee has no labor obligations to the employer. It
+      is a rest period in which they are not expected to perform any work-related
+      tasks.\r\n\r\n    For live-in employees, this means they are not obliged to
+      reside at the family home or any other place associated with the job during
+      this time.\r\n\r\n    If the employer's family goes on vacation to another
+      place and the employee travels with them, does this time count as vacation?
+      No, vacation time is rest time for the employee; therefore, if they accompany
+      the family during their vacation and continue to perform their work functions
+      at the location where the family is traveling, this time does not count as
+      vacation but rather as work.\r\n\r\n    Should the live-in employee accompany
+      the employer's family to the home during the family's vacation? The rules regarding
+      overnight stays for live-in employees are part of the essential elements of
+      the contract, so if during a period of the year these overnight stays must
+      occur in a place different from the usual residence, this matter should be
+      specified in the contract.\r\n\r\n    In any case, this time will not count
+      as vacation for the employee as long as they continue to carry out their work
+      tasks.\r\n\r\n<color=#610078><align=left><size=60>Paid Leave for Domestic Workers</size></align></color>\r\n\r\n   
+      People working in domestic employment have the right to certain paid leave
+      that allows them to perform their work without jeopardizing their labor and
+      economic stability. These leaves are provided for in the Workers' Statute and
+      cover a series of situations:\r\n\r\n\u25CF Marriage: 15 calendar days\r\n\r\n\u25CF
+      Family reasons: 2 days (if the worker needs to travel, the leave is extended
+      to 4 calendar days)\r\n\r\n\u25CB Death \r\n\r\n\u25CB Serious accident or
+      illness\r\n\r\n\u25CB Hospitalization\r\n\r\n\u25CB Surgical intervention without
+      hospitalization that requires home rest for relatives up to the second degree
+      of consanguinity or affinity\r\n\r\n\u25CF Moving house: 1 day of leave\r\n\r\n\u25CF
+      Right to be absent due to an unavoidable duty: the right to be absent from
+      work for the necessary time to fulfill an unavoidable public and personal duty,
+      including active suffrage, is recognized.\r\n\r\n\u25CF Leave related to pregnancy
+      and infant care: during pregnancy, domestic workers have the right to the necessary
+      leave to attend prenatal examinations and childbirth preparation techniques.\r\n\r\n\u25CF
+      Birth, adoption, custody for adoption purposes, or fostering: 1 hour of absence
+      from work is granted, which can be divided into two parts, for the care of
+      the infant until they reach 9 months. The duration of the leave will increase
+      proportionally in the case of multiple births, adoptions, custody for adoption
+      purposes, or fostering.\r\n\r\nSOURCES:\r\n\r\n<color=blue><align=left><u><link=https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf>https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/tiempo-trabajo/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/tiempo-trabajo/index.htm</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/las-vacaciones-las-empleadas-del-hogar/#horas>https://www.cuestioneslaborales.es/las-vacaciones-las-empleadas-del-hogar/#horas</link>\r\n\r\n<link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf>https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf</link></u></align></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1231684603904
+    m_Localized: "<color=#610078><align=left><size=60>Work Leaves</size></align></color>\r\n\r\n<color=#610078><align=left><size=60>A.
+      New Medical Leave Regulations</size></align></color>\r\n\r\n    The new Royal
+      Decree 1060/2022 introduces major changes that directly affect the management
+      of temporary disability situations (medical leave), including in the domestic
+      workers sector. The significant changes introduced by this new regulation are:\r\n\r\n\u25CF
+      The obligation for the worker to submit the medical leave report to their employer
+      is eliminated. The medical leave report for companies/employers is removed.
+      Instead, the doctor will be responsible for providing the medical leave report
+      to the worker and communicating the leave data to the INSS or mutuals, which
+      in turn will transmit the information to employers electronically.\r\n\r\n\u25CF
+      Doctors may establish shorter medical review periods than those officially
+      set, as long as they align with the progress of the condition.\r\n\r\n\u25CF
+      The data that companies must transmit to Social Security are modified.\r\n\r\n   
+      Among these changes, the one that most directly affects the domestic workers
+      sector is related to medical reports. Until now, when a worker went to their
+      general practitioner or mutual to collect their sick leave, confirmation, or
+      discharge reports, the doctor always provided the worker with two copies: one
+      copy for the worker and another copy for the company. The worker then had 3
+      days to provide this report to the company, so that the company would be aware
+      of the situation and could take the necessary steps.\r\n\r\n    With the entry
+      into force of this new Royal Decree on April 1, 2023, the only report issued
+      by the general practitioner will be the worker's copy. This report is confidential
+      for the worker and does not need to be provided to the company.\r\n\r\n   
+      Therefore, as of April 1, the general practitioner communicates the medical
+      leave data to the INSS electronically within 24 working hours of the appointment
+      with the worker. Once the data is received, the INSS transmits this information
+      to the employers.\r\n\r\n<color=#610078><align=left><size=60>B. Temporary Disability
+      and Medical Leave</size></align></color>\r\n\r\n    When a worker enters a
+      temporary disability situation, the employer must initiate several important
+      steps. First, they must stay informed about the worker\u2019s leave situation
+      (leave dates and confirmations), as these will be necessary for adjusting the
+      medical leave.\r\n\r\n    During the medical leave period, the worker is not
+      obliged to provide services and is entitled to receive financial compensation
+      for temporary disability, the amount of which will depend on the regulatory
+      base and the duration of the leave.\r\n\r\n    The employer must be informed
+      about the entity responsible for covering common and professional contingencies.
+      This entity can be the INSS or a Mutual Collaborator of Social Security. When
+      registering as a domestic employer, one of these options must be chosen.\r\n\r\n<color=#610078><align=left><size=60>C.
+      Coverage of Common Contingencies</size></align></color>\r\n\r\n    In the case
+      of common contingencies, which include temporary disability coverage for common
+      illness or non-occupational accident, the general practitioner will be the
+      one to issue the medical leave report to the worker, carry out the reviews,
+      and determine when they can issue the medical discharge.\r\n\r\n    Regarding
+      the caregiver's payroll management, it should be noted that:\r\n\r\n\u25CF
+      The worker does not receive a salary for the first 3 days of leave.\r\n\r\n\u25CF
+      From the 4th to the 8th day, they will receive 60% of the contribution base
+      from the employer.\r\n\r\n\u25CF From the 9th day onward, the worker will receive
+      a benefit directly from the entity covering common contingencies. In this case,
+      the worker must go to the nearest INSS/Mutual to manage the payment of their
+      benefit, providing the employer with an employer certificate to process the
+      payment.\r\n\r\n    It is important to highlight that, to be eligible for the
+      benefit, the worker must have contributed for 180 days in the last 6 years.
+      If this requirement is not met, the worker will not receive any benefits during
+      their medical leave.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396826935296
+    m_Localized: "<color=#610078><align=left><size=60>D. Coverage of Professional
+      Contingencies</size></align></color>\r\n\r\n    Professional contingencies
+      refer to protection in cases of work-related accidents, defined as \"any bodily
+      injury that the worker suffers on the occasion of or as a consequence of the
+      work performed for others\" (art. 115 LGSS). If a worker suffers a work-related
+      accident, they must go directly to the entity responsible for the corresponding
+      coverage.\r\n\r\n    If the coverage of professional contingencies is handled
+      by the INSS, the worker must go to the general practitioner to obtain the medical
+      leave report, and the same doctor will be responsible for the reviews and the
+      discharge report. If the coverage is provided by a mutual insurance company,
+      the mutual's doctor will issue the medical leave report and carry out the relevant
+      reviews.\r\n\r\n    Regarding compensation for work-related accidents, the
+      employer will cover the first day of leave at 100%, while from the second day
+      onward, the INSS or the mutual will be responsible for direct payment. The
+      employer must prepare the employer's certificate and provide it to the worker
+      so they can manage the payment of their compensation.\r\n\r\n    In the case
+      of work-related accidents, the employer is obligated to report the accident
+      through the Delt@ System within 5 working days from the date of the accident
+      or from when they become aware of it.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1653480591360
+    m_Localized: 'SOURCE:
+
+
+
+      <color=blue><u><link=https://www.cuidum.com/blog/gestion-de-bajas-medicas-para-empleadas-de-hogar-como-funciona-actualmente/>https://www.cuidum.com/blog/gestion-de-bajas-medicas-para-empleadas-de-hogar-como-funciona-actualmente/</link></u></color></align=left>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1706064580608
+    m_Localized: "<color=#610078></align=left><size=60>Termination of Employment</color></size></align>\r\n\r\n<color=#610078></align=left><size=60>a.
+      Termination in Home Employment</color></size></align>\r\n\r\nOne of the main
+      demands in the domestic employment sector was the abolition of the legal concept
+      of termination without cause, which allowed employers to terminate the employment
+      contract without needing to justify the reason. This concept was almost exclusive
+      to the household sector, since, as a rule in labor law, dismissals must be
+      justified by one of the reasons outlined in the Workers' Statute.\r\n\r\n<color=#610078></align=left><size=60>b.
+      Reasons for Termination in Home Employment</color></size></align>\r\n\r\nAs
+      of September 9, 2022, the concept of termination without cause was abolished,
+      removing the possibility for employers to terminate contracts without justification.
+      The new reasons for termination in domestic employment must always be motivated
+      and justified.\r\n\r\nThese reasons include:\r\n\r\n- **Objective termination
+      due to a decrease in income or increase in expenses in the family unit:** 
+      \r\n  The contract can be terminated when, due to unforeseen circumstances,
+      the family's income decreases or their expenses increase, such as when a family
+      member loses a job or an unexpected expense occurs.\r\n\r\n- **Objective termination
+      due to changes in family needs:**  \r\n  The contract can be terminated when
+      the family makes a decision that affects its structure, like deciding to place
+      an elderly family member in a specialized care center.\r\n\r\n- **Objective
+      termination due to loss of trust in the employee's conduct:**  \r\n  There
+      must be a serious cause attributed to the employee that leads to a genuine
+      loss of trust, justifying the decision to end the employment.\r\n\r\n<color=#610078></align=left><size=60>c.
+      Voluntary Resignation:</color></size></align>\r\n\r\nVoluntary resignation
+      occurs when a household employee notifies the employer, either in writing or
+      verbally, of their decision to end the employment relationship. In this case,
+      the decision comes from the employee, and the employer only needs to be informed.
+      The resignation process requires fulfilling certain requirements and considering
+      specific factors.\r\n\r\nKey features include:\r\n\r\n- The notice must be
+      given 15 calendar days in advance.\r\n- The company must still pay a final
+      settlement even in cases of voluntary resignation.\r\n- The resignation is
+      reversible within 15 days.\r\n- A new contract must be signed if the employee
+      wishes to return to the same employer.\r\n\r\nEmployees must sign the voluntary
+      resignation form willingly, without pressure or external causes, as any form
+      of coercion is illegal. Additionally, voluntary resignations disqualify the
+      employee from claiming unemployment benefits, except when they find a new job
+      but fail to pass the probationary period, and more than three months have passed
+      since the resignation.\r\n\r\nUpon the resignation, the employer must notify
+      the TGSS through the Import@ss portal, which will issue a certificate of employment
+      to be submitted to SEPE within 15 days. This certificate is essential for unemployment
+      benefits unless the resignation is voluntary.\r\n\r\n<color=#610078></align=left><size=60>d.
+      Dismissal Procedure:</color></size></align>\r\n\r\nIt is crucial to follow
+      the correct dismissal procedure to avoid the dismissal being deemed improper.
+      The steps include:\r\n\r\n- **Providing written notice:**  \r\n  A written
+      notice of 7 days must be given, or 20 days if the employee has been working
+      for more than a year. If not provided, these days must be compensated in the
+      final settlement.\r\n  \r\n- **Dismissal letter:**  \r\n  A dismissal letter
+      must clearly state the reason for termination and include justification for
+      the decision. It should not only state the intention to terminate but also
+      provide a rationale.\r\n\r\n- **Compensation and final settlement:**  \r\n 
+      Compensation of 12 days of salary per year of service, up to six months, must
+      be paid, along with the salary for the days worked, unpaid vacation, and other
+      entitlements.\r\n\r\n- **Signing documentation:**  \r\n  All documentation
+      must be signed by both parties. If the employee refuses to sign, a witness
+      should be present to confirm the date of communication, and the documents can
+      be sent via certified mail.\r\n\r\nIt is essential to follow these procedures
+      to avoid an improper dismissal, which could entitle the employee to a compensation
+      of 20 days' salary per year of service, up to a limit of 12 months.\r\n\r\nSOURCES: 
+      \r\n\r\n<color=blue></align=left><u><link=https://www.cuidum.com/blog/nueva-normativa-en-la-extincion-contrato-empleada-del-hogar/>https://www.cuidum.com/blog/nueva-normativa-en-la-extincion-contrato-empleada-del-hogar/</link></u></color></align=left>\r\n\r\n<color=blue></align=left><u><link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html</link></u></color></align=left>\r\n\r\n<color=blue></align=left><u><link=https://aiudo.es/baja-voluntaria-en-las-empleadas-del-hogar/>https://aiudo.es/baja-voluntaria-en-las-empleadas-del-hogar/</link></u></color></align=left>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1770757525504
+    m_Localized: "<color=#610078></align=left><size=60>Unemployment</color></size></align>\r\n\r\nThe
+      **Royal Decree-Law 16/2022**, of September 6, aimed at improving the working
+      conditions and Social Security of household employees, aligns their conditions
+      with those of other workers. It establishes that unemployment benefits are
+      now part of the protective measures for household employees within the special
+      system.\r\n\r\nFrom **October 1, 2022**, unemployment contributions became
+      mandatory for household employees. As of **January 2023**, contributions are
+      calculated based on the General State Budget Law.\r\n\r\nHousehold employees
+      can be considered legally unemployed if their employment is terminated through
+      a written communication from the employer, clearly stating:\r\n\r\n\u25CF The
+      employer's decision to terminate the employment relationship.\r\n\u25CF The
+      reason for the termination.\r\n\r\n<color=#610078></align=left><size=60>When
+      Can I Apply for Unemployment Benefits?</color></size></align>\r\n\r\nYou must
+      submit the application **within 15 business days** from the last day worked.
+      The application can be submitted through:\r\n\r\n\u25CF SEPE's electronic headquarters\r\n\u25CF
+      In-person at a benefits office (appointment required via SEPE's electronic
+      headquarters or phone)\r\n\u25CF At any public registration office\r\n\u25CF
+      By administrative mail\r\n\r\nIf you submit the unemployment benefit application
+      after the deadline, your entitlement will begin from the date of the application,
+      and you will lose the days that have passed between the initial entitlement
+      and the submission date.\r\n\r\nIn cases where the employment is terminated,
+      the worker can appeal the employer's decision. If you did not submit your application
+      within the initial deadline, you will have a new 15-day period starting from
+      the conciliation act or from the court decision.\r\n\r\nSEPE must issue a resolution
+      within 15 days of the application submission and notify you within 10 days
+      after the decision is made.\r\n\r\n<color=#610078></align=left><size=60>Have
+      I Worked More or Less Than a Year?</color></size></align>\r\n\r\nFor additional
+      information, you can consult the following links depending on whether you have
+      worked more or less than a year:\r\n\r\n\u25CF **More than a year:**  \r\n<color=blue></align=left><u><link=https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-mas-de-un-ano.html>https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-mas-de-un-ano.html</link></u></color></align=left>\r\n\r\n\u25CF
+      **Less than a year:**  \r\n<color=blue></align=left><u><link=https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-menos-un-ano.html>https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-menos-un-ano.html</link></u></color></align=left>\r\n\r\n<color=#610078></align=left><size=60>How
+      to Apply for Unemployment Benefits?</color></size></align>\r\n\r\n**Step 1:
+      Access Applications**\r\n\r\n1. Go to SEPE's online services portal\r\n2. Click
+      on the \"Access Applications\" button to view the available types of applications\r\n3.
+      Use an authentication and digital signature method (Cl@ve, Digital Certificate,
+      or DNIe)\r\n\r\n**Step 2: Type of Applications**\r\n\r\n1. Select the type
+      of application that matches your situation: initial registration, resumption,
+      labor compatibility options\u2026\r\n2. Carefully review each option and choose
+      the one that fits your case\r\n\r\n**Step 3: Attachments to Applications**\r\n\r\n1.
+      Once the application is selected, review the available sections and subsections\r\n2.
+      Ensure all personal information is correct and complete additional fields if
+      necessary\r\n3. Read the legal texts and the obligations associated with the
+      application\r\n\r\n**Step 4: Application Confirmation**\r\n\r\n1. Sign the
+      application using one of the available accreditation methods (Cl@ve, Digital
+      Certificate, or DNIe)\r\n2. Follow the specific instructions for each signature
+      method\r\n3. Verify that the signature process has been completed successfully\r\n\r\n**Step
+      5: Signature of the Application**\r\n\r\n1. After signing the application,
+      download and print a receipt for your records\r\n2. Review all the additional
+      information provided regarding the obligations as a beneficiary\r\n3. Stay
+      informed about the status of your application and any future communication
+      from SEPE\r\n\r\n*Link to the Ministry of Labor and Social Economy on unemployment
+      benefits*  \r\n<color=blue></align=left><u><link=https://tinyurl.com/48v7r8u4>https://tinyurl.com/48v7r8u4*</link></u></color></align=left>\r\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

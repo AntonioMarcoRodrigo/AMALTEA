@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Screen3 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Screen3
+  m_TableCollectionNameGuidString: fea5dbd6fc9c3a64093eae29de9236dc
+  m_Entries:
+  - m_Id: 6834589696
+    m_Key: CordobaAyudaDesc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182513012736
+    m_Key: CordobaAyudaDesc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186107531264
+    m_Key: CordobaAyudaDesc3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188628307968
+    m_Key: CordobaAyudaDesc4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191413325824
+    m_Key: CordobaAyudaDesc5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195888648192
+    m_Key: CordobaAyudaDesc6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199265062912
+    m_Key: CordobaAyudaDesc7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201546764288
+    m_Key: CordobaAyudaDesc8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205367775232
+    m_Key: CordobaAyudaDesc9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208224096256
+    m_Key: CordobaAyudaDesc10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209805348864
+    m_Key: CordobaLimpiezaDesc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210707124224
+    m_Key: CordobaLimpiezaDesc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211814420480
+    m_Key: CordobaLimpiezaDesc3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212523257856
+    m_Key: CordobaLimpiezaDesc4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213156597760
+    m_Key: CordobaLimpiezaDesc5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213756383232
+    m_Key: CordobaLimpiezaDesc6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214360363008
+    m_Key: CordobaLimpiezaDesc7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215039840256
+    m_Key: CordobaLimpiezaDesc8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215706734592
+    m_Key: CordobaLimpiezaDesc9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216415571968
+    m_Key: CordobaLimpiezaDesc10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217116020736
+    m_Key: CordobaLimpiezaDesc11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217837441024
+    m_Key: CordobaLimpiezaDesc12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218491752448
+    m_Key: CordobaLimpiezaDesc13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219162841088
+    m_Key: SevillaAyudaDesc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219867484160
+    m_Key: SevillaAyudaDesc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220505018368
+    m_Key: SevillaAyudaDesc3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221176107008
+    m_Key: SevillaAyudaDesc4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221780086784
+    m_Key: SevillaAyudaDesc5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222451175424
+    m_Key: SevillaAyudaDesc6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223092903936
+    m_Key: SevillaAyudaDesc7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223726243840
+    m_Key: SevillaAyudaDesc8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224363778048
+    m_Key: SevillaAyudaDesc9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225001312256
+    m_Key: SevillaAyudaDesc10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225638846464
+    m_Key: SevillaAyudaDesc11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226242826240
+    m_Key: SevillaAyudaDesc12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226901331968
+    m_Key: SevillaLimpiezaDesc1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227350122496
+    m_Key: SevillaLimpiezaDesc2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228021211136
+    m_Key: SevillaLimpiezaDesc4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228591636480
+    m_Key: SevillaLimpiezaDesc5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229195616256
+    m_Key: SevillaLimpiezaDesc6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229807984640
+    m_Key: SevillaLimpiezaDesc7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230374215680
+    m_Key: SevillaLimpiezaDesc8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230974001152
+    m_Key: SevillaLimpiezaDesc9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231544426496
+    m_Key: SevillaLimpiezaDesc10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232152600576
+    m_Key: SevillaLimpiezaDesc11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232823689216
+    m_Key: SevillaLimpiezaDesc12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233389920256
+    m_Key: SevillaLimpiezaDesc13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234052620288
+    m_Key: SevillaLimpiezaDesc14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6366301229056
+    m_Key: SevillaLimpiezaDesc15
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6578910680678400019
+  references:
+    version: 2
+    RefIds:
+    - rid: 6578910680678400019
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729365639001

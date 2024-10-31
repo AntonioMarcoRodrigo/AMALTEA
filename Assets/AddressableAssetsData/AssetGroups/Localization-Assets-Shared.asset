@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 43cc95af3cc9fb244991cabd2889a097
+  m_SerializeEntries:
+  - m_GUID: 0c23602249c5f9a48878b4a67e5b6249
+    m_Address: Assets/Localization/Tables/InitAndMenu/InitAndMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f45faf8b359f4f40b40d048dc280ecf
+    m_Address: Assets/Localization/Tables/Screen2/Screen2 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c3d12f8de376304c843ef536722f6ee
+    m_Address: Assets/Localization/Tables/Screen3Sections/Screen3Sections Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e1757ac237a7fa41b47d62877e72e33
+    m_Address: Assets/Localization/Tables/Screen1/Screen1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5baa1dd501832f46b5693b8146e42c3
+    m_Address: Assets/Localization/Tables/Headers/Headers Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fea5dbd6fc9c3a64093eae29de9236dc
+    m_Address: Assets/Localization/Tables/Screen3/Screen3 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: e25e0c740a8a9da42885ab15bc04c0ec, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c89f85bbe073bbd439fc9e2df769c963, type: 2}
+    - {fileID: 11400000, guid: 9e220377db84ccc4788dbf18f569c75b, type: 2}

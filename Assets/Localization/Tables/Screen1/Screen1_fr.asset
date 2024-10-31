@@ -1,0 +1,687 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen1_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 5e1757ac237a7fa41b47d62877e72e33, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 38811963392
+    m_Localized: "<color=#610078><size=60>Qu'est-ce que l'emploi dans le Service
+      du Foyer Familial ?</color></size>\r\n\r\n\tC'est la relation de travail sp\xE9ciale
+      entre deux personnes, l'une d'elles \xE9tant le titulaire du foyer familial
+      qui embauche, et l'autre \xE9tant la personne employ\xE9e qui fournit des services
+      r\xE9mun\xE9r\xE9s dans le cadre du foyer familial.\r\n\r\n<color=#610078><size=60>Qui
+      peut employer ?</color></size>\r\n\r\nPeuvent employer :\r\n\r\n\u25CF La personne
+      titulaire du foyer familial ou du domicile o\xF9 les services sont fournis\r\n\r\n\u25CF
+      La personne titulaire du logement lorsque deux personnes ou plus y vivent sans
+      constituer une famille ni une personne morale\r\n\r\n<color=#610078><size=60>Objet
+      de la relation de travail</color></size>\r\n\r\n\tLes personnes qui travaillent
+      dans le service de l'emploi \xE0 domicile peuvent effectuer les fonctions suivantes
+      :\r\n\r\n\u25CF T\xE2ches m\xE9nag\xE8res\r\n\r\n\u25CF Direction et entretien
+      du foyer dans son ensemble ou d'une de ses parties\r\n\r\n\u25CF Soins ou attention
+      aux membres de la famille (enfants, personnes \xE2g\xE9es, d\xE9pendants\u2026)\r\n\r\n\u25CF
+      Autres : jardinage, surveillance de la maison\u2026\r\n\r\n<color=#610078><size=60>R\xE9alit\xE9
+      professionnelle des personnes employ\xE9es \xE0 domicile : d\xE9fis et vuln\xE9rabilit\xE9s</color></size>\r\n\r\n\tAu
+      niveau mondial, la majorit\xE9 des personnes employ\xE9es \xE0 domicile sont
+      des femmes, repr\xE9sentant 76,2 % du total, bien qu'il y ait aussi des hommes
+      dans cette profession. 81 % travaillent dans l'\xE9conomie informelle, avec
+      des conditions de travail difficiles et des salaires bas. De plus, elles sont
+      plus susceptibles de subir de la violence, du harc\xE8lement et des restrictions
+      \xE0 leur libert\xE9 de mouvement.\r\n\r\nSOURCE :\r\n\r\n<color=blue><u><link=https://tinyurl.com/mumkkt98>https://tinyurl.com/mumkkt98</link>\r\n\r\n<link=https://www.nadiesinfuturo.org/IMG/pdf/FOLLETO_SERVICIO_HOGAR_FAMILIAR.pdf>https://www.nadiesinfuturo.org/IMG/pdf/FOLLETO_SERVICIO_HOGAR_FAMILIAR.pdf</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/ambito-aplicacion/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/ambito-aplicacion/index.htm</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/index.htm</link></u></color>\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78779486208
+    m_Localized: "<color=#610078><size=60>R\xE9glementation</color></size>\r\n\r\n\u25CF
+      Loi 27/2011, du 1er ao\xFBt, sur la mise \xE0 jour, l'adaptation et la modernisation
+      du syst\xE8me de S\xE9curit\xE9 Sociale.\r\n\r\n<color=blue><u><link=https://tinyurl.com/8fhcbkk6>https://tinyurl.com/8fhcbkk6</link></u></color>\r\n\r\n\u25CF
+      D\xE9cret Royal 1620/2011, du 14 novembre, qui r\xE9glemente la relation de
+      travail de caract\xE8re sp\xE9cial du service du foyer familial.\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2011/BOE-A-2011-17975-consolidado.pdf>https://www.boe.es/buscar/pdf/2011/BOE-A-2011-17975-consolidado.pdf</link></u></color>\r\n\r\n\u25CF
+      D\xE9cret Royal L\xE9gislatif 2/2015, du 23 octobre, Statut des Travailleurs\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf>link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf</link></u></color>\r\n\r\n\u25CF
+      D\xE9cret Royal - loi 29/2012, du 28 d\xE9cembre, d'am\xE9lioration de la gestion
+      et de la protection sociale dans le Syst\xE8me Sp\xE9cial pour les Employ\xE9s
+      de Maison et d'autres mesures d'ordre \xE9conomique et social.\r\n\r\n<color=blue><u><link=https://www.boe.es/boe/dias/2012/12/31/pdfs/BOE-A-2012-15764.pdf>link=https://www.boe.es/boe/dias/2012/12/31/pdfs/BOE-A-2012-15764.pdf</link></u></color>\r\n\r\n\u25CF
+      D\xE9cret Royal - loi 16/2022, du 6 septembre, pour l'am\xE9lioration des conditions
+      de travail et de la S\xE9curit\xE9 Sociale des personnes travaillant au service
+      du foyer.\r\n\r\n<color=blue><u><link=https://www.boe.es/buscar/pdf/2022/BOE-A-2022-14680-consolidado.pdf>link=https://www.boe.es/buscar/pdf/2022/BOE-A-2022-14680-consolidado.pdf</link></u></color>\r\n\r\n\u25CF
+      IV Convention Collective Provinciale d'Aide \xE0 Domicile de S\xE9ville\r\n\r\n<color=blue><u><link=https://tinyurl.com/547d4pr2>https://tinyurl.com/547d4pr2</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90485788672
+    m_Localized: "<color=#610078><size=60>Demande d'inscription</color></size>\r\n\r\n\tLes
+      personnes qui emploient ont la responsabilit\xE9 l\xE9gale de demander et de
+      signer l'inscription des personnes employ\xE9es dans le Syst\xE8me Sp\xE9cial
+      de l'Emploi \xE0 Domicile. Cette obligation s'\xE9tend \xE0 la pr\xE9sentation
+      et \xE0 la signature des cessations et des variations de donn\xE9es relatives
+      \xE0 la situation professionnelle du personnel.\r\n\r\n\tLes personnes employeurs
+      sont tenues de demander et de signer l'inscription, la cessation et les variations
+      de donn\xE9es de leur personnel. En cas de non-respect de cette obligation,
+      la personne employ\xE9e pourra demander directement son affiliation \xE0 la
+      Tr\xE9sorerie G\xE9n\xE9rale de la S\xE9curit\xE9 Sociale (TGSS).\r\n\r\n\tLa
+      demande se fait aupr\xE8s des Administrations de la Tr\xE9sorerie G\xE9n\xE9rale
+      de la S\xE9curit\xE9 Sociale, avant le d\xE9but de l'activit\xE9 professionnelle.\r\n\r\n\tLa
+      demande de cessation et les variations de donn\xE9es doivent \xEAtre pr\xE9sent\xE9es
+      dans un d\xE9lai de 3 jours naturels suivant la cessation du travail ou le
+      jour o\xF9 la variation se produit dans la plateforme Import@ss.\r\n\r\n<color=#610078><size=60>Import@ss</color></size>\r\n\r\n\tInscrire
+      une personne dans le Syst\xE8me Sp\xE9cial de l'Emploi \xE0 Domicile est plus
+      facile que jamais gr\xE2ce \xE0 Import@ss, le nouveau portail de la Tr\xE9sorerie
+      G\xE9n\xE9rale de la S\xE9curit\xE9 Sociale (TGSS) qui permet de compl\xE9ter
+      la proc\xE9dure en seulement 9 \xE9tapes et sans fournir de documentation,
+      bien que nous devrons pr\xE9parer un certain nombre de donn\xE9es. Vous pourrez
+      le faire \xE0 tout moment, depuis n'importe quel ordinateur ou appareil mobile
+      connect\xE9 \xE0 Internet.\r\n\r\n\tVous pouvez acc\xE9der \xE0 Import@ss directement
+      via ce lien ou depuis les acc\xE8s disponibles sur le site, le si\xE8ge \xE9lectronique
+      et l'application pour appareils mobiles de la S\xE9curit\xE9 Sociale. Pour
+      demander l'inscription, vous devrez vous identifier par les m\xE9thodes suivantes
+      :\r\n\r\n\u25CF Certificat \xE9lectronique\r\n\r\n\u25CF Cl@ve\r\n\r\n\u25CF
+      Par SMS\r\n\r\n<color=blue><u><link=https://portal.seg-social.gob.es/wps/portal/importass/importass>https://portal.seg-social.gob.es/wps/portal/importass/importass</link></u></color>\r\n\r\n\tJusqu'\xE0
+      pr\xE9sent, les relations d'emploi \xE0 domicile repr\xE9sentaient un pourcentage
+      \xE9lev\xE9 de proc\xE9dures en personne et des difficult\xE9s dans leur traitement
+      num\xE9rique, car elles pouvaient n\xE9cessiter jusqu'\xE0 trois d\xE9marches
+      suppl\xE9mentaires \xE0 l'inscription elle-m\xEAme, si le travailleur et/ou
+      l'employeur ne disposent pas de Num\xE9ro de la S\xE9curit\xE9 Sociale (NUSS)
+      et si l'employeur n'a pas de Code de Compte de Cotisation (CCC).\r\n\r\n\tDans
+      Import@ss, la proc\xE9dure s'adapte aux circonstances de l'utilisateur, cr\xE9ant
+      le Num\xE9ro de la S\xE9curit\xE9 Sociale et le Code de Compte de Cotisation
+      si n\xE9cessaire. Le processus est con\xE7u pour que l'utilisateur, depuis
+      la zone publique ou personnelle, puisse compl\xE9ter une inscription dans un
+      flux unique avec un maximum de 9 \xE9tapes, divis\xE9es par le type d'information
+      demand\xE9e \xE0 l'utilisateur.\r\n\r\n<color=#610078><size=60>\xC9tapes pour
+      l'inscription</color></size>\r\n\r\n\tUne fois que vous avez acc\xE9d\xE9 au
+      service d'inscription \xE0 l'emploi \xE0 domicile dans Import@ss et que vous
+      vous \xEAtes identifi\xE9 ou que vous avez acc\xE9d\xE9 depuis votre espace
+      personnel, vous devrez d'abord indiquer si vous traitez l'inscription en tant
+      qu'employeur ou en tant que travailleur. Le syst\xE8me vous donnera l'option
+      de traiter une nouvelle inscription ou de continuer avec une que vous avez
+      commenc\xE9e auparavant.\r\n\r\n\tEnsuite, vous devrez simplement remplir les
+      9 \xE9tapes o\xF9 la clart\xE9 de l'information, la facilit\xE9 d'utilisation,
+      le contr\xF4le sur chaque \xE9tape et la s\xE9curit\xE9 du processus sont mises
+      en avant :\r\n\r\n1.\tDonn\xE9es de la personne employ\xE9e : Type et num\xE9ro
+      de document d'identit\xE9 (DNI ou NIE) et date de naissance.\r\n\r\n2.\tDonn\xE9es
+      de la personne employeur : Indiquez si la personne employ\xE9e s'occupera d'une
+      famille nombreuse. Si vous remplissez les conditions, vous pouvez avoir droit
+      \xE0 une bonification.\r\n\r\n3.\tDur\xE9e du contrat : Indiquez la date de
+      d\xE9but de l'activit\xE9 et le type de contrat (ind\xE9fini ou \xE0 dur\xE9e
+      d\xE9termin\xE9e).\r\n\r\n4.\tJourn\xE9e et salaire : Vous devrez indiquer
+      si le contrat est \xE0 temps plein ou \xE0 l'heure, le nombre d'heures de travail
+      par semaine/mois, comment le paiement du salaire a \xE9t\xE9 convenu (mensuel
+      ou hebdomadaire), le salaire que percevra la personne, si elle recevra un salaire
+      pendant les vacances, si les primes de No\xEBl sont incluses, si elle fera
+      des heures de garde ou si un salaire en nature a \xE9t\xE9 convenu (le syst\xE8me
+      vous informera de la cotisation \xE0 payer sur la base de ces donn\xE9es).
+      N'oubliez pas que le salaire doit \xEAtre au moins \xE9gal au SMIC (si c'est
+      \xE0 temps plein).\r\n\r\n5.\tDomicile de l'activit\xE9 : Remplissez les donn\xE9es
+      ou s\xE9lectionnez le domicile de l'activit\xE9 si elle co\xEFncide avec l'un
+      des enregistrements dans la base de donn\xE9es de la TGSS.\r\n\r\n6.\tEntit\xE9
+      assureur : S\xE9lectionnez l'entit\xE9 assureur, en choisissant entre l'INSS
+      ou une Mutuelle collaboratrice.\r\n\r\n7.\tDonn\xE9es de contact : Entrez les
+      donn\xE9es de contact en tant qu'employeur \xE0 domicile.\r\n\r\n8.\tDomiciliation
+      bancaire : vous devez introduire le compte o\xF9 sera pr\xE9lev\xE9e la cotisation
+      mensuelle correspondante.\r\n\r\n9.\tV\xE9rifiez vos donn\xE9es : Import@ss
+      vous proposera un r\xE9sum\xE9 de tous les champs, que vous pourrez modifier
+      en cas d'erreur.\r\n\r\n\tDans le processus, des \xE9tapes peuvent \xEAtre
+      omises si la TGSS dispose d\xE9j\xE0 des informations correspondantes.\r\n\r\n\tSi
+      les donn\xE9es sont correctes, vous devrez donner votre accord apr\xE8s avoir
+      lu et accept\xE9 la d\xE9claration responsable en cochant la case correspondante.
+      Une fois cela fait, vous pourrez proc\xE9der \xE0 la signature de la demande
+      et demander l'inscription, le syst\xE8me vous montrera un re\xE7u et vous offrira
+      la possibilit\xE9 de t\xE9l\xE9charger la documentation justificative au format
+      PDF.\r\n\r\nLien vers une vid\xE9o explicative \xE9tape par \xE9tape : <color=blue><u><link=https://www.youtube.com/watch?v=WX2fshb4dPk>https://www.youtube.com/watch?v=WX2fshb4dPk</link></u></color>\r\n\r\nSans
+      m\xE9thode d'identification\r\n\r\n\tSi vous ne disposez d'aucune des m\xE9thodes
+      d'identification pr\xE9c\xE9dentes, vous pourrez utiliser le service d'envoi
+      de demandes du portail, o\xF9 vous pourrez demander l'inscription en utilisant
+      ce formulaire sans n\xE9cessit\xE9 d'identification pr\xE9alable. Vous pourrez
+      \xE9galement traiter des cessations et des modifications de donn\xE9es.\r\n\r\nPour
+      traiter l'inscription, vous devrez remplir et joindre :\r\n\r\n1.\tDonn\xE9es
+      de l'employeur : informations personnelles, adresse, Code de Compte de Cotisation
+      (CCC), informations bancaires pour le paiement des cotisations, copie du document
+      d'identit\xE9.\r\n\r\n2.\tDonn\xE9es de l'employ\xE9(e) \xE0 domicile : informations
+      personnelles, copie du document d'identit\xE9 et Num\xE9ro de la S\xE9curit\xE9
+      Sociale (NUSS).\r\n\r\n3.\tDonn\xE9es de la relation de travail (nombre d'heures
+      travaill\xE9es, salaire, date de d\xE9but de la relation de travail, s'il existe
+      des r\xE9mun\xE9rations en nature, h\xE9bergement, etc.).\r\n\r\n4.\tLe contrat
+      de travail\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html>https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html</link></u></color>\r\n\r\n5.\tLes
+      imprim\xE9s d'inscription \xE0 la S\xE9curit\xE9 Sociale\r\n\r\n<color=blue><u><link=https://tinyurl.com/4b7xdkar>https://tinyurl.com/4b7xdkar</link></u></color>\r\n\r\n6.\tSi
+      c'est la premi\xE8re fois que vous engagez un(e) employ\xE9(e) \xE0 domicile,
+      vous devrez \xE9galement pr\xE9senter le Mod\xE8le TA.6-0138 HOGAR de Demande
+      de Code de Compte de Cotisation.\r\n\r\n<color=blue><u><link=https://tinyurl.com/57pxkr6s>https://tinyurl.com/57pxkr6s</link></u></color>\r\n\r\n7.\tDe
+      plus, dans le cas o\xF9 la personne employ\xE9e ne dispose pas de num\xE9ro
+      d'affiliation \xE0 la S\xE9curit\xE9 Sociale, cela devra \xEAtre g\xE9r\xE9
+      via le mod\xE8le TA 1.\r\n\r\n<color=blue><u><link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/Afiliacion/10817/31190/572</link></u></color>\r\n\r\n\tPour
+      vous guider pendant le processus, vous pouvez utiliser l'assistant virtuel
+      disponible sur le site et sur le Si\xE8ge \xC9lectronique de la S\xE9curit\xE9
+      Sociale. Il vous montrera les \xE9tapes \xE0 suivre, les exigences n\xE9cessaires
+      et les liens vers le si\xE8ge \xE9lectronique pour la soumission de demandes.\r\n\r\n<color=#610078><size=60>D\xE9lais</color></size>\r\n\r\n\tDans
+      tous les cas pr\xE9c\xE9dents, l'inscription doit \xEAtre trait\xE9e avant
+      le d\xE9but de l'activit\xE9 professionnelle, avec un pr\xE9avis maximum de
+      60 jours, et c'est la responsabilit\xE9 de l'employeur, tout comme le paiement
+      de la cotisation.\r\n\r\n\tN'oubliez pas qu'\xE0 partir du 1er janvier 2023,
+      il n'est plus possible de convenir avec les personnes au service du foyer qui
+      effectuent moins de 60 heures de travail mensuel par employeur, que ces derniers
+      assument les obligations en mati\xE8re de cotisation, d'affiliation et d'inscription
+      \xE0 la S\xE9curit\xE9 Sociale, comme cela pouvait \xEAtre fait jusqu'\xE0
+      pr\xE9sent, apr\xE8s l'entr\xE9e en vigueur de certaines des nouveaut\xE9s
+      du R\xE9el D\xE9cret-loi 16/2022, du 6 septembre, qui am\xE9liore les conditions
+      de travail de ce groupe, y compris la protection contre le ch\xF4mage.\r\n\r\n<color=#610078><size=60>Modalit\xE9s
+      et \xE9l\xE9ments essentiels du contrat</color></size>\r\n\r\n\u25CF\tOral
+      : contrats de moins de quatre semaines (\xE0 tout moment, il peut \xEAtre exig\xE9
+      qu'il soit formalis\xE9 par \xE9crit).\r\n\r\n\u25CF\tPar \xE9crit : contrats
+      d'une dur\xE9e \xE9gale ou sup\xE9rieure \xE0 quatre semaines.\r\n\r\n\tLe
+      contrat doit \xEAtre r\xE9dig\xE9 par \xE9crit, une copie restant pour l'employeur
+      et une autre pour l'employ\xE9. Il est important de le faire de cette mani\xE8re,
+      car si le contrat n'est pas formalis\xE9 par \xE9crit, la relation de travail
+      est pr\xE9sum\xE9e \xEAtre ind\xE9finie et \xE0 temps plein.\r\n\r\n<color=blue><u><link=https://www.mites.gob.es/es/portada/serviciohogar/nueva-regulacion/contratacion/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/nueva-regulacion/contratacion/index.htm</link></u></color>\r\n\r\n\tQuand
+      la dur\xE9e du contrat est sup\xE9rieure \xE0 quatre semaines, le travailleur
+      doit recevoir des informations sur les \xE9l\xE9ments essentiels du contrat
+      s'ils ne figurent pas dans le contrat formalis\xE9 par \xE9crit, qui, en plus
+      des aspects g\xE9n\xE9raux (identification des parties, salaire, horaire, etc.),
+      inclura :\r\n\r\n\u25CF\tPrestations salariales en nature, lorsque leur existence
+      a \xE9t\xE9 convenue.\r\n\r\n\u25CF\tDur\xE9e et distribution des temps de
+      pr\xE9sence convenus, ainsi que le syst\xE8me de r\xE9mun\xE9ration ou de compensation
+      de ceux-ci.\r\n\r\n\u25CF\tLe r\xE9gime de nuit\xE9e de l\u2019employ\xE9 \xE0
+      domicile dans le foyer familial.\r\n\r\n<color=#610078><size=60>Dur\xE9e et
+      mod\xE8les du contrat</color></size>\r\n\r\n\tLe contrat peut \xEAtre conclu
+      pour une dur\xE9e ind\xE9termin\xE9e ou pour une dur\xE9e d\xE9termin\xE9e
+      dans les cas pr\xE9vus par la loi.\r\n\r\n\tIl peut \xEAtre convenu par \xE9crit
+      une p\xE9riode d'essai qui ne peut exc\xE9der 2 mois et durant laquelle l'employeur
+      et l'employ\xE9 \xE0 domicile sont tenus de respecter leurs prestations respectives,
+      avec la possibilit\xE9 de r\xE9siliation de la relation de travail par l'une
+      ou l'autre des parties avec un pr\xE9avis maximum de 7 jours.\r\n\r\n\tLa r\xE9siliation
+      ou le cesser du contrat de travail pour non-validation de la p\xE9riode d'essai
+      ne n\xE9cessite aucun pr\xE9avis de la part des deux parties ni justification,
+      mais doit \xEAtre notifi\xE9e par \xE9crit. Si le contrat prend fin durant
+      la p\xE9riode d'essai, il ne donne pas lieu au paiement d'une indemnit\xE9.\r\n\r\nMod\xE8les\r\n\r\n\u25CF\tMod\xE8le
+      de contrat ind\xE9fini (Il est coch\xE9 \xE0 la page 3 comme clause sp\xE9cifique
+      pour les travailleurs au service du foyer familial et \xE0 la page 17, ces
+      clauses sont remplies).\r\n\r\n\u25CF\tMod\xE8le de contrat \xE0 dur\xE9e d\xE9termin\xE9e.\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html>https://www.sepe.es/HomeSepe/empresas/Contratos-de-trabajo/modelos-contrato.html</link></u></color>\r\n\r\n<color=#610078><size=60>Proc\xE9dure
+      de communication de l'embauche</color></size>\r\n\r\n\tUne fois que l'employ\xE9
+      a \xE9t\xE9 inscrit via le portail Import@ss et que le contrat a \xE9t\xE9
+      sign\xE9, il est n\xE9cessaire de le communiquer au SEPE en utilisant la plateforme
+      Contrat@, disponible au lien suivant :\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html</link></u></color>\r\n\r\n\tContrat@
+      facilite la communication en ligne de l'embauche aupr\xE8s des Services Publics
+      de l'Emploi gr\xE2ce \xE0 une application qui permet \xE0 l'employeur et aux
+      entreprises de communiquer :\r\n\r\n\u25CF\tLe contenu du contrat.\r\n\r\n\u25CF\tCopies
+      de base.\r\n\r\n\u25CF\tProlongations.\r\n\r\n\u25CF\tAppels de travailleurs
+      intermittents.\r\n\r\n\u25CF\tAccords d'heures compl\xE9mentaires.\r\n\r\nVia
+      trois options :\r\n\r\n\u25CF\tCommunication de donn\xE9es.\r\n\r\n\u25CF\tEnvoi
+      de fichiers XML.\r\n\r\n\u25CF\tA travers des Services Web.\r\n\r\n\tL'utilisation
+      de ce service n\xE9cessite d'obtenir une Autorisation des Services Publics
+      de l'Emploi. Pour l'obtenir, il est n\xE9cessaire de remplir une Demande d'Autorisation
+      et de la soumettre avec la documentation requise \xE0 ces Services Publics.\r\n\r\n\tUne
+      fois l'Autorisation accord\xE9e, vous pouvez acc\xE9der \xE0 Contrat@ en utilisant
+      un Certificat Num\xE9rique ou un DNI \xE9lectronique, ou bien par le biais
+      de l'Identifiant de l'Entreprise et le mot de passe personnel assign\xE9 lors
+      de la demande.\r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/comunica-contratacion.html</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607702192128
+    m_Localized: "<color=#610078><size=60>Tableau salarial et bases de cotisation.</color></size>\r\n\r\n<color=#610078><size=60>A.
+      Tableau salarial du r\xE9gime de l'emploi \xE0 domicile.</color></size>\r\n\r\n\tLe
+      salaire sera celui convenu par l'employeur et l'employ\xE9, en garantissant
+      toujours le Salaire Minimum Interprofessionnel (SMI) en calcul annuel proportionnellement
+      aux heures de travail effectu\xE9es. Le SMI doit toujours \xEAtre pay\xE9 en
+      esp\xE8ces, sans que des d\xE9ductions puissent \xEAtre appliqu\xE9es pour
+      des perceptions en nature qui feraient que le montant du salaire en esp\xE8ces
+      soit inf\xE9rieur \xE0 ce SMI.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756675481600
+    m_Localized: "\tDans le r\xE9gime interne, le travailleur de maison aura droit
+      \xE0 la perception du SMI (en esp\xE8ces) et \xE0 un salaire en nature qui
+      correspondra \xE0 son entretien et \xE0 son s\xE9jour dans le foyer (chambre
+      individuelle, repas de base, soins personnels, utilisation de la machine \xE0
+      laver, ...).\r\n\r\n\tLe travailleur \xE0 plein temps, en r\xE9gime interne
+      ou \xE0 temps partiel, a droit \xE0 deux primes extraordinaires dont le montant
+      sera convenu entre les parties, en garantissant toujours la perception du SMI
+      (en esp\xE8ces) en calcul annuel proportionnel aux heures de travail.\r\n\r\n<color=#610078><size=60>B.
+      \xC9chelle des bases de cotisation (\xE0 partir de janvier 2024).</color></size>\r\n\r\n\tLes
+      bases de cotisation sont d\xE9termin\xE9es en fonction de la r\xE9mun\xE9ration
+      mensuelle de l'employ\xE9 \xE0 domicile, suivant des tranches \xE9tablies pour
+      garantir une contribution \xE9quitable au syst\xE8me de s\xE9curit\xE9 sociale.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848815951872
+    m_Localized: "<color=#610078><size=60>C. Bonifications applicables dans le syst\xE8me
+      sp\xE9cial de l'emploi \xE0 domicile.</color></size>\r\n\r\n\tVoici quelques-unes
+      des bonifications de base applicables dans le Syst\xE8me Sp\xE9cial de l'Emploi
+      \xE0 Domicile :\r\n\r\n\u25CF\tR\xE9duction de 20 % sur la cotisation patronale
+      \xE0 la s\xE9curit\xE9 sociale pour les contingences communes.\r\n\r\n\u25CF\tB\xE9n\xE9fice
+      de 45 % sur la cotisation patronale \xE0 la s\xE9curit\xE9 sociale pour les
+      contingences communes, pour l'embauche de soignants dans les familles nombreuses
+      (non cumulable avec la r\xE9duction de 20 %). Dans tous les cas, cette bonification
+      ne sera applicable que pour l'embauche d'un seul soignant par unit\xE9 familiale
+      reconnue officiellement comme famille nombreuse.\r\n\r\n\tSeules les personnes
+      employeuses en r\xE8gle avec leurs obligations de paiement \xE0 la s\xE9curit\xE9
+      sociale pourront obtenir des r\xE9ductions, des bonifications ou tout autre
+      avantage sur les bases, taux et cotisations de la s\xE9curit\xE9 sociale, \xE0
+      la date de leur attribution.\r\n\r\n<color=#610078><size=60>D. B\xE9n\xE9fices
+      pour les travailleurs cotisant \xE0 la s\xE9curit\xE9 sociale.</color></size>\r\n\r\n\tNous
+      devons souligner les avantages dont b\xE9n\xE9ficient les travailleurs cotisants
+      \xE0 la s\xE9curit\xE9 sociale :\r\n\r\n\u25CF\tCotisations \xE0 la s\xE9curit\xE9
+      sociale : Ces cotisations contribuent \xE0 la protection sociale du travailleur,
+      incluant des aspects tels que la retraite, l'incapacit\xE9, la maladie et la
+      maternit\xE9.\r\n\r\n\u25CF\tAcc\xE8s \xE0 l'allocation de ch\xF4mage : Les
+      employ\xE9s \xE0 domicile ont droit \xE0 l'allocation de ch\xF4mage en cas
+      de perte de leur emploi.\r\n\r\n\u25CF\tProtection en cas d'accidents du travail
+      et de maladies professionnelles : En cas d'accident li\xE9 au travail ou de
+      maladie professionnelle, l'employ\xE9 \xE0 domicile a droit \xE0 une assistance
+      m\xE9dicale et \xE0 un cong\xE9, selon l'avis du m\xE9decin.\r\n\r\n\u25CF\tProtection
+      en cas de maternit\xE9 et de paternit\xE9 : Une protection est pr\xE9vue pour
+      les situations de maternit\xE9, accordant des prestations \xE9conomiques aux
+      employ\xE9s \xE0 domicile en cong\xE9 de maternit\xE9.\r\n\r\n\u25CF\tInclusion
+      dans le syst\xE8me de pensions : Permet aux employ\xE9s \xE0 domicile d'accumuler
+      des droits pour recevoir une pension lors de leur retraite.\r\n\r\nSources
+      :\r\n\r\n<color=blue><u><link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/retribuciones/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/retribuciones/index.htm</link>\r\n\r\n<link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537#36556>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537#36556</link>\r\n\r\n<link=https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/2288>https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10957/9932/2288</link>\r\n\r\n<link=https://qido.es/blog/nuevo-salario-minimo-interprofesional-smi-en-el-regimen-de-empleadas-de-hogar-2024/>https://qido.es/blog/nuevo-salario-minimo-interprofesional-smi-en-el-regimen-de-empleadas-de-hogar-2024/</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 959272947712
+    m_Localized: "<color=#610078><size=60>Temps de travail</color></size>\r\n\r\n\tLa
+      dur\xE9e maximale de travail est de 40 heures par semaine, qui peuvent \xEAtre
+      r\xE9parties comme les parties le souhaitent, tant que les temps de repos quotidiens
+      et hebdomadaires sont respect\xE9s.\r\n\r\n\tEn plus de ce temps de travail
+      ordinaire, pour les personnes employ\xE9es en r\xE9gime interne, des temps
+      de pr\xE9sence peuvent \xEAtre \xE9tablis, \xE0 la disposition de l'employeur
+      pendant un maximum de 20 heures par semaine ou plus, \xE0 condition d'\xEAtre
+      compens\xE9s par du repos.\r\n\r\n<color=#610078><size=60>Travail \xE0 l'heure</color></size>\r\n\r\n\tOn
+      consid\xE8re qu'il s'agit de travail \xE0 l'heure lorsque le nombre total de
+      jours de services fournis au cours de l'ann\xE9e pour le m\xEAme employeur
+      n'exc\xE8de pas 120. Il est \xE9galement obligatoire de r\xE9diger un contrat
+      \xE9crit et de remettre un re\xE7u de salaire.\r\n\r\n<color=#610078><size=60>Temps
+      de pr\xE9sence</color></size>\r\n\r\n\tLe temps de pr\xE9sence est le moment
+      o\xF9 l'employ\xE9 est disponible pour effectuer une t\xE2che, mais ne travaille
+      pas r\xE9ellement. Il doit \xEAtre r\xE9mun\xE9r\xE9 selon ce que les parties
+      conviennent.\r\n\r\n\tIl doit \xEAtre pay\xE9 au minimum au m\xEAme tarif qu'une
+      heure de travail ordinaire, ou peut \xEAtre compens\xE9 par du temps de repos
+      r\xE9mun\xE9r\xE9, c'est-\xE0-dire en accordant autant d'heures libres de travail
+      que d'heures de pr\xE9sence effectu\xE9es.\r\n\r\n<color=#610078><size=60>Heures
+      suppl\xE9mentaires de travail : paiement, limite et obligation</color></size>\r\n\r\n\tLes
+      heures suppl\xE9mentaires sont celles qui d\xE9passent la dur\xE9e de travail
+      ordinaire \xE9tablie dans le contrat. Il est important de rappeler que la dur\xE9e
+      ordinaire de travail ne peut exc\xE9der 40 heures par semaine, et toute heure
+      travaill\xE9e au-del\xE0 de cette limite est consid\xE9r\xE9e comme extraordinaire.\r\n\r\n\tLes
+      heures suppl\xE9mentaires diff\xE8rent des temps de pr\xE9sence, elles doivent
+      \xEAtre pay\xE9es s\xE9par\xE9ment et ne peuvent exc\xE9der 80 heures par an.\r\n\r\n\tConform\xE9ment
+      \xE0 l'article 15 du Statut des Travailleurs, les heures suppl\xE9mentaires
+      doivent \xEAtre pay\xE9es au moins au m\xEAme tarif qu'une heure ordinaire
+      du Salaire Minimum Interprofessionnel.\r\n\r\n\tEn plus du paiement en esp\xE8ces,
+      l'employeur peut choisir de compenser les heures suppl\xE9mentaires par des
+      jours de repos \xE9quivalents, offrant du temps libre pour les heures suppl\xE9mentaires
+      travaill\xE9es.\r\n\r\n\tIl existe une limite de 80 heures suppl\xE9mentaires
+      par an ; cependant, si les heures suppl\xE9mentaires sont compens\xE9es par
+      du temps libre, celles-ci ne sont pas comptabilis\xE9es dans cette limite.
+      Les heures suppl\xE9mentaires sont volontaires, sauf si elles ont \xE9t\xE9
+      convenues obligatoirement dans le contrat de travail.\r\n\r\n<color=#610078><size=60>P\xE9riodes
+      de repos</color></size>\r\n\r\n\tL'employ\xE9 doit b\xE9n\xE9ficier des p\xE9riodes
+      de repos suivantes :\r\n\r\n\u25CF\tEntre deux journ\xE9es de travail sur deux
+      jours diff\xE9rents : 12 heures minimum, pouvant \xEAtre r\xE9duites \xE0 10
+      pour les employ\xE9s en r\xE9gime interne.\r\n\r\n\u25CF\tRepos quotidien des
+      travailleurs internes : b\xE9n\xE9ficiera de 2 heures chaque jour pour les
+      repas principaux. Ces repos ne comptent pas comme temps de travail.\r\n\r\n\u25CF\tRepos
+      hebdomadaire : 36 heures cons\xE9cutives.\r\n\r\nSources :\r\n\r\n<color=blue><u><link=https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf>https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/las-horas-extraordinarias-las-empleadas-del-hogar/>https://www.cuestioneslaborales.es/las-horas-extraordinarias-las-empleadas-del-hogar/</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/horario-de-las-empleadas-del-hogar-internas/>https://www.cuestioneslaborales.es/horario-de-las-empleadas-del-hogar-internas/</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/el-regimen-laboral-de-las-empleadas-del-hogar/#descanso>https://www.cuestioneslaborales.es/el-regimen-laboral-de-las-empleadas-del-hogar/#descanso</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1083097190400
+    m_Localized: "<color=#610078><size=60>Vacances et jours f\xE9ri\xE9s</color></size>\r\n\r\n\tToutes
+      les personnes travaillant ont le droit de profiter d'au moins 30 jours naturels
+      de vacances par an. Ce droit est maintenu ind\xE9pendamment du nombre d'heures
+      de travail hebdomadaires ou du type de contrat (temps plein, partiel ou demi-journ\xE9e).\r\n\r\n\tCes
+      30 jours sont g\xE9n\xE9r\xE9s tout au long de l'ann\xE9e de travail, chaque
+      mois de travail g\xE9n\xE9rant 2,5 jours de vacances.\r\n\r\n\tPendant les
+      jours de vacances, l'employ\xE9 a droit de percevoir le m\xEAme salaire qu'il
+      recevrait s'il travaillait.\r\n\r\n\tIl a droit \xE0 14 jours f\xE9ri\xE9s
+      par an, comme les autres travailleurs. Le calendrier du travail varie selon
+      la r\xE9gion autonome et la localit\xE9.\r\n\r\n<color=#610078><size=60>Comment
+      puis-je profiter de mes vacances ?</color></size>\r\n\r\n\tLes vacances peuvent
+      \xEAtre divis\xE9es en fractions selon ce qui convient. La l\xE9gislation \xE9tablit
+      qu'au moins 15 jours naturels doivent \xEAtre pris de mani\xE8re cons\xE9cutive.
+      N\xE9anmoins, dans la pratique, d'autres modalit\xE9s de prise de vacances
+      peuvent \xEAtre convenues entre les deux parties.\r\n\r\n\tIl est important
+      de souligner que toutes les vacances doivent \xEAtre prises dans la m\xEAme
+      ann\xE9e civile o\xF9 elles ont \xE9t\xE9 g\xE9n\xE9r\xE9es ; elles ne peuvent
+      pas \xEAtre accumul\xE9es d'une ann\xE9e \xE0 l'autre.\r\n\r\n<color=#610078><size=60>Obligations
+      pendant les vacances</color></size>\r\n\r\n\tPendant les vacances, l'employ\xE9
+      n'a aucune obligation de travail envers l'employeur. C'est une p\xE9riode de
+      repos durant laquelle il n'est pas attendu qu'il accomplisse des t\xE2ches
+      li\xE9es au travail.\r\n\r\n\tPour les personnes en r\xE9gime interne, cela
+      signifie qu'elles ne sont pas oblig\xE9es de r\xE9sider dans le domicile de
+      la famille ou dans tout autre lieu li\xE9 \xE0 l'emploi pendant cette p\xE9riode.\r\n\r\n\tSi
+      la famille employeur part en vacances ailleurs et que l'employ\xE9 se d\xE9place
+      avec la famille, ce temps est-il compt\xE9 comme des vacances ? Non, le temps
+      de vacances est un temps de repos pour l'employ\xE9, donc s'il accompagne la
+      famille pendant les vacances et qu'il r\xE9alise ses fonctions de travail au
+      lieu o\xF9 la famille se d\xE9place, ce temps ne sera pas compt\xE9 comme des
+      vacances, mais comme du travail.\r\n\r\n\tL'employ\xE9 en r\xE9gime interne
+      doit-il accompagner la famille employeur dans son domicile pendant les vacances
+      de la famille ? Le r\xE9gime des nuit\xE9es des employ\xE9s internes fait partie
+      des \xE9l\xE9ments essentiels du contrat, donc, si pendant une p\xE9riode de
+      l'ann\xE9e, ces nuit\xE9es doivent se faire dans un lieu autre que le domicile
+      habituel, cette question devrait \xEAtre pr\xE9cis\xE9e dans le contrat.\r\n\r\n\tDans
+      tous les cas, ce temps ne sera pas compt\xE9 comme des vacances pour l'employ\xE9
+      dans la mesure o\xF9 il continue de s'occuper de ses t\xE2ches de travail.\r\n\r\n<color=#610078><size=60>Cong\xE9s
+      pay\xE9s pour les employ\xE9s de maison</color></size>\r\n\r\n\tLes personnes
+      qui travaillent dans l'emploi domestique ont droit \xE0 certains cong\xE9s
+      pay\xE9s qui leur permettent de r\xE9aliser leur travail sans mettre en p\xE9ril
+      leur stabilit\xE9 professionnelle et \xE9conomique. Ces cong\xE9s sont pr\xE9vus
+      par le Statut des Travailleurs et couvrent un certain nombre de situations
+      :\r\n\r\n\u25CF\tMariage : 15 jours naturels\r\n\r\n\u25CF\tRaisons familiales
+      : 2 jours (si le travailleur doit se d\xE9placer, le cong\xE9 est prolong\xE9
+      de 4 jours naturels)\r\n\r\n\u25CB\tD\xE9c\xE8s\r\n\r\n\u25CB\tAccident ou
+      maladie grave\r\n\r\n\u25CB\tHospitalisation\r\n\r\n\u25CB\tIntervention chirurgicale
+      sans hospitalisation n\xE9cessitant un repos \xE0 domicile de parents jusqu'au
+      deuxi\xE8me degr\xE9 de parent\xE9 ou d'alliance\r\n\r\n\u25CF\tD\xE9m\xE9nagement
+      : 1 jour de cong\xE9\r\n\r\n\u25CF\tDroit de s'absenter pour un devoir inexcusable
+      : le droit est reconnu de s'absenter du travail pour le temps n\xE9cessaire
+      au respect d'un devoir inexcusable de caract\xE8re public et personnel, y compris
+      le vote actif.\r\n\r\n\u25CF\tCong\xE9s li\xE9s \xE0 la grossesse et \xE0 la
+      garde d'un nourrisson : pendant la grossesse, les travailleurs dans l'emploi
+      domestique ont droit aux cong\xE9s n\xE9cessaires pour r\xE9aliser les examens
+      pr\xE9natals et les techniques de pr\xE9paration \xE0 l'accouchement.\r\n\r\n\u25CF\tNaissance,
+      adoption, garde aux fins d'adoption ou accueil : 1 heure d'absence du travail
+      est accord\xE9e, qui peut \xEAtre divis\xE9e en deux fractions, pour le soin
+      du nourrisson jusqu'\xE0 ses 9 mois. La dur\xE9e du cong\xE9 sera augment\xE9e
+      proportionnellement en cas de naissances multiples, d'adoptions, de gardes
+      aux fins d'adoption ou d'accueils.\r\n\r\nSources :\r\n\r\n<color=blue><u><link=https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf>https://www.caritasalamanca.org/wp-content/uploads/2024/02/FOLLETO-INFORMATIVO-2024.pdf</link>\r\n\r\n<link=https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/tiempo-trabajo/index.htm>https://www.mites.gob.es/es/portada/serviciohogar/preguntas-frecuentes/tiempo-trabajo/index.htm</link>\r\n\r\n<link=https://www.cuestioneslaborales.es/las-vacaciones-las-empleadas-del-hogar/#horas>https://www.cuestioneslaborales.es/las-vacaciones-las-empleadas-del-hogar/#horas</link>\r\n\r\n<link=https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf>https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf</link></u></color>\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1231684603904
+    m_Localized: "<color=#610078><size=60>Arr\xEAts de travail</color></size>\r\n\r\n<color=#610078><size=60>A.
+      Nouvelle r\xE9glementation des arr\xEAts de travail</color></size>\r\n\r\n\tLe
+      nouveau d\xE9cret royal 1060/2022 introduit d'importants changements qui affectent
+      directement la gestion des situations d'incapacit\xE9 temporaire (arr\xEAts
+      de travail) m\xEAme dans le secteur des employ\xE9s de maison. Les changements
+      significatifs introduits par cette nouvelle norme sont :\r\n\r\n\u25CF\tL'obligation
+      pour le travailleur de pr\xE9senter le certificat d'arr\xEAt de travail \xE0
+      son employeur a \xE9t\xE9 supprim\xE9e. Le certificat d'arr\xEAt pour les entreprises/employeurs
+      a \xE9t\xE9 aboli. En revanche, le m\xE9decin sera responsable de fournir le
+      certificat d'arr\xEAt de travail au travailleur et de communiquer les donn\xE9es
+      de l'arr\xEAt \xE0 l'INSS ou aux mutuelles, qui les transmettront \xE0 leur
+      tour aux employeurs de mani\xE8re t\xE9l\xE9matique.\r\n\r\n\u25CF\tLes m\xE9decins
+      pourront \xE9tablir des d\xE9lais de r\xE9vision m\xE9dicale plus courts que
+      ceux \xE9tablis officiellement, tant qu'ils s'ajustent \xE0 l'\xE9volution
+      du processus.\r\n\r\n\u25CF\tLes donn\xE9es que les entreprises doivent transmettre
+      \xE0 la S\xE9curit\xE9 sociale sont modifi\xE9es.\r\n\r\n\tParmi ces nouveaux
+      changements, celui qui affecte directement le secteur des employ\xE9s de maison
+      est li\xE9 aux certificats m\xE9dicaux. Jusqu'\xE0 pr\xE9sent, lorsqu'un travailleur
+      se rendait chez le m\xE9decin g\xE9n\xE9raliste ou \xE0 la mutuelle pour r\xE9cup\xE9rer
+      ses certificats d'arr\xEAt, de confirmation ou de reprise, le m\xE9decin fournissait
+      toujours au travailleur deux copies : une copie pour le travailleur et une
+      autre pour l'entreprise. Ainsi, le travailleur devait, dans un d\xE9lai de
+      3 jours, fournir ce certificat \xE0 l'entreprise afin que celle-ci soit inform\xE9e
+      de cette situation et puisse effectuer les d\xE9marches n\xE9cessaires.\r\n\r\n\tDepuis
+      l'entr\xE9e en vigueur de ce nouveau d\xE9cret royal, le 1er avril 2023, le
+      seul certificat d\xE9livr\xE9 par le m\xE9decin g\xE9n\xE9raliste sera celui
+      relatif \xE0 la copie du travailleur. Ce certificat est de nature confidentielle
+      pour le travailleur et celui-ci ne doit pas fournir cette copie \xE0 l'entreprise.\r\n\r\n\tC'est
+      pourquoi, \xE0 partir du 1er avril, le m\xE9decin g\xE9n\xE9raliste communique
+      \xE0 l'INSS, par voie t\xE9l\xE9matique, les donn\xE9es relatives \xE0 l'arr\xEAt
+      de travail, dans un d\xE9lai de 24 heures ouvrables suivant la consultation
+      avec le travailleur. Une fois les donn\xE9es re\xE7ues, l'INSS transmet cette
+      information aux employeurs.\r\n\r\n<color=#610078><size=60>B. Incapacit\xE9
+      temporaire et arr\xEAt de travail</color></size>\r\n\r\n\tLorsqu'un travailleur
+      entre dans une situation d'incapacit\xE9 temporaire, l'employeur doit entamer
+      une s\xE9rie de d\xE9marches importantes. Tout d'abord, il doit rester inform\xE9
+      de la situation d'arr\xEAt de son travailleur (dates d'arr\xEAt et confirmations),
+      car celles-ci seront n\xE9cessaires pour ajuster l'arr\xEAt de travail.\r\n\r\n\tPendant
+      la p\xE9riode d'arr\xEAt de travail, le travailleur n'est pas oblig\xE9 de
+      fournir des services et a droit \xE0 une prestation \xE9conomique pour incapacit\xE9
+      temporaire, dont le montant d\xE9pendra de la base r\xE9glementaire et de la
+      dur\xE9e de l'arr\xEAt.\r\n\r\n\tL'employeur doit \xEAtre inform\xE9 de l'entit\xE9
+      charg\xE9e de couvrir les contingences communes et les contingences professionnelles.
+      Cette entit\xE9 peut \xEAtre l'INSS ou une mutuelle collaboratrice de la S\xE9curit\xE9
+      sociale. Au moment de s'enregistrer en tant qu'employeur de maison, il faut
+      choisir l'une de ces options.\r\n\r\n<color=#610078><size=60>C. Couverture
+      des contingences communes</color></size>\r\n\r\n\tDans le cas des contingences
+      communes, qui incluent la couverture des incapacit\xE9s temporaires dues \xE0
+      une maladie commune ou un accident non professionnel, c'est le m\xE9decin g\xE9n\xE9raliste
+      qui d\xE9livre le certificat d'arr\xEAt de travail au travailleur, effectue
+      les r\xE9visions et d\xE9termine le moment o\xF9 il pourra lui d\xE9livrer
+      le certificat de reprise.\r\n\r\n\tEn ce qui concerne la gestion de la paie
+      de la personne qui s'occupe, il convient de noter que :\r\n\r\n\u25CF\tLe travailleur
+      ne per\xE7oit pas de salaire pendant les 3 premiers jours d'arr\xEAt.\r\n\r\n\u25CF\tDu
+      4e au 8e jour, il recevra 60 % de la base de cotisation de la part de l'employeur.\r\n\r\n\u25CF\t\xC0
+      partir du 9e jour, le travailleur recevra une prestation directement de l'entit\xE9
+      ayant la couverture pour les contingences communes. Dans ce cas, le travailleur
+      devra se rendre \xE0 l'INSS/mutuelle la plus proche pour g\xE9rer le paiement
+      de sa prestation, en fournissant \xE0 l'employeur un certificat d'employeur
+      pour effectuer la d\xE9marche.\r\n\r\n\tIl est important de souligner que,
+      pour pouvoir percevoir la prestation, le travailleur doit avoir une carence
+      de cotisation de 180 jours au cours des 6 derni\xE8res ann\xE9es. S'il ne remplit
+      pas cette condition, il ne percevra pas de prestation pendant la dur\xE9e de
+      son arr\xEAt de travail.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396826935296
+    m_Localized: "<color=#610078><size=60>D. Couverture des contingences professionnelles</color></size>\r\n\r\n\tLes
+      contingences professionnelles se r\xE9f\xE8rent \xE0 la protection en cas d'accident
+      de travail, d\xE9fini comme \xAB toute l\xE9sion corporelle que le travailleur
+      subit lors de l'ex\xE9cution de son travail pour le compte d'autrui \xBB (art.
+      115 LGSS). Si un travailleur subit un accident de travail, il doit s'adresser
+      directement \xE0 l'entit\xE9 responsable de la couverture correspondante.\r\n\r\n\tSi
+      la couverture des contingences professionnelles est \xE0 la charge de l'INSS,
+      le travailleur doit consulter son m\xE9decin g\xE9n\xE9raliste pour obtenir
+      le certificat d'arr\xEAt, et ce m\xEAme m\xE9decin sera responsable des r\xE9visions
+      et du certificat de reprise. Si la couverture est fournie par une mutuelle,
+      c'est le m\xE9decin de cette mutuelle qui \xE9mettra le certificat d'arr\xEAt
+      et effectuera les r\xE9visions n\xE9cessaires.\r\n\r\n\tEn ce qui concerne
+      la prestation en cas d'accident de travail, l'employeur prendra en charge le
+      premier jour d'arr\xEAt \xE0 100 %, tandis qu'\xE0 partir du deuxi\xE8me jour,
+      ce sera l'INSS ou la mutuelle qui s'occupera du paiement direct. L'employeur
+      devra pr\xE9parer le certificat d'employeur et le fournir au travailleur afin
+      qu'il puisse g\xE9rer le paiement de sa prestation.\r\n\r\n\tEn cas d'accidents
+      de travail, l'employeur est tenu de d\xE9clarer l'accident via le syst\xE8me
+      Delt@ dans un d\xE9lai de 5 jours ouvrables \xE0 partir de la date de l'accident
+      ou de la date \xE0 laquelle il en a eu connaissance.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1653480591360
+    m_Localized: "FUENTE :\r\n\r\n<color=blue><u><link=https://www.cuidum.com/blog/gestion-de-bajas-medicas-para-empleadas-de-hogar-como-funciona-actualmente/>https://www.cuidum.com/blog/gestion-de-bajas-medicas-para-empleadas-de-hogar-como-funciona-actualmente/\r\n</link></u></color>\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1706064580608
+    m_Localized: "<color=#610078><size=60>Fin de la relation de travail.</size></color>\r\n\r\n<color=#610078><size=60>a.
+      D\xE9sistement dans l'emploi de m\xE9nage</size></color>\r\n\r\n\tL'une des
+      principales revendications du secteur des employ\xE9es/s de m\xE9nage \xE9tait
+      l'abolition de la figure l\xE9gale du d\xE9sistement, qui donnait la possibilit\xE9
+      aux employeurs/euses de mettre fin au contrat de travail sans avoir \xE0 justifier
+      la cause de cette extinction.\r\n\r\n\tCette figure \xE9tait pratiquement exclusive
+      au secteur du m\xE9nage familial, car, en r\xE8gle g\xE9n\xE9rale, dans le
+      droit du travail, les licenciements des employ\xE9(e)s doivent \xEAtre justifi\xE9s
+      et motiv\xE9s par une des causes mentionn\xE9es dans le Statut des Travailleurs/ses.\r\n\r\n<color=#610078><size=60>b.
+      Causes du d\xE9sistement dans l'emploi de m\xE9nage</size></color>\r\n\r\n\tDepuis
+      le 9 septembre 2022, la figure du d\xE9sistement a \xE9t\xE9 abolie, retirant
+      la possibilit\xE9 aux employeurs/euses de mettre fin au contrat sans cause
+      justifi\xE9e. Cela a inclus les nouvelles causes pour lesquelles le contrat
+      d'un employ\xE9 de m\xE9nage peut \xEAtre termin\xE9. Ces causes doivent toujours
+      \xEAtre motiv\xE9es et justifi\xE9es.\r\n\r\nLes causes sont les suivantes
+      :\r\n\r\nExtinction objective du contrat pour une diminution des revenus ou
+      une augmentation des d\xE9penses dans l'unit\xE9 familiale\r\n\r\n\tIl est
+      possible de mettre fin au contrat de travail avec l'employ\xE9(e) lorsque,
+      pour une raison survenant, les revenus de l'unit\xE9 familiale diminuent, ou,
+      si ses d\xE9penses augmentent, par exemple, parce qu'un membre de la famille
+      perd son emploi ou qu'une d\xE9pense impr\xE9vue appara\xEEt, ce qui alt\xE8re
+      l'\xE9conomie familiale.\r\n\r\nExtinction objective par modification des besoins
+      dans l'unit\xE9 familiale\r\n\r\n\tDans ce cas, il est possible de mettre fin
+      au contrat de travail avec l'employ\xE9(e) lorsque les membres de la famille
+      prennent une d\xE9cision influen\xE7ant l'organisation familiale. Par exemple,
+      si une employ\xE9e de m\xE9nage s'occupe d'une personne \xE2g\xE9e et que celle-ci
+      est d\xE9cid\xE9e \xE0 entrer dans un centre sp\xE9cialis\xE9.\r\n\r\nExtinction
+      objective parce que le comportement de l'employ\xE9(e) provoque une perte de
+      confiance chez l'employeur/euse.\r\n\r\n\tDans ce cas, il doit exister une
+      cause suffisamment grave et imputable \xE0 l'employ\xE9(e) qui entra\xEEne
+      une perte de confiance r\xE9elle chez les employeurs/euses, justifiant ainsi
+      la d\xE9cision de mettre fin au contrat avec l'employ\xE9(e).\r\n\r\n<color=#610078><size=60>c.
+      D\xE9mission :</size></color>\r\n\r\n\tLa d\xE9mission est un avis donn\xE9
+      par l'employ\xE9(e) de m\xE9nage \xE0 l'employeur/euse, dans lequel il/elle
+      communique, \xE0 la fois par \xE9crit et oralement, qu'il/elle met fin \xE0
+      la relation de travail qui les unit. Dans ce cas, la volont\xE9 provient du
+      travailleur, et l'employeur/euse doit simplement \xEAtre inform\xE9(e) de la
+      d\xE9cision prise. Pour pouvoir formaliser cela, il est n\xE9cessaire de respecter
+      une s\xE9rie de conditions et de prendre en compte certaines consid\xE9rations
+      caract\xE9risant cette figure.\r\n\r\n\tPour pouvoir formaliser cela, il est
+      n\xE9cessaire de respecter une s\xE9rie de conditions et de prendre en compte
+      certaines consid\xE9rations caract\xE9risant cette figure.\r\n\r\n\u2022\tCaract\xE9ristiques
+      d'une d\xE9mission\r\n\r\n\tLa principale caract\xE9ristique de cette figure
+      professionnelle est que l'intention de mettre fin au contrat provient de la
+      volont\xE9 de l'employ\xE9. La seule chose que l'entreprise peut faire, si
+      elle souhaite le retenir, est de faire une contre-offre ou d'essayer de r\xE9soudre
+      le probl\xE8me qui a conduit \xE0 cette d\xE9cision.\r\n\r\nD'autres aspects
+      caract\xE9risant cette figure sont :\r\n\r\n\u2022\tIl faut donner un pr\xE9avis
+      formel de quinze jours naturels.\r\n\r\n\u2022\tBien qu'il s'agisse d'une d\xE9mission,
+      l'entreprise devra verser un solde de tout compte.\r\n\r\n\u2022\tC'est r\xE9versible,
+      toujours dans les 15 jours naturels.\r\n\r\n\u2022\tSi l'employ\xE9 souhaite
+      revenir travailler avec l'employeur, un nouveau contrat devra \xEAtre sign\xE9.\r\n\r\n\tIl
+      est obligatoire de signer la d\xE9mission. Dans la lettre de communication
+      de la d\xE9mission, doivent figurer la signature de l'employ\xE9(e) ainsi que
+      celle de l'employeur/euse. Il est important de noter que l'employ\xE9(e) ne
+      doit signer que s'il/elle souhaite r\xE9ellement cesser de travailler, c'est-\xE0-dire
+      sans pression, sans engagements ni causes externes. Toute situation pr\xE9sent\xE9e
+      de cette mani\xE8re par l'employeur/euse sera consid\xE9r\xE9e comme ill\xE9gale.\r\n\r\n\tLe
+      syst\xE8me de protection par le ch\xF4mage prot\xE8ge les travailleurs/ses
+      qui souhaitent et peuvent travailler, mais qui n'ont pas d'emploi. Dans le
+      cas de la d\xE9mission, l'employ\xE9 quitte son poste de mani\xE8re volontaire
+      et, dans ce cas, ne pourra pas percevoir d'indemnit\xE9s de ch\xF4mage.\r\n\r\n\tCependant,
+      dans le cas o\xF9, apr\xE8s avoir trouv\xE9 un nouvel emploi, le travailleur
+      ne parvient pas \xE0 d\xE9passer la p\xE9riode d'essai fix\xE9e, la Loi G\xE9n\xE9rale
+      de la S\xE9curit\xE9 Sociale stipule que le travailleur ne pourra demander
+      l'indemnit\xE9 de ch\xF4mage que si plus de trois mois se sont \xE9coul\xE9s
+      depuis la d\xE9mission volontaire.\r\n\r\n\tUne fois que le travailleur est
+      enregistr\xE9 comme ayant quitt\xE9 via le portail de la TGSS Import@ass, un
+      certificat d'entreprise sera \xE9mis, qui doit \xEAtre communiqu\xE9 au SEPE
+      dans un d\xE9lai de 15 jours via le site web certifica@2 ou en personne (dans
+      ce cas, il peut \xE9galement \xEAtre pr\xE9sent\xE9 physiquement par le travailleur
+      du service d'emploi de m\xE9nage). Cette \xE9tape est essentielle pour acc\xE9der
+      \xE0 l'indemnit\xE9 de ch\xF4mage, \xE0 condition qu'il ne s'agisse pas d'une
+      d\xE9mission volontaire.\r\n\r\n\tC'est un service qui permet aux employeurs
+      agissant en leur propre nom ainsi qu'aux entreprises et aux professionnels
+      agr\xE9\xE9s agissant au nom de tiers, de communiquer des donn\xE9es sur leurs
+      travailleurs, rempla\xE7ant ainsi la remise physique de documents.\r\n\r\n\tLa
+      communication de donn\xE9es utilisant l'application Certific@2 aura les m\xEAmes
+      effets que celle effectu\xE9e par d'autres moyens admis par la loi.\r\n\r\nComment
+      acc\xE9der \xE0 Certific@2\r\n\r\n\tPour utiliser l'application Certific@2,
+      les utilisateurs doivent disposer d'une autorisation pour la transmission \xE9lectronique
+      de donn\xE9es aux Services Publics de l'Emploi, obtenue au pr\xE9alable conform\xE9ment
+      aux d\xE9finitions de l'application Contrat@, ou d'une signature \xE9lectronique
+      d\xE9livr\xE9e par une des autorit\xE9s de certification.\r\n\r\n\tSi vous
+      avez besoin de plus d'informations, vous pouvez visiter le lien suivant : \r\nhttps://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html\r\n\r\n<color=#610078><size=60>d.
+      Proc\xE9dure de licenciement.</size></color>\r\n\r\n\tIl est tr\xE8s important
+      que, en plus d'avoir une cause justifiant la rupture du contrat avec l'employ\xE9(e)
+      de m\xE9nage, la proc\xE9dure pour effectuer la rupture soit respect\xE9e,
+      car sinon cela pourrait \xEAtre consid\xE9r\xE9 comme un \xAB licenciement
+      \xBB et donc d\xE9clar\xE9 injustifi\xE9. La proc\xE9dure \xE0 suivre est la
+      suivante :\r\n\r\nAccorder un pr\xE9avis \xE9crit\r\n\r\n\tIl est n\xE9cessaire
+      de donner un pr\xE9avis au travailleur de 7 jours naturels, ou de 20 jours
+      si le travailleur est en poste depuis plus d'un an au domicile. Le pr\xE9avis
+      doit toujours \xEAtre donn\xE9 par \xE9crit et doit \xEAtre sign\xE9 par les
+      deux parties. Si le pr\xE9avis ne peut \xEAtre donn\xE9, il devra \xEAtre compens\xE9
+      dans le solde de tout compte correspondant.\r\n\r\nLettre de rupture\r\n\r\n\tLors
+      du pr\xE9avis, l'employeur doit fournir au travailleur la lettre dans laquelle
+      sont clairement et sans ambigu\xEFt\xE9 indiqu\xE9s le motif et les raisons
+      pour lesquelles il a d\xE9cid\xE9 de mettre fin au contrat, ainsi que la date
+      \xE0 laquelle cette rupture sera effective. En plus de mentionner la cause,
+      celle-ci doit \xEAtre justifi\xE9e et argument\xE9e ; il ne suffit pas d'indiquer
+      qu'il est proc\xE9d\xE9 \xE0 la rupture, il faut \xE9galement en fonder les
+      raisons.\r\n\r\nIndemnisation et solde de tout compte\r\n\r\n\tLe jour m\xEAme
+      du pr\xE9avis, une indemnisation pour licenciement de 12 jours de salaire par
+      ann\xE9e de travail, avec un plafond de 6 mois de salaire, devra \xEAtre vers\xE9e
+      \xE0 l'employ\xE9(e) de m\xE9nage.\r\n\r\n\tLe solde de tout compte devra inclure
+      : le salaire des jours travaill\xE9s, la part proportionnelle des primes extraordinaires,
+      les cong\xE9s accumul\xE9s non pris et l'indemnit\xE9 de rupture. Dans le cas
+      o\xF9 le pr\xE9avis n'est pas donn\xE9, les jours correspondants devront \xEAtre
+      vers\xE9s dans le solde de tout compte.\r\n\r\nSignatures des documents\r\n\r\n\tIl
+      est important que la documentation soit toujours sign\xE9e par les deux parties
+      comme accus\xE9 de r\xE9ception. Si le travailleur refuse de signer la documentation,
+      il est important qu'un t\xE9moin puisse attester du jour o\xF9 la communication
+      a \xE9t\xE9 faite et l'envoyer par burofax.\r\n\r\n\tCette nouvelle norme vise
+      \xE0 abolir le licenciement sans cause, ce qui prot\xE8ge les employ\xE9(e)s
+      de m\xE9nage qui pouvaient \xEAtre licenci\xE9s sans conna\xEEtre la raison
+      de ce dernier.\r\n\r\n\tIl est tr\xE8s important de toujours conna\xEEtre les
+      proc\xE9dures et les raisons pour lesquelles nous pouvons mettre fin au contrat
+      avec l'employ\xE9(e) de m\xE9nage, car, si la proc\xE9dure n'est pas respect\xE9e,
+      cela pourrait \xEAtre d\xE9clar\xE9 injustifi\xE9, donnant droit \xE0 l'employ\xE9(e)
+      \xE0 une indemnisation de 20 jours de salaire par ann\xE9e de service, avec
+      un plafond de 12 mois de salaire.\r\n\r\nSOURCE : \r\n\r\n<color=blue><u><link=https://www.cuidum.com/blog/nueva-normativa-en-la-extincion-contrato-empleada-del-hogar/>https://www.cuidum.com/blog/nueva-normativa-en-la-extincion-contrato-empleada-del-hogar/</link>\r\n\r\n<link=https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html>https://www.sepe.es/HomeSepe/empresas/servicios-para-empresas/certificados.html</link>\r\n\r\n<link=https://aiudo.es/baja-voluntaria-en-las-empleadas-del-hogar/>https://aiudo.es/baja-voluntaria-en-las-empleadas-del-hogar/</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1770757525504
+    m_Localized: "<color=#610078><size=60>Ch\xF4mage</size></color>\r\n\r\n\tLe d\xE9cret
+      royal-loi 16/2022, du 6 septembre, visant \xE0 am\xE9liorer les conditions
+      de travail et de s\xE9curit\xE9 sociale des travailleurs au service du m\xE9nage
+      a pour objectif d'aligner les conditions de travail et de s\xE9curit\xE9 sociale
+      des travailleurs du m\xE9nage familial sur celles des autres travailleurs salari\xE9s.
+      Il stipule que l'indemnit\xE9 de ch\xF4mage fera partie de l'action protectrice
+      du syst\xE8me sp\xE9cial des employ\xE9s de maison.\r\n\r\n\tLa cotisation
+      au ch\xF4mage sera obligatoire pour les travailleurs employ\xE9s de m\xE9nage
+      \xE0 partir du 1er octobre 2022.\r\n\r\n\t\xC0 partir de janvier 2023, la cotisation
+      sera effectu\xE9e conform\xE9ment aux dispositions de la Loi de finances g\xE9n\xE9rales
+      de l'\xC9tat.\r\n\r\n\tSe trouvera en situation l\xE9gale de ch\xF4mage le
+      travailleur employ\xE9 de m\xE9nage dont le contrat de travail est rompu par
+      notification \xE9crite de l'employeur, devant clairement indiquer :\r\n\r\n\u25CF\tLa
+      volont\xE9 de l'employeur de mettre fin \xE0 la relation de travail.\r\n\r\n\u25CF\tLa
+      cause de la rupture de la relation de travail.\r\n\r\n<color=#610078><size=60>Quand
+      puis-je demander l'indemnit\xE9 de ch\xF4mage ?</size></color>\r\n\r\n\tLa
+      demande doit \xEAtre pr\xE9sent\xE9e dans un d\xE9lai de 15 jours ouvrables
+      suivant le dernier jour travaill\xE9. \r\n\r\nLa demande peut \xEAtre pr\xE9sent\xE9e
+      via :\r\n\r\n\u25CF\tLe site \xE9lectronique du SEPE\r\n\r\n\u25CF\tDans le
+      bureau des prestations (en prenant rendez-vous sur le site \xE9lectronique
+      du SEPE ou par t\xE9l\xE9phone).\r\n\r\n\u25CF\tDans tout bureau d'enregistrement
+      public.\r\n\r\n\u25CF\tPar courrier administratif.\r\n\r\n\tSi vous pr\xE9sentez
+      la demande d'indemnit\xE9 contributive en dehors des d\xE9lais, vous aurez
+      droit \xE0 son approbation \xE0 partir de la date de la demande, perdant autant
+      de jours d'indemnit\xE9 que ceux \xE9coul\xE9s entre la date \xE0 laquelle
+      cette indemnit\xE9 aurait \xE9t\xE9 approuv\xE9e si elle avait \xE9t\xE9 demand\xE9e
+      dans les d\xE9lais et la date \xE0 laquelle vous l'avez pr\xE9sent\xE9e.\r\n\r\n\tDans
+      les cas de situation l\xE9gale de ch\xF4mage par rupture de la relation de
+      travail, le travailleur peut contester la d\xE9cision de l'employeur.\r\n\r\n\tDans
+      ce cas, si vous ne vous \xEAtes pas inscrit et n'avez pas demand\xE9 dans le
+      d\xE9lai pr\xE9cit\xE9, vous disposerez d'un nouveau d\xE9lai de 15 jours pour
+      le faire, \xE0 partir de la date du proc\xE8s-verbal de conciliation ou de
+      l'option d'indemnisation, ou le cas \xE9ch\xE9ant, depuis la d\xE9cision judiciaire.\r\n\r\n\tLe
+      SEPE doit rendre une d\xE9cision dans les 15 jours suivant la date de la demande
+      et notifier dans les 10 jours suivant la date \xE0 laquelle elle a \xE9t\xE9
+      rendue.\r\n\r\n<color=#610078><size=60>Ai-je travaill\xE9 plus/moins d'un an
+      ?</size></color>\r\n\r\n\tPour obtenir des informations suppl\xE9mentaires,
+      vous pouvez consulter les liens suivants selon que vous avez travaill\xE9 plus
+      ou moins d'un an :\r\n\r\n\u25CF\tPlus d'un an : \r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-mas-de-un-ano.html>https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-mas-de-un-ano.html</link></u></color>\r\n\r\n\u25CF\tMoins
+      d'un an : \r\n\r\n<color=blue><u><link=https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-menos-un-ano.html>https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro/he-trabajado-menos-un-ano.html</link></u></color>\r\n\r\n<color=#610078><size=60>Comment
+      demander l'indemnit\xE9 de ch\xF4mage ?</size></color>\r\n\r\n\t\xC9tape 1
+      : Acc\xE8s aux Demandes\r\n\r\n1.\tAcc\xE9dez au portail des services en ligne
+      du SEPE.\r\n\r\n2.\tCliquez sur le bouton \u201CAcc\xE8s Demandes\u201D pour
+      voir les types de demandes disponibles.\r\n\r\n3.\tUtilisez un moyen d'authentification
+      et de signature num\xE9rique (Cl@ve, Certificat Digital ou DNIe).\r\n\r\n\t\xC9tape
+      2 : Type de Demandes\r\n\r\n1.\tS\xE9lectionnez le type de demande correspondant
+      \xE0 votre situation : demande initiale, reprise, options de compatibilit\xE9
+      du travail, etc.\r\n\r\n2.\tExaminez attentivement chaque option et choisissez
+      celle qui correspond \xE0 votre cas.\r\n\r\n\t\xC9tape 3 : Annexes des Demandes\r\n\r\n1.\tUne
+      fois la demande s\xE9lectionn\xE9e, visualisez les sections et sous-sections
+      disponibles.\r\n\r\n2.\tV\xE9rifiez que toutes les informations personnelles
+      soient correctes et compl\xE9tez les champs suppl\xE9mentaires si n\xE9cessaire.\r\n\r\n3.\tLisez
+      les textes l\xE9gaux ainsi que les obligations et engagements associ\xE9s \xE0
+      la demande.\r\n\r\n\t\xC9tape 4 : Confirmation de la Demande\r\n\r\n1.\tProc\xE9dez
+      \xE0 la signature de la demande en utilisant l'un des moyens d'accr\xE9ditation
+      disponibles (Cl@ve, Certificat Digital ou DNIe).\r\n\r\n2.\tSuivez les instructions
+      sp\xE9cifiques pour chaque m\xE9thode de signature.\r\n\r\n3.\tV\xE9rifiez
+      que le processus de signature soit correctement compl\xE9t\xE9.\r\n\r\n\t\xC9tape
+      5 : Signature de la Demande\r\n\r\n1.\tApr\xE8s avoir sign\xE9 la demande,
+      t\xE9l\xE9chargez et imprimez un re\xE7u du processus effectu\xE9 pour vos
+      dossiers.\r\n\r\n2.\tV\xE9rifiez toutes les informations suppl\xE9mentaires
+      fournies concernant les obligations en tant que b\xE9n\xE9ficiaire du droit
+      demand\xE9.\r\n\r\n3.\tRestez inform\xE9 sur l'\xE9tat de votre demande et
+      toute communication future du SEPE.\r\n\r\n*Lien du Minist\xE8re du Travail
+      et de l'\xC9conomie Sociale concernant le ch\xF4mage \r\n\r\n<color=blue><u><link=https://tinyurl.com/48v7r8u4>https://tinyurl.com/48v7r8u4</link></u></color>"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

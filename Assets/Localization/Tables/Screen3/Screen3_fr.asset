@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Screen3_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: fea5dbd6fc9c3a64093eae29de9236dc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6834589696
+    m_Localized: "Assistance socio-sanitaire \xE0 domicile pour les personnes \xE2g\xE9es,
+      service \xE0 l'heure, aide \xE0 domicile interne et aide-soignant(e) de nuit,
+      ainsi que des services de formation en comp\xE9tences socio-sanitaires.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182513012736
+    m_Localized: "Services d'aide et d'assistance \xE0 domicile apportant un soutien
+      global aux personnes \xE2g\xE9es et couvrant les besoins des personnes ayant
+      des difficult\xE9s \xE0 accomplir les activit\xE9s de base de leur vie quotidienne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186107531264
+    m_Localized: "Entreprise d'assistance socio-sanitaire, nous intervenons \xE0
+      domicile, \xE0 l'h\xF4pital et en maison de retraite.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 188628307968
+    m_Localized: "Offre des services de soin pour les personnes \xE2g\xE9es, tant
+      externes qu'internes, service de nuit et service le week-end.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191413325824
+    m_Localized: "Prestation de services de gardes internes, de gardes \xE0 l'heure
+      et de gardes de nuit.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195888648192
+    m_Localized: "Service d'aide \xE0 domicile pour les personnes \xE2g\xE9es et
+      les personnes d\xE9pendantes, service interne, \xE0 l'heure et t\xE9l\xE9assistance.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 199265062912
+    m_Localized: "Gestion du service d'Aide \xE0 Domicile, de T\xE9l\xE9assistance
+      et de Service d'Urgence Sociale.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201546764288
+    m_Localized: "Offre des services d'assistance aux personnes \xE2g\xE9es, aux
+      personnes handicap\xE9es et \xE0 mobilit\xE9 r\xE9duite, ainsi qu'aux enfants
+      dans des domiciles priv\xE9s, accompagnement \xE0 l'h\xF4pital, aide et assistance
+      dans les h\xF4tels.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205367775232
+    m_Localized: "Prestation de services d'attention socio-sanitaire, centres de
+      jour, soins aux personnes \xE2g\xE9es et aux personnes d\xE9pendantes.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208224096256
+    m_Localized: "Offre des services d'assistance aux personnes \xE2g\xE9es, \xE0
+      domicile, avec personnel interne, \xE0 l'heure et accompagnement \xE0 l'h\xF4pital.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209805348864
+    m_Localized: "Supl\xE1 Multiservices, Supl\xE1 Services Socio-\xE9ducatifs et
+      Madinat Sca\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210707124224
+    m_Localized: "Service de Nettoyage Sp\xE9cialis\xE9\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211814420480
+    m_Localized: "Nettoyage professionnel et services g\xE9n\xE9raux pour les entreprises
+      et institutions \xE0 Cordoue.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212523257856
+    m_Localized: "Nettoyage de collectivit\xE9s et de bureaux.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213156597760
+    m_Localized: "Nettoyage de collectivit\xE9s, de locaux, de bureaux, \xE0 domicile,\u2026\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213756383232
+    m_Localized: "Nettoyage de chantiers, nettoyage et entretien d'\xE9coles, de
+      bureaux, de cabinets, de cliniques, de garages d'immeubles, nettoyage de piscines,
+      d'entreprises, d'entrep\xF4ts,\u2026\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214360363008
+    m_Localized: "Brillo Cordob\xE9s S.L. Services de nettoyage et travaux de peinture,
+      d'\xE9lectricit\xE9, de ma\xE7onnerie, de plomberie,\u2026 et d'entretien int\xE9gral.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215039840256
+    m_Localized: "Serlinco Services G\xE9n\xE9raux de Nettoyage et de D\xE9sinfection.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215706734592
+    m_Localized: "Services de Nettoyage et multiservices.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216415571968
+    m_Localized: "NETTOYAGES ONOVAL\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217116020736
+    m_Localized: "Nettoyage et entretien.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217837441024
+    m_Localized: "Service de nettoyage commercial pour les entreprises.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 218491752448
+    m_Localized: "Nettoyage pour les entreprises et les particuliers. Maintenance.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219162841088
+    m_Localized: "Prestation de services d'assistance et de soins \xE0 domicile destin\xE9s
+      aux personnes \xE2g\xE9es et aux enfants.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219867484160
+    m_Localized: "Prestation de services de soins et d'aide aux personnes \xE2g\xE9es
+      et d\xE9pendantes, services domestiques \xE0 domicile et aides internes.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220505018368
+    m_Localized: "Prestation de services d'assistance \xE0 domicile pour les personnes
+      \xE2g\xE9es et d\xE9pendantes.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221176107008
+    m_Localized: "Prestation de services de soins et d'aide aux personnes d\xE9pendantes
+      et \xE2g\xE9es, services de formation en comp\xE9tences socio-sanitaires.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221780086784
+    m_Localized: "Prestation de services de gardes internes, de gardes \xE0 l'heure
+      et de gardes de nuit.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222451175424
+    m_Localized: "Prestation de services de promotion de la sant\xE9 pour les personnes
+      \xE2g\xE9es, soins aux personnes \xE2g\xE9es et d\xE9pendantes.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223092903936
+    m_Localized: "Prestation de services d'aide \xE0 domicile et de centre de jour.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223726243840
+    m_Localized: "Prestation de services de soins aux personnes \xE2g\xE9es et d\xE9pendantes.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224363778048
+    m_Localized: "Prestation de services d'attention socio-sanitaire, centres de
+      jour, soins aux personnes \xE2g\xE9es et aux personnes d\xE9pendantes.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225001312256
+    m_Localized: "Prestation de services d'attention socio-sanitaire, de centres
+      de jour, de soins aux personnes \xE2g\xE9es et aux personnes d\xE9pendantes.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225638846464
+    m_Localized: "Prestation de services d'attention socio-sanitaire.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226242826240
+    m_Localized: "Prestation de services d'attention socio-sanitaire.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226901331968
+    m_Localized: "Prestation de services de nettoyage pour les h\xF4pitaux, banques,
+      supermarch\xE9s, etc.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 227350122496
+    m_Localized: "Prestation de services de nettoyage \xE0 l'heure, employ\xE9es
+      de maison, garde d'enfants, nettoyage de maisons, etc.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228021211136
+    m_Localized: "Prestation de services de nettoyage industriel.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228591636480
+    m_Localized: "Prestation de services de nettoyage pour les entreprises et les
+      communaut\xE9s.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229195616256
+    m_Localized: "Prestation de services de nettoyage pour les particuliers et les
+      entreprises.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229807984640
+    m_Localized: "Prestation de services de nettoyage, enl\xE8vement de produits
+      et d\xE9chets dangereux, et d\xE9sinfection.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230374215680
+    m_Localized: "Prestation de services de nettoyage dans les bureaux, b\xE2timents,
+      garages, \xE9v\xE9nements, jardins et bien plus encore.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230974001152
+    m_Localized: "Prestation de services de nettoyage, jardinage, maintenance, et
+      nettoyage de v\xE9hicules.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 231544426496
+    m_Localized: "Prestation de services de maintenance des bureaux, communaut\xE9s,
+      garages et vitres.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232152600576
+    m_Localized: "Prestation de services de nettoyage de magasins et commerces, appartements
+      touristiques, salles de sport, communaut\xE9s, etc.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232823689216
+    m_Localized: "Prestation de services pour les collectivit\xE9s, les bureaux,
+      les cliniques, les logements, les vitres, les entrep\xF4ts, les h\xF4tels,
+      entre autres.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233389920256
+    m_Localized: "Prestation de services de nettoyage en profondeur pour les habitations.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 234052620288
+    m_Localized: "Prestation de services de nettoyage en profondeur pour les habitations.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6366301229056
+    m_Localized: "Prestation de services de nettoyage pour les maisons, les h\xF4pitaux,
+      les r\xE9sidences, ainsi que de soins pour les personnes \xE2g\xE9es.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Headers_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c5baa1dd501832f46b5693b8146e42c3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13302206464
+    m_Localized: "Rights of Domestic Workers\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 752338571264
+    m_Localized: "Informative Capsules\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769765904384
+    m_Localized: "Labor Resources for Domestic Workers\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774522245120
+    m_Localized: "Request for Private Advice\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1697751470080
+    m_Localized: What is household employment?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1723068289024
+    m_Localized: "Regulations\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1734652956672
+    m_Localized: "Registration in Social Security and Employment\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1746812243968
+    m_Localized: "Salary Table and Contribution Bases\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1759420321792
+    m_Localized: "Working Hours\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775568392192
+    m_Localized: "Vacations, Holidays, and Leave\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1788348436480
+    m_Localized: "Sick Leave\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1800025378816
+    m_Localized: "Termination of Employment\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816861315072
+    m_Localized: "Unemployment\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2339870052352
+    m_Localized: "Cognitive Stimulation and Deterioration Prevention\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2368831721472
+    m_Localized: "Cleaning Techniques\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2379267149824
+    m_Localized: "Food Handling\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2390302363648
+    m_Localized: "Prevention of Contagious Diseases\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2399005544448
+    m_Localized: "First Aid Techniques\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2410913173504
+    m_Localized: "Disinfection of Minor Wounds\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2422820802560
+    m_Localized: "Handling of Individuals\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2432794857472
+    m_Localized: "Use and Operation of Cranes\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2447021936640
+    m_Localized: "Chronic Diseases\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2460573732864
+    m_Localized: "Understanding Palliative Care\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2477120262144
+    m_Localized: "Stress Management for Caregivers\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2488222584832
+    m_Localized: "Prevention of Occupational Risks in the Sector\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2502781014016
+    m_Localized: "Gender Equality in Care\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3485288337408
+    m_Localized: "C\xF3rdoba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3519891345408
+    m_Localized: Sevilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3595413983232
+    m_Localized: "Home Assistance\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3658404040704
+    m_Localized: "Cleaning\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769643763437568
+    m_Localized: "Labor Resources for Domestic Workers (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769698117423104
+    m_Localized: Labor Resources for Domestic Workers (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802205810528256
+    m_Localized: "Cleaning (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802306306052096
+    m_Localized: Cleaning (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802155491463168
+    m_Localized: "Home Assistance (C\xF3rdoba)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802229999079424
+    m_Localized: Home Assistance (Sevilla)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956625500213248
+    m_Localized: Collaborating companies
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
